@@ -1,11 +1,11 @@
 ---
-title: "Martha Wells - All Systems Red"
-tags: novella, science fiction, space, Murderbot, cyborg, company, cooperation, survey
+title: "5/9 | Martha Wells - All Systems Red "
+tags: novella, science fiction, space, Murderbot, cyborg, company, corporation, survey, security, contract 5/9
 ---
 
 # Martha Wells - All Systems Red
 
-# Overall: 5/9 = 3/5
+# Overall: 5/9
 
 # Core: 3/9.
 A cyborg who had hacked its governor module fell in love with human through entertainment feeds.
