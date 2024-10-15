@@ -1,16 +1,12 @@
 ---
 title: "5/9 | Martha Wells - All Systems Red "
-tags: novella, science fiction, space, Murderbot, cyborg, company, corporation, survey, security, contract 5/9
+tags: novella, science fiction, space, Murderbot, cyborg, company, corporation, survey, security, contract, adventure
 ---
 
-# Martha Wells - All Systems Red
-
-# Overall: 5/9
-
-# Core: 3/9.
+# Core: 3/9
 A cyborg who had hacked its governor module fell in love with human through entertainment feeds.
 
-In other words, Murderbot just one day become conscious and then hacked its governor module.
+In other words, Murderbot just one day became conscious and then hacked its governor module.
 
 Though it triggers me to think the human right of robots if they have feelings like humans, the author or the team clearly embraced the idea without much serious, fundamental and academic discussion.
 
@@ -20,7 +16,7 @@ In the end of the story, some (cargo transport) bots seemed to like the Murderbo
 
 But all these core issues lack further explication here. That’s why I give low scores on the core.
 
-# Character: 6/9.
+# Character: 6/9
 + Murderbot: A shy introvert who was accustomed to accept orders and set off on its solitary wandering once it was liberated by Mensah.
 
 + Mensah: A good, responsible and compassionate female leader who might actually be an intrepid galactic explorer confirmed by Murderbot.
@@ -29,26 +25,31 @@ But all these core issues lack further explication here. That’s why I give low
 
 + Others: Sorry, no impressive moments except their kindness and competence. 
 
-# Plot: 9/9. 
-## Unusual occurrences happen:
+# Plot: 8/9: Complete within my expectation
+## Unusual occurrences happen
 Members in the research group protected by Murderbot were nearly killed by an unidentified fauna and found something missing on their given survey package. They tried to perform a field research on the missing parts but found nothing special. 
 Also there are signs turning out to be enemy's invasion.
 
-## Reveal the enemy and unite the team:
+## Reveal the enemy and unite the team
 Suddenly, they lost contact with the other survey team on the other continent. So they made a expedition to their habitat and encountered enemy who wanted to kill them. Murderbot saved them in time but its little secrets was revealed during repair.
 
 However, it was accepted by the group generally due to its heroic feats for the team before. It also pointed out they are abetted by their enemy to doubt its loyalty. Had it not been for its special autonomy, their enemy would hack it long time ago to kill them all. The team researched on their enemy and believed Murderbot's words.
 
 They therefore followed its suggestions,   deserted their habitat and sent their beacon to escape from the planet.
 
-## Final engagement:
+## Final engagement
 
 A small detachment including Murderbot and Mensah came back to identify their enemy but their blood-curdling enemy also figured them out in turn and called for an arrangement by destroying their beacon. 
 
 Murderbot and Mensah had to swindle their enemy to launch the other beacon for rescue. Murderbot protected Mensah from the disastrous consequences of the launch of the beacon. 
 
 ## The happy end
-Mensah permanently bought Murderbot when they came back and told to Murderbot that it’s a free agent since now though she had to be its guardian. Murderbot was clearly puzzled by the sudden liberty and didn't know what it wanted without human’s commands and required contracts. So it secretly left its favorite person who offered to accommodate it and set off on a self-exploration trip.
+Mensah permanently bought Murderbot when they came back and told to Murderbot that it’s a free agent since now though she had to be its guardian. Murderbot was clearly puzzled by the sudden liberty and didn't know what it wanted without human’s commands and required contracts. So it secretly left its favorite person who had just offered to accommodate it and set off on a self-exploration trip.
 
-# Details: 3/9.
-What kind of details did you expect from a novella? It encompassed enough details around the plot without any elaboration on that galactic world.
+# Details: 3/9
+What kind of details did you expect from a novella? It just encompassed enough details around the plot without any elaboration on the fantasy of that galactic world.
+
+I always feel the description of scenes is dry and drab. Maybe because it's a first-person perspective of a bot without education module who prefers watching serials to communicating through verbal words.
+
+
+# Overall: 5/9
