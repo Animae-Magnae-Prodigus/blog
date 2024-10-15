@@ -22,7 +22,7 @@ Tlacey: A bad women who robed the group of their work, cheated them to her homet
 the group including Rami, Maro and Tapan: Reckless and naive vases who need to be rescued by Murderbot.
 
 
-# Plot: 3/9: Simple and tedious because the antagonists are known and weak whereas the mates are reckless and foolish; However, the two lines of plots are weakly interconnected by a ComfortBot who therefore recognized the true identity of Murderbot.
+# Plot: 4/9: Simple and tedious because the antagonists are known and weak whereas the mates are reckless and foolish; However, the two lines of plots are weakly interconnected by a ComfortBot who therefore recognized the true identity of Murderbot.
 
 + Murderbot hitched a hide offered by Art who seemed more tender, powerful and intelligent than Murderbot and offered to medically alter Murderbot after it knew Murderbot's intention.
 + Murderbot was employed by a group of poor researchers for a voucher to its destination. (It puzzles me why Art cannot forfeit one since it could changed the records and hacked the permission.)
@@ -40,3 +40,4 @@ the group including Rami, Maro and Tapan: Reckless and naive vases who need to b
 Details on trivialities around the plot rather than on the infrastructure of that world was abundant.
 
 # Overall: 3/9
+This book taught me that the fame of brands or serials matters because readers would like to keep reading them even if the author botches one of its sequels up.
