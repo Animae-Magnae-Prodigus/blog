@@ -25,7 +25,8 @@ But all these core issues lack further explication here. That’s why I give low
 
 + Others: Sorry, no impressive moments except their kindness and competence. 
 
-# Plot: 8/9: Complete within my expectation
+# Plot: 7/9. Nothing appeared beyond my expectation but it indeed sent me on an emotional roller coaster.
+
 ## Unusual occurrences happen
 Members in the research group protected by Murderbot were nearly killed by an unidentified fauna and found something missing on their given survey package. They tried to perform a field research on the missing parts but found nothing special. 
 Also there are signs turning out to be enemy's invasion.
@@ -46,10 +47,10 @@ Murderbot and Mensah had to swindle their enemy to launch the other beacon for r
 ## The happy end
 Mensah permanently bought Murderbot when they came back and told to Murderbot that it’s a free agent since now though she had to be its guardian. Murderbot was clearly puzzled by the sudden liberty and didn't know what it wanted without human’s commands and required contracts. So it secretly left its favorite person who had just offered to accommodate it and set off on a self-exploration trip.
 
-# Details: 3/9
-What kind of details did you expect from a novella? It just encompassed enough details around the plot without any elaboration on the fantasy of that galactic world.
+# World and others: 3/9
+The world-building is so weak that it just encompassed enough details around the plot without any elaboration on the fantasy of that galactic world.
 
-I always feel the description of scenes is dry and drab. Maybe because it's a first-person perspective of a bot without education module who prefers watching serials to communicating through verbal words.
+Moreover, I always feel the description of scenes is dry and drab. Maybe because it's a first-person perspective of a bot without education module who prefers watching serials to communicating through verbal words.
 
 
 # Overall: 5/9

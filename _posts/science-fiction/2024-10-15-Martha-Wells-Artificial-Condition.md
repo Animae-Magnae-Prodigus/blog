@@ -23,7 +23,7 @@ Tlacey: A bad woman who robbed the group of their work, cheated them to her home
 the group including Rami, Maro and Tapan: Reckless and naive vases who need to be rescued by Murderbot.
 
 
-# Plot: 4/9: Simple and tedious because the antagonists are definite and weak whereas the mates are reckless and foolish; However, these two main plots are weakly interconnected by a ComfortBot who therefore recognized the true identity of Murderbot.
+# Plot: 4/9. Simple and tedious because the antagonists are definite and weak whereas the mates are reckless and foolish; However, these two main plots are weakly interconnected by a ComfortBot who therefore recognized the true identity of Murderbot.
 
 + Murderbot hitched a hide offered by Art who seemed more tender, powerful and intelligent than Murderbot. It even offered to medically alter Murderbot after it knew Murderbot's intention!
 + Murderbot was employed by a group of poor researchers for a voucher to its destination. (It puzzles me why Art cannot forfeit one since it could change the records and hack the permission.)
@@ -37,7 +37,7 @@ the group including Rami, Maro and Tapan: Reckless and naive vases who need to b
 + Tapan reunited with her crew. All characters parted. Art wished Murderbot one day to find its own crew.
 
 
-# Details: 3/9
+# World and others: 3/9
 As usual, details on trivialities around the plot rather than on the infrastructure of that world were abundant.
 
 # Overall: 3/9
