@@ -1,4 +1,3 @@
-
 ---
 title: "5/9 | Martha Wells - Rouge Protocol"
 tags: novella, science fiction, space, Murderbot, cyborg, adventure
