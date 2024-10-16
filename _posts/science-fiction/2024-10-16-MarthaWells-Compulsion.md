@@ -1,5 +1,5 @@
 ---
-title: "5/9 | Martha Wells - Artificial Condition"
+title: "5/9 | Martha Wells - Compulsion"
 tags: novellette, science fiction, Murderbot, cyborg
 ---
 
