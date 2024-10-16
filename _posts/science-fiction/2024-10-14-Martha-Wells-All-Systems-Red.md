@@ -47,7 +47,7 @@ Murderbot and Mensah had to swindle their enemy to launch the other beacon for r
 ## The happy end
 Mensah permanently bought Murderbot when they came back and told to Murderbot that it’s a free agent since now though she had to be its guardian. Murderbot was clearly puzzled by the sudden liberty and didn't know what it wanted without human’s commands and required contracts. So it secretly left its favorite person who had just offered to accommodate it and set off on a self-exploration trip.
 
-# World and others: 3/9
+# World and others: 6/9
 The world-building is so weak that it just encompassed enough details around the plot without any elaboration on the fantasy of that galactic world.
 
 Moreover, I always feel the description of scenes is dry and drab. Maybe because it's a first-person perspective of a bot without education module who prefers watching serials to communicating through verbal words.
