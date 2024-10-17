@@ -9,8 +9,7 @@ tags: novella, science fiction, space, Murderbot, cyborg, adventure
 # Character: 6/9
 
 
-# Plot: 8/9. Complete within my expectation
-
+# Plot: 8/9. Complete within my expectations.
 
 
 # World and others: 3/9
