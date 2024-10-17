@@ -1,5 +1,5 @@
 ---
-title: "3/9 | Martha Wells - Compulsion"
+title: "3/9 | Martha Wells - Compulsion (The Murderbot Diaries #0.5)"
 tags: novellette, science fiction, Murderbot, cyborg
 ---
 

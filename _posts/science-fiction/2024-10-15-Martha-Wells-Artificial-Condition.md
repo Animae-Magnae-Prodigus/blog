@@ -1,5 +1,5 @@
 ---
-title: "3/9 | Martha Wells - Artificial Condition"
+title: "3/9 | Martha Wells - Artificial Condition (The Murderbot Diaries #2)"
 tags: novella, science fiction, space, Murderbot, cyborg, adventure
 ---
 
