@@ -1,20 +1,20 @@
 ---
-title: "5/9 | Martha Wells - Artificial Condition (The Murderbot Diaries #1)"
-tags: novella, science fiction, space, Murderbot, cyborg, adventure
+title: "0/9 | Author - Title"
+tags: Tags
 ---
 
-# Core: 3/9. 
+# Core: 0/9. 
 
 
-# Character: 6/9. 
+# Character: 0/9. 
 
 
-# Plot: 8/9. 
+# Plot: 0/9. 
 
 
-# World and others: 3/9. 
+# World and Others: 0/9. 
 
 
-# Overall: 5/9. 
+# Overall: 0/9. 
 
 
