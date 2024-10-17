@@ -39,7 +39,7 @@ Other human: No impressive behavior. It would be better if Martha Wells learned 
 + Murderbot hacked another ship to bring the evidence to Dr. Mensah in person after hearing Abene's crying.
 
 # World and others: 4/9. So-so.
-Things would be more dramatic if the author was able to give more details on trivial cases Murderbot managed to deal with and render information on that world through them.
+Things would be more dramatic if the author was able to give more details on trivial cases Murderbot managed to deal with and render information on that world through them. Otherwise it always represents a sense of unrealistic tale.
 
 I'm a bit disappointed when she skipped lots of descriptions on magnificent dynamic scenes like using a shuttle to bumble the zipper off its track.
 
