@@ -1,9 +1,9 @@
 ---
-title: "4/9 | Martha Wells - Rouge Protocol"
+title: "5/9 | Martha Wells - Rouge Protocol"
 tags: novella, science fiction, space, Murderbot, cyborg, adventure
 ---
 
-# Core: 0/9. Crap.
+# Core: 2/9. Bad.
 Sorry but the title of this book seems to have nothing to do with the context of the book. Is it because of Miki's last rebellion against its owner? The author didn't tell anything about it. Did she forget it?
 
 Also, I'm no longer attracted by Murderbot who are more like humans now, and the book lacks novel and interesting science fantasy.
@@ -46,5 +46,5 @@ I'm a bit disappointed when she skipped lots of descriptions on magnificent dyna
 I thought the storm mentioned a few times was the presage of a crumbling tractor array triggered by the encrypted signal. But since its final boss was just a combat bot rather than the catastrophe of a planet, I had to deduce that both the guardians and the combat bot were procrastinators.
 
 
-# Overall: 4/9. So-so.
+# Overall: 5/9. Slightly good.
 The writing style returned to normal in this book thanks to the formidable enemies.
