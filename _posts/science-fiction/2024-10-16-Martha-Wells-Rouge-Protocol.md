@@ -1,14 +1,14 @@
 ---
-title: "5/9 | Martha Wells - Rouge Protocol"
+title: "4/9 | Martha Wells - Rouge Protocol"
 tags: novella, science fiction, space, Murderbot, cyborg, adventure
 ---
 
-# Core: 0/9
+# Core: 0/9. Crap.
 Sorry but the title of this book seems to have nothing to do with the context of the book. Is it because of Miki's last rebellion against its owner? The author didn't tell anything about it. Did she forget it?
 
 Also, I'm no longer attracted by Murderbot who are more like humans now, and the book lacks novel and interesting science fantasy.
 
-# Character: 6/9.
+# Character: 5/9. Slightly good.
 Miki: An innocent pet robot or gull who loves its owner, Abene, and believes any human or robot who claims to protect Abene. It presumed Murderbot as its first bot friend and sacrificed itself to help Murderbot deal with the combat bot.
 
 Abene: The leader of the investigation team who treated Miki so benevolently and tenderly that it made Murderbot jealous.
@@ -17,7 +17,7 @@ GreyCris: It served as the antagonist again and played it well.
 
 Other human: No impressive behavior. It would be better if Martha Wells learned how to use smart dialogues to build characters and allot more paragraphs to represent characters there rather than Murderbot's endless chatter and self-propaganda.
 
-# Plot: 7/9. Complete within my expectations.
+# Plot: 7/9. Excellent. Complete within my expectations.
 
 ## Prelude
 + Murderbot intended to find some evidence against GreyCris to help Mensah. So it had to board a shuttle full of contract-labor-bound passengers and involuntarily served as their relationship counsellor. 
@@ -38,7 +38,7 @@ Other human: No impressive behavior. It would be better if Martha Wells learned 
 
 + Murderbot hacked another ship to bring the evidence to Dr. Mensah in person after hearing Abene's crying.
 
-# World and others: 6/9
+# World and others: 4/9. So-so.
 Things would be more dramatic if the author was able to give more details on trivial cases Murderbot managed to deal with and render information on that world through them.
 
 I'm a bit disappointed when she skipped lots of descriptions on magnificent dynamic scenes like using a shuttle to bumble the zipper off its track.
@@ -46,5 +46,5 @@ I'm a bit disappointed when she skipped lots of descriptions on magnificent dyna
 I thought the storm mentioned a few times was the presage of a crumbling tractor array triggered by the encrypted signal. But since its final boss was just a combat bot rather than the catastrophe of a planet, I had to deduce that both the guardians and the combat bot were procrastinators.
 
 
-# Overall: 5/9
+# Overall: 4/9. So-so.
 The writing style returned to normal in this book thanks to the formidable enemies.

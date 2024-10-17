@@ -3,7 +3,7 @@ title: "5/9 | Martha Wells - All Systems Red "
 tags: novella, science fiction, space, Murderbot, cyborg, company, corporation, survey, security, contract, adventure
 ---
 
-# Core: 3/9
+# Core: 3/9. Slightly Bad.
 A cyborg who had hacked its governor module fell in love with human through entertainment feeds.
 
 In other words, Murderbot just one day became conscious and then hacked its governor module.
@@ -16,7 +16,7 @@ In the end of the story, some (cargo transport) bots seemed to like the Murderbo
 
 But all these core issues lack further explication here. That’s why I give low scores on the core.
 
-# Character: 6/9
+# Character: 4/9. So-so. Characters here are mostly for the plot.
 + Murderbot: A shy introvert who was accustomed to accept orders and set off on its solitary wandering once it was liberated by Mensah.
 
 + Mensah: A good, responsible and compassionate female leader who might actually be an intrepid galactic explorer confirmed by Murderbot.
@@ -25,7 +25,7 @@ But all these core issues lack further explication here. That’s why I give low
 
 + Others: Sorry, no impressive moments except their kindness and competence. 
 
-# Plot: 7/9. Nothing appeared beyond my expectation but it indeed sent me on an emotional roller coaster.
+# Plot: 7/9. Excellent. Nothing appeared beyond my expectation but it indeed sent me on an emotional roller coaster.
 
 ## Unusual occurrences happen
 Members in the research group protected by Murderbot were nearly killed by an unidentified fauna and found something missing on their given survey package. They tried to perform a field research on the missing parts but found nothing special. 
@@ -47,10 +47,10 @@ Murderbot and Mensah had to swindle their enemy to launch the other beacon for r
 ## The happy end
 Mensah permanently bought Murderbot when they came back and told to Murderbot that it’s a free agent since now though she had to be its guardian. Murderbot was clearly puzzled by the sudden liberty and didn't know what it wanted without human’s commands and required contracts. So it secretly left its favorite person who had just offered to accommodate it and set off on a self-exploration trip.
 
-# World and others: 6/9
-The world-building is so weak that it just encompassed enough details around the plot without any elaboration on the fantasy of that galactic world.
+# World and others: 4/9. So-So. The world-building is so weak that it just encompassed enough details around the plot without any elaboration on the fantasy of that galactic world.
 
 Moreover, I always feel the description of scenes is dry and drab. Maybe because it's a first-person perspective of a bot without education module who prefers watching serials to communicating through verbal words.
 
 
-# Overall: 5/9
+# Overall: 5/9. Slightly good.
+I think it worth reading once.

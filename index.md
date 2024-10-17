@@ -15,12 +15,12 @@ For more details or reasons, go ahead the links. **Don't click the links of my n
 | Score | Meaning |
 | ----- | ------- |
 |   0   |  Crap   |
-|   1   |  Worse  |
+|   1   |  Terrible  |
 |   2   |  Bad    |
 |   3   | Slightly Bad |
 |   4   | So-so |
 |   5   | Slightly Good |
 |   6   |  Good   |
-|   7   |  Better |
+|   7   |  Excellent |
 |   8   |  Master |
 |   9   |  Epic   |
