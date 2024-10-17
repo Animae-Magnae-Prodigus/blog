@@ -11,8 +11,9 @@ The titles of my commenting posts follow the pattern of "scores I gave \| Author
 For more details or reasons, go ahead the links. **Don't click the links of my notes below unless you want to read spoilers!**
 
 # Standard
+
 | Score | Meaning |
-|:-----:|:-------:|
+| ----- | ------- |
 |   0   |  Crap   |
 |   1   |  Worse  |
 |   2   |  Bad    |
