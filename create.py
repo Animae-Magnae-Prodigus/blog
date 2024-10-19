@@ -2,7 +2,8 @@
 Read a book and create its format for notes
 """
 import datetime
-import sys
+import glob
+import os
 import csv
 import re
 
@@ -14,20 +15,23 @@ with open(ListFileName, "r", encoding="utf-8") as f:
     reader = csv.DictReader(f, dialect=dialect)
     fieldnames = reader.fieldnames
     books = [x for x in reader]
-    print(books)
+    # print(books)
 
+# exit()
 # find the current book
 current = None
 for book in books:
-    AuthorTitle = book["Author"] + "-" + book["Title"]
+    title = re.sub(r"\(.*\)", "", book["Title"])
+    author = re.sub(r"\.", "", book["Author"])
+    AuthorTitle = author + "-" + title
     AuthorTitle = re.sub(r" ", r"-", AuthorTitle)
-    import glob
-    if not glob.glob("*"+AuthorTitle+".md"):
+    if not glob.glob("**/*"+AuthorTitle+".md"):
         print(f"{AuthorTitle}")
         current = book
         break
 print(f"{current}")
 
+# exit()
 templateFileName = "template.md"
 with open(templateFileName, "r", encoding="utf-8") as f:
     template = f.read()
@@ -40,7 +44,11 @@ with open(templateFileName, "r", encoding="utf-8") as f:
 
 # output file
 outputFilename = datetime.date.today()
-outputFilename = outputFilename.isoformat() + "-" + AuthorTitle + ".md"
+outputFilename =  outputFilename.isoformat() + "-" + AuthorTitle + ".md"
+outputFilenamePath = os.path.join("_posts", current["Directory"], outputFilename)
 print(f"{outputFilename=}")
-with open(outputFilename, "w", encoding="utf-8") as f:
+print(f"{outputFilenamePath=}")
+print(f"{outputFilenamePath}")
+# exit()
+with open(outputFilenamePath, "w", encoding="utf-8") as f:
     f.write(template)

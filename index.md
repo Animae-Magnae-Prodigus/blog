@@ -2,6 +2,7 @@
 title: HOME
 ---
 
+"A good reader becomes a commentator. A better reader becomes a author. A best reader becomes a philosopher."
 
 Here reside my notes and comments on books, offered to fellow bibliophiles who share my common reading predilections.
 
