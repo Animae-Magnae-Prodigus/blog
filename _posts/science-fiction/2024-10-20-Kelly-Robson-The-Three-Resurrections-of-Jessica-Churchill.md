@@ -14,7 +14,9 @@ Jessica: the unlucky heroine but I don't agree with her two choices:
 However I thought Jessica was mentally damaged after she was raped even the alien who was able to fix her dilapidated body and resurrect her thrice could not heal her mental illness.
 
 Gran: Jessica's dying grandma whose story is unrelated to the plot
+
 Mom: Jessica's neglected mom
+
 rapist: a man who cheated Jessica that he was sent by her mom
 
 
