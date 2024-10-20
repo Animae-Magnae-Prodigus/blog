@@ -38,5 +38,5 @@ Why did the bear die?
 Why did the alien reject the hospital?
 
 
-# Overall: 2/9. Bad.
-Since this is one of the author's first fiction, I would not like to blackmail her. But she should practise more on writing plots and building the world.
+# Overall: 2/9. Bad. I blackmail Kelly Robson.
+Since this is one of the author's first fiction, I would not like to blackmail her. But I changed my mind after I found that someone commented on her *Gods, Monsters and the Lucky Peach* that her entire plot is based on characters doing stupid and dangerous things like this unreasonable heroine and therefore almost none of her characters were lovable. It's somewhat against my principle of science fiction, that is to find the miracle created by the intelligent, and therefore I blackmail Kelly Robson.
