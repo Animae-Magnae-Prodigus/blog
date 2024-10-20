@@ -20,7 +20,7 @@ Mom: Jessica's neglected mom
 rapist: a man who cheated Jessica that he was sent by her mom
 
 
-# Plot: 3/9. Slightly bad, depressive and Boring. But at least it's a complete story.
+# Plot: 2/9. Bad, depressive and Boring. Author seemed not to know the art of cliffhanger and her heroine often died of unreasonable hysteria.
 9/9/2001	Jessica hitchhiked and checked herself in the campground outhouse. After seeing two deep slices puckered down the inside of her right thigh, she panicked and died. The driver insisted on taking her right to Gran's.
 
 8/9/2001	A rapist claimed he was sent by her mom and coaxed her into his car. Then he raped her in the forest and killed her with his knife. Alien jumped to her and fixed her from the dead bear.
@@ -39,4 +39,4 @@ Why did the alien reject the hospital?
 
 
 # Overall: 2/9. Bad. I blackmail Kelly Robson.
-Since this is one of the author's first fiction, I would not like to blackmail her. But I changed my mind after I found that someone commented on her *Gods, Monsters and the Lucky Peach* that her entire plot is based on characters doing stupid and dangerous things like this unreasonable heroine and therefore almost none of her characters were lovable. It's somewhat against my principle of science fiction, that is to find the miracle created by the intelligent, and therefore I blackmail Kelly Robson.
+Since this is one of the author's first fiction, I would not like to blackmail her at first. But I changed my mind after I found that someone commented on her *Gods, Monsters and the Lucky Peach* that her entire plot is based on characters doing stupid and dangerous things like this unreasonable heroine and therefore almost none of her characters were lovable. It's somewhat against my principle of science fiction, that is to find the miracle created by the intelligent, and therefore I blackmail Kelly Robson.
