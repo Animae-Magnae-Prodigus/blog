@@ -22,13 +22,20 @@ rapist: a man who cheated Jessica that he was sent by her mom
 
 # Plot: 3/9. Slightly bad, depressive and Boring. But at least it's a complete story.
 9/9/2001	Jessica hitchhiked and checked herself in the campground outhouse. After seeing two deep slices puckered down the inside of her right thigh, she panicked and died. The driver insisted on taking her right to Gran's.
+
 8/9/2001	A rapist claimed he was sent by her mom and coaxed her into his car. Then he raped her in the forest and killed her with his knife. Alien jumped to her and fixed her from the dead bear.
+
 10/9/2001	Alien eliminated excess fluid through her pores so as to repair heroine. She asked whether Alien could repair her Gran. Alien confessed that it rode around in the bear after having their air crash and then found died Jessica. She found the rapist and she was too panicked that he would kill her and died.
+
 11/9/2001	Again shocked by 911, she doubted everything on Alien even it fixed her. Feeling the threat inside her probably, she committed suicide with the mirror.
 
 
 # World and Others: 0/9. Crap.
-What's the alien's purpose and origin? What did it want from Jessica? Why did they think they will also die with Jessica rather than jumping to another host? Why did the bear die? Why did the alien reject the hospital?
+What's the alien's purpose and origin?
+What did it want from Jessica?
+Why did they think they will also die with Jessica rather than jumping to another host?
+Why did the bear die?
+Why did the alien reject the hospital?
 
 
 # Overall: 2/9. Bad.
