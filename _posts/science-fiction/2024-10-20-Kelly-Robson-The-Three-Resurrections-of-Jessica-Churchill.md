@@ -11,7 +11,7 @@ Jessica: the unlucky heroine but I don't agree with her two choices:
 1. Jessica feared the rapist to the extent that she forgot calling the police or other people she trusted once she saw him. But if she let him escape, he would definitely do the same thing to other girls.
 2. Although the alien treated her and consistently tried to accost and appease her politely, yet she chose to suicide instead of reporting both things to the authority. Suicide means silence, which probably caused the alien to infect others through her died body like how it dealt with the bear.
 
-However I thought Jessica was mentally damaged after she was raped even the alien who was able to fix her repaired body and resurrect her thrice could not heal her mental illness.
+However I thought Jessica was mentally damaged after she was raped even the alien who was able to fix her dilapidated body and resurrect her thrice could not heal her mental illness.
 
 Gran: Jessica's dying grandma whose story is unrelated to the plot
 Mom: Jessica's neglected mom
