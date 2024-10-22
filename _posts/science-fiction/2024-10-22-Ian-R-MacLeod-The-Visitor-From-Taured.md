@@ -92,7 +92,7 @@ He displayed a sharp spike representing the asymmetrical pulse of a gravitationa
 
 ## 8 
 
-They discussed, watched stars, and made love.
+We discussed, watched stars, and made love.
 
 Next morning I sensed something was wrong, and what Rob expected didn't occur, and he went missing. 
 
