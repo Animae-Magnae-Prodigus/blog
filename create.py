@@ -46,9 +46,9 @@ with open(templateFileName, "r", encoding="utf-8") as f:
 outputFilename = datetime.date.today()
 outputFilename =  outputFilename.isoformat() + "-" + AuthorTitle + ".md"
 outputFilenamePath = os.path.join("_posts", current["Directory"], outputFilename)
-print(f"{outputFilename=}")
-print(f"{outputFilenamePath=}")
-print(f"{outputFilenamePath}")
+with open("nv.sh", "w") as f:
+    print(f"nvim {outputFilenamePath}")
+    print(f"nvim {outputFilenamePath}", file=f)
 # exit()
 with open(outputFilenamePath, "w", encoding="utf-8") as f:
     f.write(template)
