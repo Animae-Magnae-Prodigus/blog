@@ -72,6 +72,7 @@ Rob seemed to be a nomad now. And lots of assessors rejected his idea for low pr
 When I finished building a library, I decided to invite Rob only to find the accident of his father's catastrophe on the news. He complimented my library and told me that his father accidentally died in the same place with his mother.
 
 
+## 6
 
 His scientific career has been running on empty for years and therefore he decided to stay there to be a marine farmer on some remote island like his father.
 
@@ -83,7 +84,9 @@ I became a PR agent for Rob's long-planned experiment and found a vanished visit
 
 
 
-He displayed a sharp spike representing the asymmetrical pulse of a gravitational wave and expected to find echos of the black hole collision in another universe tonight.
+## 7 
+
+He displayed a sharp spike representing the asymmetrical pulse of a gravitational wave and expected to analyze and find echos of the black hole collision in another universe tonight.
 
 
 
