@@ -94,7 +94,7 @@ He displayed a sharp spike representing the asymmetrical pulse of a gravitationa
 
 We discussed, watched stars, and made love.
 
-Next morning I sensed something was wrong, and what Rob expected didn't occur, and he went missing. 
+Next morning I sensed something was wrong. The screen showed what Rob expected didn't occur, and he went missing. 
 
 
 
@@ -108,17 +108,20 @@ Because of my effort, books became popular again, but I abandoned my successful 
 
 
 
-# World and Others: 1/9. Terrible. Thank you for describing lots of boring details in the heroine's world, which has no discrepancies with reality. And the only thing the hero did to this world was to add a number to the suicide count.
+# World and Others: 1/9. Terrible.
+I can't sense heroine's world having many discrepancies with the reality. A world that she can pillage authors in the old era to make success only means a terrible dystopia where literature forgot its root.
+
+And the only thing the hero did to this world was to add a number to the suicide count.
 
 + AIs: It seems that they can help produce plots or interactive books once they are set up.
 
 + Books: They can leap about and give off sounds, smells, and textures. They can ask which character you'd like to be and what level to go next. Sounds great? But the author didn't depict them well. Instead, the heroine kept telling us what kind of analogue books she liked.
 
-+ Analogue Literature: It would be better if the author analyzed the differences among different ages in writing and thinking rather than the boast on how many books the author knows and how rich the heroine is to possess so many books.
++ Analogue Literature: It would be better if the author analyzed the differences among different ages in writing and culture rather than the boast on how many books the author knows and how rich the heroine is to possess so many books.
 
 + pulsing dance floor: It can change scenes, feeling like reality.
 
-+ Library: I just can't believe an age where libraries extinguish. It's impossible. Books, bookstores, publishers, readers, and writers will never die, even in the physical form.
++ Library: I just can't believe an age where libraries extinguish. It's impossible. It's horrible. It's dystopia. Books, bookstores, publishers, readers, and writers will never die, even in the physical form.
 
 
 
@@ -130,8 +133,6 @@ Someone said it's award-worthy, but in my perspective, it's just a tawdry novele
 
 I don't think I appreciate this author, though I appreciate the idea of this author that the essence of science fiction is scientific wonders. But did the author really think this work proposed any of it?
 
-
+Now I decided to only read short science fiction from qualified authors who at least understand how science works and write good plots abundant with wonders.
 
 By the way, why is alternate history a sub-genre of science fiction whereas magical realism is not?
-
-
