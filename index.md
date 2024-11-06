@@ -3,7 +3,11 @@ title: HOME
 ---
 
 # Principle
-"A good reader becomes a commentator. A better reader becomes a author. A best reader becomes a philosopher."
+A good reader becomes commentator.
+
+A better reader becomes author.
+
+A best reader becomes philosopher.
 
 # Introduction
 Here reside my notes and comments on books, offered to fellow bibliophiles who share my common reading predilections.
