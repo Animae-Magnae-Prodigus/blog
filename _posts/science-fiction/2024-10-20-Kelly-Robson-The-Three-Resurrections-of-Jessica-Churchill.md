@@ -1,9 +1,9 @@
 ---
-title: "2/9 | Kelly Robson - The Three Resurrections of Jessica Churchill"
+title: "1/9 | Kelly Robson - The Three Resurrections of Jessica Churchill"
 tags: Science Fiction, Short Story, Clarkesworld, Issue 101 - February 2015
 ---
 
-# Core: 4/9. So-so.
+# Core: 2/9. So-so.
 Alien that has the form of bacteria, acts as a parasite and communicate with heroine by sending scio-linguistic impulses. It can heal the host and therefore resurrects the girl thrice.
 
 # Character: 1/9. Terrible.
@@ -38,5 +38,5 @@ Why did the bear die?
 Why did the alien reject the hospital?
 
 
-# Overall: 2/9. Bad. I blackmail Kelly Robson.
-Since this is one of the author's first fiction, I would not like to blackmail her at first. But I changed my mind after I found that someone commented on her *Gods, Monsters and the Lucky Peach* that her entire plot is based on characters doing stupid and dangerous things like this unreasonable heroine and therefore almost none of her characters were lovable. It's somewhat against my principle of science fiction, that is to find the miracle created by the intelligent, and therefore I blackmail Kelly Robson.
+# Overall: 1/9. Terrible for me to blackmail Kelly Robson.
+Since this is one of the author's first fiction, I would not like to blackmail her at first. But I changed my mind after I found that someone commented on her *Gods, Monsters and the Lucky Peach* that her entire plot is based on characters doing stupid and dangerous things like this unreasonable heroine and therefore almost none of her characters were lovable. It's somewhat against my principle of science fiction, that is to find the miracle created by the intelligent, and will therefore I blackmail Kelly Robson forever.

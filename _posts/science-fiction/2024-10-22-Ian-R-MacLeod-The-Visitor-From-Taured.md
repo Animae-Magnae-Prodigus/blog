@@ -4,15 +4,15 @@ tags: Science Fiction, Short Story, Novelette, Best Science Fiction of the Year 
 ---
 
 # Core: 1/9. Terrible. Many worlds theory is a common trope derived from the quantum theory.
-However, can you imagine in a future age where Analogue Literature is intentionally set to research literature on paper and books are seen as ancient artifacts, the hero is still stuck up in hackneyed theories in the age of Analogue Literature and sacrificed himself for it? 
+However, can you imagine in a future era when Analogue Literature was intentionally set to research literature on paper and books were seen as ancient artifacts, the hero was still stuck up in hackneyed theories in the age of Analogue Literature and sacrificed himself for it? 
 
-What is his scientific theory to support his experiment? Why didn't the author show it up? What did other scientists really comment on his findings? If they support his theory, then he would like not to be alone. If it is theoretically right, at least there would be other scientists to prove his findings at the same time rather than a outside like heroine. What kind of progress had the hero made? Why did he commit suicide?
+What was his scientific theory to support his experiment? Why didn't the author show it up? What did other scientists really comment on his findings? If they proved his theory not ridiculous, then he would be unlikely to be alone because the experiment was able to prove it since if it was theoretically right, at least there would be other scientists to prove his findings at the same time rather than an outside like heroine. What kind of progress had the hero made? Why did he commit suicide? All these unsolved questions rendered me a sense of unreality.
 
-Plus, introducing the double-slit experiment is okay, but does it have any connection with the other plot? Or does it have any relevance with the previous questions? None! It exists because the author wants either to bore those who already studied basic physics in college (like me) or to confuse those who don't.
+Plus, introducing the double-slit experiment is okay, but does it have any connection with the other plot? Or does it have any relevance with the previous questions? None! It exists because the author wants either to bore those who already studied basic physics in college (like me) or to confuse those who didn't.
 
 The visitor from Taured is either an urban legend or a proof that confirmed his theory. But I surmise maybe the hero was mad enough to use the technique himself and accidentally caused it.
 
-# Character: 2/9. I'm about to applaud its lively characters, though I don't have any resonance with them and their deeds through the plot.
+# Character: 2/9. Bad. I'm about to applaud its lively characters, though I don't have any resonance with them and their deeds through the plot.
 + I, or the heroine: a bibliophile loving books and a successful businesswoman
 + He, hero or Rob Holm: A typical scientist in the fiction who earned enough money but stuck in his finding so madly that in the end he disappeared.
 
@@ -27,7 +27,7 @@ Because it's a love story rather than science fiction, frankly speaking. Even th
 
 I noticed Rob Holm because during the first week he was chatting with research fellows and quietly getting the best virtuals to hang out in.
 
-I studied Analogue Literature because I like these ancient artifacts called books. The books in her age are interactive.
+I studied Analogue Literature because I like these ancient artifacts called books. The books in my age are interactive.
 
 
 
@@ -47,7 +47,7 @@ But Rob invited others to share the house too. So both Rob and I had romantic re
 
 We headed out to the moors and I asked Rob to name some constellations for me. He believed there were other worlds all around us from his research on astrophysics.
 
-Rob took heroine to his laboratory and introduced the Double Slit Experiment and many worlds theory.
+Rob took me to his laboratory and introduced the Double Slit Experiment and many worlds theory.
 
 I replied that books were my other worlds, and Rob seemed genuinely interesting. And we therefore began a new phase in their relationship: We read and discussed books. 
 
@@ -109,11 +109,11 @@ Because of my effort, books became popular again, but I abandoned my successful 
 
 
 # World and Others: 1/9. Terrible.
-I can't sense heroine's world having many discrepancies with the reality. A world that she can pillage authors in the old era to make success only means a terrible dystopia where literature forgot its root.
+I can't sense heroine's world which is abundant with many discrepancies with the reality. A world that she can pillage authors in the old era to make success only means a terrible dystopia where the literature forgets its root.
 
 And the only thing the hero did to this world was to add a number to the suicide count.
 
-+ AIs: It seems that they can help produce plots or interactive books once they are set up.
++ AIs: It seems that they can help produce plots or interactive books once they set up some basic configuration.
 
 + Books: They can leap about and give off sounds, smells, and textures. They can ask which character you'd like to be and what level to go next. Sounds great? But the author didn't depict them well. Instead, the heroine kept telling us what kind of analogue books she liked.
 
@@ -127,12 +127,12 @@ And the only thing the hero did to this world was to add a number to the suicide
 
 # Overall: 2/9. Terrible. 
 
-Someone said it's award-worthy, but in my perspective, it's just a tawdry novelette. Its core is low. Its plot has no tension. Its characters are remote, with no clear motive or intention. Its depicted world is tedious and illogical.
+Someone said it's award-worthy, but in my perspective, it's just a tawdry novelette. Its core is low. Its plot has no tension. Its characters are remote, with no clear intention. Its world is tedious.
 
 
 
 I don't think I appreciate this author, though I appreciate the idea of this author that the essence of science fiction is scientific wonders. But did the author really think this work proposed any of it?
 
-Now I decided to only read short science fiction from qualified authors who at least understand how science works and write good plots abundant with wonders.
+Now I decided to only read short science fiction from qualified authors who at least understand how science works and write good plots dazzled with wonders.
 
 By the way, why is alternate history a sub-genre of science fiction whereas magical realism is not?

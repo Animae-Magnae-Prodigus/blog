@@ -6,16 +6,16 @@ tags: novella, science fiction, space, Murderbot, cyborg, adventure
 # Core: 1/9. Terrible.
 Sorry but the title of this book seems to have nothing to do with the context of the book. Is it because of Miki's unusual rebellion against its owner? But Murderbot explained later that it's also predetermined by its owner. The author didn't tell anything about it. Did she forget it?
 
-Also, I'm no longer attracted by Murderbot who are more like humans now, and the book lacks novel and interesting science fantasy.
+Also, I'm no longer attracted by Murderbot who appears more like human now, and the book seems to lack novel or interesting scientific elements.
 
 # Character: 5/9. Slightly good.
-Miki: An innocent pet robot or gull who loves its owner, Abene, and believes any human or robot who claims to protect Abene. It presumed Murderbot as its first bot friend and sacrificed itself to help Murderbot deal with the combat bot.
+Miki: An innocent pet robot or gull who loved its owner, Abene, and believed in any human or robot who claims to protect Abene. It presumed Murderbot as its first bot friend and sacrificed itself to help Murderbot defeat the combat bot.
 
 Abene: The leader of the investigation team who treated Miki so benevolently and tenderly that it made Murderbot jealous.
 
-GreyCris: It served as the antagonist again and played it well.
+GreyCris: It served as the antagonist again and played it well by just sending two mercenaries to destroy their crime evidence.
 
-Other human: No impressive behavior. It would be better if Martha Wells learned how to use smart dialogues to build characters and allot more paragraphs to represent characters there rather than Murderbot's endless chatter and self-propaganda.
+Other human: No impressive behavior. It would be better if the author learned how to use smart dialogues to build characters and allot more paragraphs to represent characters there rather than create Murderbot's endless chatter and self-propaganda.
 
 # Plot: 7/9. Excellent. Complete within my expectations.
 
