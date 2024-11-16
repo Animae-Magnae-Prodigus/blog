@@ -13,9 +13,11 @@ Nightfall is meant to be that peculiar occasion which would see the catastrophe,
 
 That's why protagonists constantly wondered why the darkness and stars drove the previous civilization into madness and destruction. Some of them tested themselves to the dark and stars but didn't find it horrible. Some of them surmised it's just a complete darkness and coldness that had annihilated civilizations. The recorded millions of stars were just illusions. Some of them proposed there exist two dozen distant and indifferent suns. 
 
-So when the once-in-a-millennium nightfall finally came about, they were all thrown into consternation by the sudden appearance and huge numbers of suns in the universe. (They were probably all dismayed or shocked by their tiny existence and overturn of senses.)
+So when the once-in-a-millennium nightfall finally came about, they were all thrown into consternation by the sudden appearance and huge numbers of suns in the universe. 
 
-# Character: 5/9. It possesses several lively characters, but I don't think the intention of the cultists is depicted well.
+They were probably all dismayed or shocked by their tiny existence and overturn of senses when they found their real universe is infinite, cold, dark and indifferent to their existence which overturned all their presumptuous beliefs.
+
+# Character: 5/9. It possesses several lively characters, but I don't think the intention of the cultists is depicted well. In addition, why the columnist had ridiculed Aton for two months and then suddenly came to ask Aton for the details?
 Aton: the director of Saro University, who was an astronomer and took charge of the observatory. He seemed strict and serious all the time.
 
 Theremon: the columnist who once ridiculed Aton and his colleagues by leading a campaign against Aton's efforts to warn the menaces and therefore thwarted Aton's attempt to save the world.
@@ -82,4 +84,7 @@ Gamma: The brightest sun in Lagash's 6 suns.
 # Overall: 5/9. Slightly good.
 Frankly speaking, I was appalled by the fact that even a work from about 80 years ago still betters some of the science fiction today.
 
-Still, I thought it indeed exists some imperfections such as the cultists and the world view.
+
+Still, I thought it indeed exists some imperfections such as the intention of cultists and the world view.
+
+
