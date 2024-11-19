@@ -50,7 +50,7 @@ Why did Siferra seem ignorant of cruelty and concerned with the killing issue su
 
 [Archaeology] [Psychology] [Astronomy] [Theology] Sheerin confirmed the mass insanity caused by the long darkness of the eclipse might contribute to the periodical conflagration. Siferra confirmed further from her radiocarbon dating of the Thombo culture. So the survival of their civilization depends on them: two astronomers, a psychologist, and an archaeologist. They decided to get some data from the Apostles of Flames through Theremon and then tell the public directly instead of resorting to the inert government because the time was limited for them. (Of course, in retrospect, they did no better than the government or even worse.)
 
-## Nightfall 2/9: Silverberg's adaptation seems to be more illogical. Why did scientists not resort to any other journalists or even the government through means like mass demonstration? What did the government do? Why people here are mad at the stars rather than darkness? Why came this kind of fear and craziness? They had plenty of leeway of 11 months in this book rather than 2 months in the original story! To sum up, this part seemed like a nasty copy with terrible modifications.
+## Nightfall 2/9: Silverberg's adaptation was more illogical. Why did scientists not resort to any other journalists or even the government through means like mass demonstration? What did the government do? Why people here were mad at the stars rather than darkness? Why came this kind of fear and craziness? They had plenty of leeway of 11 months in this book rather than 2 months in the original story! To sum up, this part seemed like a nasty copy with terrible modifications sabotaging the original pace and grace.
 
 ## Twilight 2/9. It depicted an anarchic post-apocalyptic world with disoriented perspectives on almost every character.
 However, I expected astronomers like Yemet, Beenay or Athor would like to make detailed scientific research on transitory stars since it's science fiction! 
@@ -70,8 +70,8 @@ Also, I'm not satisfied with this ending and all these plots without thrillers.
 
 
 
-# Overall: 2/9. Terrible
-I'm not satisfied with this version since it's just a perfunctory work, not an excellent masterpiece in the respects of laconism, tempo, information density, characteristics, themes, and especially logic.
+# Overall: 2/9. A horrible attempt of enlargement.
+I'm not satisfied with this version since it's just a perfunctory work, not an excellent masterpiece in the respects of laconism, tempo, information density, characteristics, themes, and especially logic compared to the original version.
 
 In addition, it would be more dramatic if the Apostles of Flame could be depicted as a more insidious enemy who sabotaged scientists' efforts of saving the world clandestinely and even disrupted Theremon's sensibility and rationality. Then scientists somehow managed to fight together against the antagonists positively in 11 months and gained the final victory just like the original optimistic ending. 
 
