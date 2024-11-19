@@ -22,7 +22,7 @@ with open(ListFileName, "r", encoding="utf-8") as f:
 current = None
 for book in books:
     title = re.sub(r"\(.*\)", "", book["Title"])
-    author = re.sub(r"\.", "", book["Author"])
+    author = re.sub(r"[\.;,]", "", book["Author"])
     AuthorTitle = author + "-" + title
     AuthorTitle = re.sub(r" ", r"-", AuthorTitle)
     if not glob.glob("**/*"+AuthorTitle+".md"):

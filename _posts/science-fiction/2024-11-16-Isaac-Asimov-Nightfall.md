@@ -4,7 +4,7 @@ tags: short story, novelette, science fiction, 1941, Astounding Science Fiction,
 ---
 
 
-# Core: 6/9. I would never forget this theme was derived from Emerson's poem.
+# Core: 6/9. I would never forget this theme was derived from Emerson's quote.
 > If the stars should appear one night in a thousand years, how would men believe and adore and preserve for many generations the remembrance of the city of God?
 
 Asimov then created an alien world holding an unending daylight by multiple suns and accordingly spun an impressive story, although the star here is not the symbol of God but the symptom of the hell.
@@ -15,7 +15,7 @@ That's why protagonists constantly wondered why the darkness and stars drove the
 
 So when the once-in-a-millennium nightfall finally came about, they were all thrown into consternation by the sudden appearance and huge numbers of suns in the universe. 
 
-They were probably all dismayed or shocked by their tiny existence and overturn of senses when they found their real universe is infinite, cold, dark and indifferent to their existence which overturned all their presumptuous beliefs.
+(I surmise that they were probably all dismayed or shocked by their tiny existence and overturn of senses when they found their real universe is infinite, cold, dark and indifferent to their existence which overturned all their presumptuous beliefs.)
 
 # Character: 5/9. It possesses several lively characters, but I don't think the intention of the cultists is depicted well. In addition, why the columnist had ridiculed Aton for two months and then suddenly came to ask Aton for the details?
 Aton: the director of Saro University, who was an astronomer and took charge of the observatory. He seemed strict and serious all the time.
@@ -75,6 +75,8 @@ A crimson glow grew in the Saro City. The long night had come again.
 Is it a searing planet compared to Earth?
 How did they observe a sky without darkness?
 How did their scientists find that Lagash was rotated about the sun rather than vice versa without proper observation? Is it enough just by observing and recording 6 suns?
+How could they never find out the fatality of darkness if they indeed had curtain and house in their architecture? They probably found out long time ago that darkness would be harmful to their mental health.
+Were their architecture different from ours?
 
 Alpha: Lagash's exact sun, about which Lagash really revolved. It has Beta and two other distant companion pairs.
 Beta: Alpha's immediate companion.
