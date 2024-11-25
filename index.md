@@ -17,8 +17,6 @@ Here reside my notes and comments on books, offered to fellow bibliophiles who s
 
 + **Spoiler Alert**: For more details or reasons, go ahead the links. **Don't click the links of my notes below unless you want to read spoilers!**
 
-+ No other aspects can get scores higher than the score of the plot in my reviews of fiction, since according to my aesthetics, the plot is the bone of fiction and anything else are like muscles and fat. Without the proper bone, that's to say, the wonderful plot, the story is lame or even deformed.
-
 + Only science fiction and detective fiction take the aspect of core into account.
 
 # Table of Scores
