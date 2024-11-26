@@ -47,8 +47,7 @@ outputFilename = datetime.date.today()
 outputFilename =  outputFilename.isoformat() + "-" + AuthorTitle + ".md"
 outputFilenamePath = os.path.join("_posts", current["Directory"], outputFilename)
 with open("nv.sh", "w") as f:
-    print(f"nvim {outputFilenamePath}")
-    print(f"nvim {outputFilenamePath}", file=f)
+    print(f"nvim {outputFilenamePath} list.tsv", file=f)
 # exit()
 with open(outputFilenamePath, "w", encoding="utf-8") as f:
     f.write(template)
