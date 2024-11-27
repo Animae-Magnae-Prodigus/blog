@@ -10,7 +10,7 @@ tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short st
 
 
 
-# Plot: 9/9. Humour, conflicts and drama abound in this work.
+# Plot: 8/9. Humour, conflicts and drama abound in this work. This score is for its vivid, interesting, funny scenes like rabbits in the singer's cleavage. Thought I doubt why did the mayor think Hopkins couldn't invent rabbits that could eat since he was able to invent rabbits could reproduce asexually.
 
 Hopkins, the mechanical engineer of universal genius, asked his bosses to raise his salary due to his indispensability and contribution. Stricker inclined to accept but Vorderteil opposed this decision out of fear that he would come up with new whim sooner or later once he was satisfied. Vorderteil was acquainted with the town's mayor, so when he learnt that Hopkins had bought a vacant lot and had filed a building permit to build a new factory, and when he reminded Hopkins of capability of making glazed colored glass toys that never break, he asked the mayor to foil Hopkins's nefarious plan. 
 
