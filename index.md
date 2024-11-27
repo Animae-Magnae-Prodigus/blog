@@ -3,14 +3,14 @@ title: HOME
 ---
 
 # Principle
-A good reader becomes commentator.
+A good reader becomes a commentator.
 
-A better reader becomes author.
+A better reader becomes an author.
 
-A best reader becomes philosopher.
+A best reader becomes a philosopher.
 
 # Introduction
-Here reside my notes and comments on books, offered to fellow bibliophiles who share my common reading predilections.
+Here reside my notes and comments on books, offered to fellow bibliophiles who share the same reading predilections as me.
 
 # Rules
 + The titles of my commenting posts follow the pattern of "scores I gave \| Author Name - Work Name".
