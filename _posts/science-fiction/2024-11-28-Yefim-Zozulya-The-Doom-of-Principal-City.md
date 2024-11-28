@@ -1,5 +1,5 @@
 ---
-title: "0/9 | Miguel de Unamuno - The principle city"
+title: "3/9 | Miguel de Unamuno - The principle city"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1864-1936, 1913
 ---
 
@@ -30,5 +30,5 @@ Finally, people in Principle City rebelled. Cave-ins and explosions in the lower
 # World and Others: 4/9. Absurd, surreal but convictive in some details. For example, why did conquerors plan to build the upper city and live there at such a high cost? Why did conquerors fail to stop the last rebellion as usual?
 
 
-# Overall: 3/9. 
+# Overall: 3/9. It would be better if Unamuno sculptured characters like President or even talked about the story from his perspective. If the plot could be added with more twists, it will be a marvelous work on anti-capitalism.
 
