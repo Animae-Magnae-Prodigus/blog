@@ -1,9 +1,9 @@
 ---
-title: "2/9 | W. E. B. Du Bois - The Comet"
+title: "3/9 | W. E. B. Du Bois - The Comet"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1868-1963, 1920
 ---
 
-# Plot: 4/9. Tawdry. A black poor man who knew how to call for help saved a white rich woman who knew only crying for help. Thriller? Adventure? Fight? Nothing! Only enormous craps on how the woman felt the man.
+# Plot: 4/9. Tawdry. A black poor man who knew how to call for help saved a white rich woman who knew only crying for help. Thriller? Adventure? Fight? Nothing! Only enormous craps on how the woman felt the man. I would give a higher score if this was ended with the part of two and the return of bigotry because a happy ending flushes the serious core.
 People were talking about the comet. President asked Jim, the messenger, to go down into the lower vaults for old records. Not only did he find lost records in the cavern but also gold in a rusty crust. 
 
 Suddenly the great stone closed, so he searched for the switch, only to find vault clerk's dead corpse outside. He wanted to call guards but death lay everywhere including the bank and the entire Wall Street. Newspaper told him that comet's tail swept past them at noon and brought deadly gas everywhere. 
@@ -17,7 +17,7 @@ They came back to her father's office to send rockets, and they got their reply.
 He took out a baby's filmy cap from his pocket and a brown woman carrying a dead dark baby called his name and jumped into his arms.
 
 
-# Core: 0/9. The apocalypse was the comet bringing lethal gas in New York City and only those in basements survived it. I don't understand the correlation between comet and gas.
+# Core: 3/9. The apocalypse was the comet bringing lethal gas in New York City and only those in basements survived it. I don't understand the correlation between comet and gas. But I gave some score to the idea that black lives matter.
 
 
 
@@ -25,10 +25,10 @@ He took out a baby's filmy cap from his pocket and a brown woman carrying a dead
 
 
 
-# World and Others: 0/9. Why had the newspaper already published the news but still only two people survived the apocalypse? It would be more efficient to notify people aloud on street. Did the news agency want the exclusive news at this moment?
+# World and Others: 1/9. It was set in New York city. Why had the newspaper already published the news but still only two people survived the apocalypse? It would be more efficient to notify people aloud on street. Did the news agency want the exclusive news at this moment?
 
 
 
-# Overall: 2/9. 
+# Overall: 3/9. 
 
 
