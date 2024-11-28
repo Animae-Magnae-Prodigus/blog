@@ -1,5 +1,5 @@
 ---
-title: "1/9 | Paul S 19cheerbart - The New Overworld"
+title: "1/9 | Paul Scheerbart - The New Overworld"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1863-1915, 1911
 ---
 
