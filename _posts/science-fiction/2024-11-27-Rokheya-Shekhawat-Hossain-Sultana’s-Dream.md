@@ -4,10 +4,10 @@ tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short st
 ---
 
 
-# Core: 4/9. If women can maintain their own nation, what would it be like? Or how does a nation look if they are dominated mostly by women? I like this core, but I don't think Hossain explained it well. In fact, this work demonstrated her ignorance of men, women, humanity, science, and society.
+# Core: 1/9. If women can maintain their own nation, what would it be like? Or how does a nation look if they are dominated mostly by women? I like this core, but I don't think Hossain explained it well. In fact, this work demonstrated her ignorance of men, women, humanity, science, and society.
 
 
-# Character: 2/9. What do you expect from a conte philosophe?
+# Character: 1/9. What do you expect from a conte philosophe? I bet Sultana didn't know Sara's true name till the end.
 
 
 # Plot: 2/9. An absurd dream. I don't like women disparaging men when they indeed made some contribution to society, like fighting for the country till death and developing the technology of solar heat. How was it different from men who ignore women's capability all the time?
@@ -30,7 +30,7 @@ Sara then took her to see the queen, who told her:
 
 
 # World and Others: 4/9. 
-The city looked like a nice garden because they forbade rail, cars, and freight, and only aerial conveyances were allowed. They also absorbed water from clouds, making the whole city fine all the time. Their chief food is fruits. Most of the equipment is driven by clear energy like sun-heat and electricity.
+The city looked like a nice garden because they forbade rail, cars, and freight, and only aerial conveyances were allowed. They also absorbed water from clouds, making the whole city fine all the time. Their chief food is fruit. Most of the equipment is driven by clear energy like sun-heat and electricity. I was a bit touched by this facade.
 
 
-# Overall: 3/9. Works like this seemed to smear the feminism. It would be more appropriate to write out the real struggle and obstacles women faced.
+# Overall: 2/9. Works like this seemed to smear the feminism. It would be more appropriate to write out the real struggle and obstacles women faced.
