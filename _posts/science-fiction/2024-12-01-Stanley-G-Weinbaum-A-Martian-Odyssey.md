@@ -1,5 +1,5 @@
 ---
-title: "0/9 | Stanley G. Weinbaum - A Martian Odyssey"
+title: "9/9 | Stanley G. Weinbaum - A Martian Odyssey"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1902-1935, 1934
 ---
 
@@ -45,11 +45,11 @@ Their lively conversation also made sure the entire odyssey was a light comedy.
 
 However I would give a higher score if the writer could provide more comparison to examples from Earth and more professional analysis from the crew for these creatures. Also it gave more tinges to these characters. Otherwise it's boring to listen to the monologue without others' excellent interruption.
 
-# World and Others: 6/9. I would give a higher score if the writer could provide more comparison with examples from Earth and more professional analysis from the crew towards these creatures. Otherwise it's a bit surreal like a fairy tale such as chubby turtle in the New Overworld.
+# World and Others: 8/9. I would give a higher score if the writer could provide more comparison with examples from Earth and more professional analysis from the crew towards these creatures. Otherwise it's a bit surreal like a fairy tale such as chubby turtle in the New Overworld.
 
 
 
-# Overall: 8/9. I feel extremely sorry to hear that he died only 1 year after he wrote such a masterpiece.
+# Overall: 9/9. I feel extremely sorry to hear that he died only 1 year after he wrote such a masterpiece.
 The work was so good that Asimov once said in the collection *The Best of Stanley G. Weinbaum* that the story made Weinbaum recognized as the world's best living science fiction writer and **at once almost every writer in the field tried to imitate him.** I thought there exist no other praises higher than this one. Attracting other writer to imitate your work is always the best honor for the writer, better than any other prizes in the world.
 
 Lovecraft commented him that he had that envisage to refrain from any cheap dramatics in which almost all adventure-pulpists wallow. Even after 36 years later, this work was still voted on the list of the best stories by the Science Fiction Writers of America.
