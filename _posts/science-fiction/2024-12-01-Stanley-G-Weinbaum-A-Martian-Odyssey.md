@@ -56,4 +56,4 @@ Lovecraft commented him that he had that envisage to refrain from any cheap dram
 
 Epic. Genius. Wonder.
 
-Then I go through its sequence called the Valley of Dream, I don't think it comparable to this one, though the sequence explained a lot and showed Weinbaum's marvellous thoughts. It's heard that he was about to write the third novella. But he died short after this scheme.
+Then I go through its sequence called Valley of Dreams, I don't think it comparable to this one, though the sequence explained a lot and showed Weinbaum's marvellous thoughts. It's heard that he was about to write the third novella. But he died short after this scheme.
