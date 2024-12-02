@@ -8,7 +8,7 @@ Jarvis set off from Mare Cimmerium, through Xanthus, Mare Chronium, to Thyle I o
 
 He went to Mare Chronium and then he found Tweel was fighting against black arms. When he saw the bag hung about the neck of Tweel demonstrating the civilization, he helped it to get rid of the antagonist. 
 
-The two began to communicate. First they exchanged their name and the basic vocabulary. But Tweel's language and thinking pattern were so strange and for Jarvis that it's Tweel who learnt some English quickly. Then they tried mathematics. It worked. Third Jarvis tested it with the astronomy. Tweel was able to add Deimos and Phobos to Mars, and moons to Earth. Since Mercury was invisible with naked eye, it proved Tweel's race could use telescopes (or they had extreme good vision). Tweel seemed to mistake Jarvis' gesture that he's from Earth for their own hilarious ritual rite. It's funny that they had comparable intelligence but they didn't have the same wavelength.
+The two began to communicate. First they exchanged their name and the basic vocabulary. But Tweel's language and thinking pattern were so strange for Jarvis that it's Tweel who learnt some English quickly. Then they tried mathematics. It worked. Third Jarvis tested it with the astronomy. Tweel was able to add Deimos and Phobos to Mars, and moons to Earth. Since Mercury was invisible with naked eye, it proved Tweel's race could use telescopes (or they had extreme good vision). Tweel seemed to mistake Jarvis' gesture that he's from Earth for their own hilarious ritual rite. It's funny that they had comparable intelligence but they didn't have the same wavelength.
 
 Although Tweel was destined for the south, yet it decided to come along with Jarvis heading towards North across Mare Chronium. Although Tweel had the ability of travelling fast, yet it always stuck with Jarvis slowly. It didn't drink water or eat any food but dug his nose into the sand from time to time. It had some feathery appendages to protect it against sandstorm. It could stuck his beak into the sand and drew up his legs and arms like leafless shrubs. Leroy, the biologist, thought it's a desert creature. 
 
@@ -28,9 +28,9 @@ Tweel took his glass pistol to kill the beast and it turned out to be the black 
 Tweel said, "You one-one-two, he one-one-two." It meant whatever you thought, the beast would show. 
 
 ## Mound Builders/Barrel Ants/Drum Ants
-Jarvis trudged along toward the mud-heap city. Tweel indicated it's the people of the south who built the canal besides it. Jarvis met drum ants who were pushing their carts. He tried to communicate with these creatures, but they only echoed his voice so as to do their own business. What he spoke to one of them would be immediately learnt by the next one. Tweel then said, "One-one-two, yes! Two-two-four, no!" It meant these creatures had lower intelligence than them.
+Jarvis trudged along toward the mud-heap city. Tweel indicated it's the people of the south who built the canal besides it. Jarvis met drum ants who were pushing their carts. He tried to communicate with these creatures, but they only echoed his voice so as to do their own business. What he spoke to one of them would be immediately received by another one as if they had the same mind. Tweel then said, "One-one-two, yes! Two-two-four, no!" It meant these creatures had lower intelligence than them.
 
-They entered the nearest mound but they were lost in the maze. They finally got to a domed chamber close to the surface where ants dumped loads of their carts into the wheel and sometimes even themselves! Jarvis saw a crystal beyond the wheel which could heal his thumb and nose. Then ants drummed all around them suddenly attempting to attack them, so the duo rushed out of the entrance quickly. But ants seemed too much to conquer. So Jarvis indicated Tweel to escape alone, which was rejected by Tweel loyally. Jarvis admitted that Tweel was a man. At such a crucial point, Putz found them and saved Jarvis. As long as Jarvis was fine, Tweel escaped from the scene immediately. 
+They entered the nearest mound but they were lost in the maze. They finally got to a domed chamber close to the surface where ants dumped loads of their carts into the wheel and sometimes even themselves! Jarvis saw a crystal beyond the wheel which could heal his thumb and nose. Then ants drummed all around and attack them suddenly, so the duo had to rushed out of the entrance. But ants seemed too much to solve. So Jarvis indicated Tweel to escape and leave him alone, which was rejected by Tweel loyally. Jarvis admitted that Tweel was a man. At such a crucial point, Putz found them and saved Jarvis. As long as Jarvis was fine, Tweel escaped from the scene immediately. 
 
 It turned out ants attacked them to take back the crystal stolen by Jarvis.
 
@@ -41,8 +41,12 @@ Of course the real Mars had no life and has no air, but the adverse preposition 
 
 
 
-# Character: 8/9. Who could hardly ever be unmoved by an intelligent, funny, and friendly Tweel? It seemed like the first intelligent alien in the history of science fiction and one of the most outstanding examples on how to use plots to sculpture characters.
-Meanwhile, crew members were also lively. Jarvis was a good chemist and storyteller. Suspicious Hamilton always questioned Jarvis' mentality. French Biologist Leroy helped analyze amazing creatures from time to time. German Engineer Putz said little but it's he who saved Jarvis' ass in the end. 
+# Character: 8/9. Who could hardly ever be unmoved by an intelligent, funny, and friendly Tweel? It seemed like the first intelligent alien friend in the history of science fiction and one of the most outstanding examples on how to use plots to sculpture characters.
+Meanwhile, crew members were also lively. Jarvis was a good chemist and storyteller. Suspicious Hamilton always questioned Jarvis' mentality as well as Tweel's intelligence.
+
+(As was indicated in the sequel, they two represented two different kinds of American towards aliens. One was suspicious,  conservative, anthropocentric, inimical; The other was comprehensive, open, fair and friendly. When Jarvis gave Tweel their advanced technology at the end of the sequel, Hamilton objected that they might compete with human ignoring the fact that Tweel saved Jarvis several times which was enough to show their kindness and it's very fair to return Tweel's favour.)
+
+French Biologist Leroy helped analyze amazing creatures from time to time. German Engineer Putz said little but it's he who saved Jarvis' ass in the end. 
 
 Their lively conversation also made sure the entire odyssey was a light comedy. 
 
@@ -59,4 +63,4 @@ Lovecraft commented him that he had that envisage to refrain from any cheap dram
 
 Epic. Genius. Wonder.
 
-Then I go through its sequel called Valley of Dreams, I don't think it comparable to this one, though the sequel explained a lot of foreshadowing here and showed Weinbaum's marvellous thoughts. It's heard that he was about to write the third novelette. But he died of lung cancer short after this scheme. Many authors like Otto Binder thought it was a real loss to science fiction because he was leading the way to new and untouched heights in creativeness.
+Then I go through its sequel called Valley of Dreams, I don't think it comparable to the first one, though the sequel explained a lot of foreshadowing here and showed Weinbaum's marvellous thoughts. It's heard that he was about to write the third novelette. But he died of lung cancer soon after this scheme. Many authors like Otto Binder thought it was a real loss to science fiction because he was leading the way to new and untouched heights in creativeness.
