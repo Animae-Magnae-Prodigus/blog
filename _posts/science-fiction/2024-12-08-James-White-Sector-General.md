@@ -33,22 +33,22 @@ They finally found the troublemaker was AACL floundering in the grid control cen
 
 Williamson with his broken arms, came to the room by kicking with his feet doggedly. He tried to coax Conway into killing the AACL. Conway rescued Williamson who couldn't help stopping by his own from the attack of AACL. Williamson told him that people were suffering and dying due to his irresolution and rejection. Conway pulled away from contact in rage, but his resolution was shaken when he found Williamson seemingly dead. He knew if he did nothing to AACL, people would die in this hospital, and no one could come to rescue them once they were out of oxygen.
 
-Williamson then persuaded him that if Conway had been in AACL's place, he would have wanted to sacrifice himself for more people's lives. Conway then took Williamson's gun and shot at AACL. He was shocked at the fact that this gun was the type with explosive bullets and a continuous automatic firing system, because he just wanted to hamper AACL's motion and then treat it immediately. After witnessing his homicide against his principle, he was about to commit suicide himself. 
+Williamson then persuaded him that if Conway had been in AACL's place, he would have wanted to sacrifice himself for more people's lives. Conway then took Williamson's gun and shot at AACL. He was shocked at the fact that this gun was the type with explosive bullets and a continuous automatic firing system, because he just wanted to hamper AACL's motion and then treat it immediately. After witnessing his homicide against his principle, he was about to commit suicide. 
 
 Then Engineers came in and carried both to O'Mara who told him that AACL was not an intelligent creature and therefore Conway didn't break his principle.
 
 
 ## Aftermath
-After a sound sleep, Williamson was fine, according to O'Mara. This time when Conway treated DBLF, he found himself somewhat agreeing with the Monitors' corrective psychiatry, and he couldn't tell if it was a moral degeneration or a symptom of growing up. He even thought Monitor Corps was too damned soft with some people in working on targets of his own species. 
+After Conway's sound sleep, O'Mara told him that Williamson was fine. This time when Conway treated DBLF, he found himself somewhat agreeing with the Monitors' corrective psychiatry, and he couldn't tell if it was a moral degeneration or a symptom of growing up. He even thought Monitor Corps was too damned soft with some people in working on patients of his own species. 
 
 He was taken off ward duty completely and transferred to a course of lectures in ship rescue. Out of worry, he consulted O'Mara whether it's okay to not see any patients for six weeks. O'Mara said a job was waiting for him, and therefore Conway had to take advantage of the time to learn useful stuff. Throughout these courses, Conway changed his previous negative opinions on O'Mara gradually.
 
 # Character: 8/9. At least I could memorize Conway, O'Mara, and Williamson.
-Conway: He's somewhat over-idealistic and immature, but also an honourable and responsible doctor.
+Conway: He's somewhat over-idealistic and immature, but also an honourable and responsible doctor. If a person is willing to die for his principle, you have to admire their action.
 
-Williamson: He's younger than Conway but was an excellent soldier who tried his best to fulfill his task. Without movable hands, he kicked to his destination doggedly and persuaded Conway to fire by wit.
+Williamson: He's younger than Conway but was an excellent soldier who tried his best to fulfill his task. Without movable hands, he kicked to his destination doggedly and persuaded Conway to fire by wit. He's the true hero here.
 
-O'Mara: He's a good leader who scorched mistakes but praised their feats. Though I don't think he is a qualifiable psychologist since typical psychologists are gentler than other people. No patients were willing to communicate with him if he kept this attitude.
+O'Mara: He's a good leader who scorched mistakes but praised feats of his inferiors. Though I don't think he is a qualifiable psychologist since typical psychologists are gentler than others. No patients were willing to communicate with him if he kept this attitude.
 
 # World and Others: 7/9. The inner structure and facilities of the hospital and various aliens were vividly depicted. Though I doubted the world as follows.
 + Was it somewhat irresponsible to call for an inexperienced doctor who had to learn the tape before treating his dying patients at such a big hospital?
@@ -59,6 +59,6 @@ O'Mara: He's a good leader who scorched mistakes but praised their feats. Though
 + Why were there so many Monitors in the hospital who took up high positions? What's the origin of the hospital?
 + Was it more sensible to put the classification of alien species at the beginning of the article rather than the end?
 
-# Core: 7/9. I highly appreciate the ideology of peace and health here and the eclecticism of this hospital. And this work also showed that the so-called peace was maintained by extreme violence and the idea of hating violence and wars was childish and foolish. It questioned whether a doctor should kill one patient for the safety of more people, though in the end James White deflected foxily from this conundrum. But it's interesting to experience a kid's mental growth in recognizing the grey between black and white.
+# Core: 8/9. I highly appreciate the ideology of peace and health here and the eclecticism of this hospital. And this work also showed that the so-called peace was maintained by extreme violence and the idea of hating violence and wars was childish and foolish. It questioned whether a doctor should kill one patient for the safety of more people, though in the end James White deflected foxily from this conundrum. But it's interesting to experience a kid's mental growth in recognizing the grey between black and white.
 
 # Overall: 8/9. James White conquers me with his excellent imagination and detailed worldbuilding.
