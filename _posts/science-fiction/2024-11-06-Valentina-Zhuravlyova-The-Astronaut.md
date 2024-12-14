@@ -1,5 +1,5 @@
 ---
-title: "3/9 | Valentina Zhuravlyova - The Astronaut"
+title: "4/9 | Valentina Zhuravlyova - The Astronaut"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction,
 ---
 
@@ -11,7 +11,7 @@ Fiction: 3/9. The logic of plot is fragile since it at least depicts a rash and 
 > Onward through the impossible.
 
 
-# Character: 6/9 -> 3/9. 
+# Character: 5/9
 + I: a doctor who narrates the story
 + chief archivist: he preserved the information as one of the remaining cabins from that accidents and provided it for me
 + Aleksey Zarubin: As the commander of the Pole, he possessed the calm wisdom of a researcher and the wild temperament of a warrior. He likes making, blending and preparing oil paints. 
@@ -66,5 +66,5 @@ It was said the twelfth point was written by the captain.
 + Central Archive of Space Travel: It looks like a white sail hanging over the water.
 + Bernard's star: Their destination. It takes 14 years or 40 months to flight there and back.
 
-# Overall: 3/9. Slightly Bad.
+# Overall: 4/9.
 I like space adventure because it's not dull as this article! If the plot is intriguing enough, I would not mind other kinds of fallacies. Otherwise if the author wants to highlight the astronauts' spirits, it would be more agreeable to ensure their intelligence.
