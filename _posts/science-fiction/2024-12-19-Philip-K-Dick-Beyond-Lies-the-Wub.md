@@ -22,4 +22,5 @@ Wub was served as a good dinner, at least for Franco. However Peterson had no ap
 
 
 
-# Overall: 6/9. It made me sympathetic with the Wub at first and disliked the captain's brutality in killing an intelligent alien who had precious capacities. So I was impressed when it turned out that the supposed powerless alien won and substituted the captain at last. Philip Dick was no doubt a great master in controlling readers' feelings.
+# Overall: 6/9. Cult
+It made me sympathetic with the Wub at first and disliked the captain's brutality in killing an intelligent alien who had precious capacities. So I was impressed when it turned out that the supposed powerless alien won and substituted the captain at last. Philip Dick was no doubt a great master in controlling readers' feelings. No wonder he was described as a cult writer in the introduction written by VanderMeers. It’s extremely simple and short but full of PDK’s spirit. I suppose that’s why VanderMeers chose it. 
