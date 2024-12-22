@@ -10,15 +10,15 @@ When Peterson discussed with the wub on Odysseus, the angry captain who was just
 
 Wub was served as a good dinner, at least for Franco. However Peterson had no appetite and glumly stared at the table. When there's only two alone in the room, the replete captain wanted to continue the interrupted Odysseus. (It meant the wub could jump through minds and get into the new host via the eye contact. However, the capacity was presumably risky, since otherwise there would be no need for the wub to beg for its life.)
 
-# Core: 6/9. At least it depicted a unique space creature in the most dramatic way.
+# Core: 7/9. At least it depicted a unique space creature in the most dramatic way.
 
 
 
-# Character: 6/9. Why could forget a pig that quoted the Bible and discussed Odysseus with you? And it indeed resuscitated like Jesus!
+# Character: 7/9. Who could forget a pig that quoted the Bible and discussed Odysseus with you? And it indeed resuscitated like Jesus!
 
 
 
-# World and Others: 4/9. It's happened on a space ship travelling between Mars and Earth while selling extraterrestrial animals. The novella was too short to describe the world.
+# World and Others: 2/9. It happened on a space ship travelling between Mars and Earth while selling extraterrestrial animals. The novella was too short to describe the world. And I thought the captain was unqualified to hurt a special species for just food. It would be more sensible to earn money from its capacity.
 
 
 
