@@ -36,7 +36,7 @@ Cord was a typical rogue hero dealing with the mission of life and death alone a
 
 Grayan was a good friend who tried her best to help Cord to stay here.
 
-Regent was a female leader here! And she was not panic and even directed Cord calmly how to deal with it preliminarily.
+Regent was a female leader here! And she was not panic and even directed Cord calmly how to deal with it preliminarily and left Cord himself to decide what to do next.
 
 Even Nirmond who wanted to sack Cord showed his intelligence somehow.
 
