@@ -1,5 +1,5 @@
 ---
-title: "7/9 | James H. Schmitz - Grandpa"
+title: "8/9 | James H. Schmitz - Grandpa"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1911-1981, 1955
 ---
 
@@ -26,12 +26,12 @@ But after watching Grandpa eat sentient riders attentively, he got the epiphany 
 
 So he got rid of the yellowhead under Grandpa and regained the control eventually.
 
-# Core: 7/9. It emphasizes the importance  of not sticking to written rules too blindly to beware of minor aberrations especially in the exotic environment.
+# Core: 8/9. It emphasizes the importance of not sticking to written rules too blindly to beware of minor aberrations especially in the exotic environment. Also, it gave a unique extraterrestrial biological style to emphasize the significance of the independent research.
 Even the most familiar entity with unexpected changes needs to be investigated thoroughly till the aberration could be explained.
 
 
 
-# Character: 7/9. It's impressive to see good female characters for a sci-fi written in 1955.
+# Character: 7/9. It's impressive to see good female characters for a sci-fi written in 1955. I would give a higher score if woman here played a more important role.
 Cord was a quintessential rogue hero dealing with the mission of life and death alone and eventually proving his bravery by breaking through the seemingly impossible challenge. Although I cannot agree with his sedation that silenced all the potential suggestions or last words.
 
 Grayan was a good friend who tried her best to help Cord to stay here.
@@ -42,7 +42,7 @@ Even Nirmond who wanted to sack Cord showed his intelligence somehow.
 
 
 
-# World and Others: 7/9. The alien environment was fabulous, with the captivating details of its fauna and flora. From ugly yellowhead to brutal snappers, the world felt rich and impressive.
+# World and Others: 8/9. The alien environment was fabulous, with the captivating details of its fauna and flora. From ugly yellowhead to brutal snappers, the world felt rich and impressive. A lively yet dangerous world was the best place for an adventurous spirit.
 
-# Overall: 7/9. I look forward to reading  more of Schmitz's works especially his books with heroines because I'm fascinated with adventurous characters navigating intricate nature.
+# Overall: 8/9. I look forward to reading  more of Schmitz's works especially his books with heroines because I'm fascinated with adventurous characters navigating intricate nature.
 
