@@ -1,5 +1,5 @@
 ---
-title: "5/9 | Theodore Sturgeon - The Man Who Lost the Sea"
+title: "6/9 | Theodore Sturgeon - The Man Who Lost the Sea"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1918-1985, 1959
 ---
 
@@ -19,6 +19,7 @@ The sun rose and exposed the truth. Beside him was not the sea but a vast of san
 
 The man realized the doll and boy was actually him who was about to die of radiation on Mars. He missed the sea because only people who often drifted in the seas truly loved their **Earth**. His last word was, "God, we made it!"
 
+### In Brief
 1. Man shushed the boy away because of his sickness and decided to calculate the orbit to while the time.
 2. Boy told him the incident in the sea.
 3. After 50 minutes passed, boy showed him the rocket.
@@ -26,11 +27,12 @@ The man realized the doll and boy was actually him who was about to die of radia
 5. When sun fully arose and showed the footprints and the ruins, he realized the truth and recalled everything.
 6. Thus ended the story.
 
-# Core: 5/9. I resonated with the loneliness and despair it intended to pass. But why could a demented and sick person calculate out complicated mathematics? I liked the metaphor of the sea which represented the amoebae of fear and loneliness. I haven't read better suspense fiction on the last thought of a sick and demented man since ever.
+# Core: 7/9. I resonate with the loneliness and despair it intended to pass and like the metaphor of the sea which represented the amoebae of fear and loneliness. I haven't read better suspense fiction on the last thought of a sick and demented man since ever. I think one 
 
 
 
-# Character: 3/9. Sorry. But I can not feel the uniqueness of the hero. I would give a higher score if Sturgeon could give more detail on the mission and the life of the man. I did not even know his name at the end of the story. Why did a man who get a lesson of never diving alone would agree to explore the Mars alone?
+# Character: 4/9. Sorry. But I can not feel the uniqueness of the hero. I would give a higher score if Sturgeon could give more detail on the mission and the life of the man.
+I did not even know his name at the end of the story. Why did a man who get a lesson of never diving alone would agree to explore the Mars alone? Why could a demented and sick person calculate out complicated mathematics? 
 
 
 
@@ -38,4 +40,4 @@ The man realized the doll and boy was actually him who was about to die of radia
 
 
 
-# Overall: 5/9. I understand now why Vandermeer said in the prelude that Sturgeon's work sometimes were overly sentimental. I often fear this type of science fiction writers because they often hid their lack of wisdom with bounty of emotion. But Sturgeon was clearly not one of them. The story was worth reading again and the creating mechanism was worth borrowing.
+# Overall: 6/9. I understand now why Vandermeer said in the prelude that Sturgeon's work sometimes were overly sentimental. I often fear this type of science fiction writers because they often hid their lack of wisdom with bounty of emotion. But Sturgeon was clearly not one of them. The story was worth reading again and the creating mechanism was worth borrowing.

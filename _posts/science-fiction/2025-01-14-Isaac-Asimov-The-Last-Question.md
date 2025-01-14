@@ -4,7 +4,7 @@ tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short st
 ---
 
 # Plot: 6/9. Asimov created a mythology on the alpha and omega of the universe around the problem of entropy.
-Asimov listed people in five different eras (when people could store the sunlight to energy massively and abandon all the power plant, when people had to migrate into another galaxy massively owing to the overpopulated Earth, when people had filled one galaxy, when people would sooner use their minds to soar everywhere than manipulate their immortal bodies, when all human's minds were amalgamated into the one called Man, and when all the resource had been used up and the universe was going to die) who once asked AC, the greatest general computer in every era, on whether the entropy of the universe could be decreased.
+Asimov listed people in five different eras (when people could store the sunlight to energy massively and abandon all the power plants, when people had to migrate into another galaxy massively owing to the overpopulated Earth, when people had filled one galaxy, when people would sooner use their minds to soar everywhere than manipulate their immortal bodies, when all human's minds were amalgamated into the one called Man, and when all the resource had been used up and the universe was going to die) who once asked AC, the greatest general computer in every era, on whether the entropy of the universe could be decreased.
 
 It always replied  that the data was not sufficient for a meaningful answer.
 
