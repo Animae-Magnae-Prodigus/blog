@@ -16,10 +16,10 @@ After the matter, energy, space and time had ended, the timeless AC finally calc
 
 # Character: 3/9. The time was too short for me to relate to any character. And AC here was more like a god than a computer I understand because one of the quintessential properties of the program is its finiteness.
 
-# World and Others: 6/9. The imagination of 5 future eras and the end and the reinitiation of the universe was indeed impressive at least in 1955.
+# World and Others: 6/9. The imagination of 5 future eras and the end and the reinitiation of the universe was indeed impressive at least in 1956.
 
 
 
-# Overall: 5/9. 
+# Overall: 5/9. Asimov was definitely an unforgettable character in the science fiction.
 
 
