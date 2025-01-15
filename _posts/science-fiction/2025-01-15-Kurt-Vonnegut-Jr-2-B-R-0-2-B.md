@@ -41,11 +41,11 @@ I think it showed that the selfishness, greed and chutzpa of people like Wehling
 So it impossible for the improvement of technology alone to annihilate violence, because people like Wehling are willing to kill others for their own profit no matter how many things they already have.
 
 
-# Character: 3/9. They're all driven by the plot. Since the title was quoted from Hamlet, why not build the hero against Hamlet on the quintessential question?
+# Character: 3/9. They're all driven by the plot. Since the title was quoted from Hamlet, why not build the hero against Hamlet on the quintessential question? I would give a higher score if Vonnegut stated more clearly about his purpose.
 
 
 
-# World and Others: 1/9. It's a cold and frivolous world. I'm more interested in how to get rid of disease and old age.
+# World and Others: 1/9. It's a cold and frivolous world. I'm more interested in how scientists were able to get rid of diseases and old age. Next time, I will never read sci-fi with this ridiculous opening.
 
 
 # Overall: 3/9. I hesitate to read more works on Vonnegut, for I like his mature writing skill but dislike his lack of depth and world-building.
