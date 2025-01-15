@@ -1,5 +1,5 @@
 ---
-title: "6/9 | William Tenn - The Liberation of Earth"
+title: "7/9 | William Tenn - The Liberation of Earth"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1920-2010, 1950, 1953
 ---
 
@@ -17,10 +17,10 @@ After nine generations, people were yet incapable of recovering the industry and
 # Core: 9/9. I love political satire especially because it still works today as long as there still exist nations who initiated wars on another lands but lured their stupid citizens that they were fighting for good name.
 May local people in Vietnam, Afghanistan, Iraq, Libya, Ukraine, and so on live away from wars one day in the future.
 
-# Character: 4/9. I just couldn't understand why the narrator was still brainwashed by two distinct phoney ideologies implanted by aliens had gone away many years ago. Meanwhile, the earthling in this story were too stupid, timid and subservient. But I was still a little moved by their optimism in the end.
+# Character: 5/9. I just couldn't understand why the narrator was still brainwashed by two distinct phoney ideologies implanted by aliens had gone away many years ago. Meanwhile, the earthling in this story were too stupid, timid and subservient. But I was still a little moved by their optimism in the end.
 
 
-# World and Others: 4/9. It had depiction  of intergalactic political structures and space war.
+# World and Others: 5/9. It had depictions of intergalactic political structures and space war. It's a little funny to see two species holding a long-running feud were so similar in essence.
 
 
-# Overall: 6/9. I would love to read more works by William Tenn because he not only rendered a good story, but also inspired me to believe in people's realistic action rather than big words.
+# Overall: 7/9. I would love to read more works by William Tenn because he not only rendered a good story, but also inspired me to believe in people's realistic action rather than big words.
