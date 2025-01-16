@@ -7,16 +7,18 @@ tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short st
 
 
 
-# Core: 4/9. One way to judge whether your nation is tyranny or not is to see whether the top tier obey the same rules they set for the lower. 
+# Core: 4/9. Actually, I didn't get the meaning of this story. The dystopia was not fully depicted to show punctuality was a bad thing.
+If someone keeps you busy and don't want you yo have leisure, it maybe owing to the fact that they want to manipulate you entirely without a good time to think thoroughly and properly.
+One way to judge whether your leader is tyrant of this type or not is to see whether they obey the same rules they set for you.
 
 
 
-# Character: 3/9. I cannot resonate with most of characters. They are all actually boilerplate without character arcs. 
+# Character: 3/9. I cannot resonate with most of characters. They are all actually boilerplates without arcs for merely the theatrical effect.
 ```
 Ticktockman = bad tyrant
 joker = good rebel
 ```
 
-# World and Others: 2/9. How could everyone believe it reasonable to relate unpunctuality with death? How could Ticktockman know whether a person was punctual or not in their private affairs? Did there exist any opportunity to appeal?
+# World and Others: 2/9. How could everyone believe it reasonable to relate unpunctuality with death? Since people laughed at Harlequin, in all probability they didn't like it either. How did it happen and why did it last? How could Ticktockman know whether a person was punctual or not in their private affairs? Did there exist any opportunity to appeal to the punishment?
 
-# Overall: 3/9. I think it just a little more funny than Paul Scheerbart's The New Overworld. Like Vonnegut, I prefer Ellison's writing skill to his world-building. They three are the same type of writers I mildly dislike.
+# Overall: 3/9. Like Vonnegut, I prefer Ellison's writing skill to his world-building. They are the same type of writers I mildly dislike for their gimmickry rather than sincerity or true wisdom.
