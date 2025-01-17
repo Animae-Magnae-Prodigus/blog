@@ -1,5 +1,5 @@
 ---
-title: "3/9 | Harlan Ellison - “Repent, Harlequin!” Said the Ticktockman"
+title: "3/9 | Harlan Ellison - “Repent, Harlequin!” Said the Ticktockman
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1934-2018, 1965
 ---
 
@@ -21,4 +21,4 @@ joker = good rebel
 
 # World and Others: 2/9. How could everyone believe it reasonable to relate unpunctuality with death? Since people laughed at Harlequin, in all probability they didn't like it either. How did it happen and why did it last? How could Ticktockman know whether a person was punctual or not in their private affairs? Did there exist any opportunity to appeal to the punishment?
 
-# Overall: 3/9. Like Vonnegut, I prefer Ellison's writing skill to his world-building. They are the same type of writers I mildly dislike for their gimmickry rather than sincerity or true wisdom.
+# Overall: 3/9. Like Vonnegut, I prefer Ellison's writing skill to his world-building. They are the same type of writers I mildly dislike for their gimmickry rather than logic, sincerity or true wisdom. I think them as fictionists writing scientific terminology instead of scientific content. But I will not reject their work, for they at least know how to write fiction.
