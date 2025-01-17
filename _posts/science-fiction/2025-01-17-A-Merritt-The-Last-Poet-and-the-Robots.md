@@ -15,11 +15,11 @@ tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short st
 
 
 
-# Character: 1/9. All the characters were created for the protagonist only. He's the egocentric God in this egotistical story.
+# Character: 2/9. All the characters were created for the protagonist only. He's the egocentric God in this egotistical story. Things would be more interesting if Lao was not such a submissive Chinese.
 
 
 
-# World and Others: 1/9. Unrealistic nonsense.
+# World and Others: 1/9. The structure of the society was absolutely unrealistic nonsense, let alone technology here was merely magic.
 
 
 
