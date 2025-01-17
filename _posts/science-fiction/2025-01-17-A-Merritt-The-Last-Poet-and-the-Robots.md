@@ -23,6 +23,6 @@ tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short st
 
 
 
-# Overall: 1/9. Why did Vandermeer put a fiction that was a part of round-robin novel here?
+# Overall: 1/9. Why did Vandermeer put a plausible science-fiction that was a part of round-robin novel here? It's hard for me to imagine this nasty work was derived from a 50-year-old journalist.
 
 
