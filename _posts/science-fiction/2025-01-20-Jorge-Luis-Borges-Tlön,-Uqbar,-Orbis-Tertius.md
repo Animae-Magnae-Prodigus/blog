@@ -33,4 +33,4 @@ It turned out that Ashe and his mates intentionally fabricated the illusory worl
 unconscious and few. In this way, the past was no less malleable than the future.
 + Things would be obscured in detail when they were totally forgotten by living creature.
 
-# Overall: 5/9. Could works of magic realism be conceived as science-fiction, if one includes even the type of alternative universe into this genre?
+# Overall: 5/9. Could works of magic realism be conceived as science-fiction, if one includes even the type of alternative universe into this genre? By the way, why does Borges always remind me of Stanislaw Lem?
