@@ -17,8 +17,10 @@ This conversion turned out to be a transcendence:
 
 They felt homo sapiens filthy and expected to explore the new world immediately with deep exhilaration. Therefore they determined not to come back temporarily for fear of being forced to their original state.
 
-# Core: 6/9. Are human still human when they are converted to other species? In this article, the answer would be definitely no: All the six earthlings ignored their duty immediately and did not concern human affairs, once they were converted to a higher life form.
+# Core: 5/9. Are human still human when they are converted to other species?
+In this article, the answer would be definitely no: All the six earthlings deserted their original duty immediately and did not concern human affairs at all, once they were converted to a higher life form.
 
+However, why did human appear to know nothing about Jovian's high intelligence and telepathy, after they did research thoroughly and even created a machine of conversion? How did they do it with this strange ignorance?
 
 
 # Character: 4/9. Enough to tell a story.
