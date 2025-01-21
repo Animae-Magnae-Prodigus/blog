@@ -6,11 +6,12 @@ tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short st
 # Plot: 7/9. It had a tint of religious story promoting a sublimation from the clumsy terrestrial husk.
 Kent Fowler, head of Dome No. 3, Jovian Survey Commission, sent Allen to accept the conversion from homo sapiens made of carbon to Loper, a Jovian life form made of ammonia.
 
-The experiment went smooth, but Allen did not came back to Dome like the previous four participants. Feeling guilty especially after Stanley had accused him of killing people endlessly to fulfill his own ambition and also wondering what's wrong with the project, he decided to convert himself along with his old dog Towser.
+The experiment went smooth, but Allen did not came back to Dome like the previous four participants. Feeling himself scourged by guilt especially after Stanley had accused him of killing people endlessly to fulfill his own ambition and also wondering what's wrong with the project, he decided to convert himself along with his old dog Towser.
 
 This conversion turned out to be a transcendence:
 + He sensed the originally hellish environment was turned into a serene heaven.
 + Towser could telepathize with him for the first time that it was no longer bothered with its ancient punk body.
++ They moved swifter than ever.
 + Fowler could now analyze and distinguish more colors.
 + Towser got the epiphany of vibration and Fowler also suddenly realized how to make the metal against the pressure of Jupiter.
 + They all concluded their original terrestrial poor-equipped bodies stymied them to know the true knowledge.
