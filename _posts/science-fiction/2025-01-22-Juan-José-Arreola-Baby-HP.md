@@ -11,7 +11,7 @@ tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short st
 + children should wear the gadget everywhere day and night even at school.
 
 
-# Core: 2/9. I don't think this article criticized consumerism. It just used the form of advertisement to satirize on children's excessive power. Maybe Arreola once had to tend some arbitrary child?
+# Core: 2/9. I don't think this article criticized consumerism. It just used the form of advertisements to satirize on children's excessive power. Maybe Arreola once had to tend some arbitrary child?
 
 
 # Characters: 1/9. The only character existed in this story was the narrator actually. What do you expect from an advertisement?
@@ -22,5 +22,4 @@ tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short st
 
 
 # Overall: 2/9. To be honest, this is not a feasible story but an unprocessed idea.
-
 
