@@ -4,7 +4,7 @@ tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short st
 ---
 
 # Plot: 5/9. I would give a higher score if Blish could render it in the form of mystery where mannikins fought together for their discovery of their origin story with more thrillers and suspenses in a quicker tempo and lesser words.
-Pilot thought their air accident and imminent death would be God's vengeance upon their hubristic mission of propagating adapted human across planets. Doctor declared that an adapted kind of life forms carrying their own genes and resembling them a lot in intelligence and characteristics would be invented here without any of their instructions or supports. So Doctor canvased crews for the best initial settings for the colonists as follows:
+Pilot thought their air accident and imminent death would be God's vengeance upon their hubristic mission of propagating adapted human across planets. Doctor declared that an adapted kind of life forms carrying their own genes and resembling them a lot in intelligence and characteristics would be invented here without any of their instructions or supports. So Doctor canvased crews for the best initial settings to the colonists as follows:
 
 + freshwater creatures
 + webbed extremities with thorns
@@ -21,7 +21,7 @@ Pilot thought their air accident and imminent death would be God's vengeance upo
 They also left metal records for their colonists hoping someday these mannikins could puzzle them out.
 
 ## 1.1
-Paras, one of the Protos, aka Eaters' natural enemies, woke Lavon, aka the avatar of Pilot, up from his shell, because they planned to drive Flosc, one of Eaters, out of his castle.
+Paras, one of the Protos, aka Eaters' natural enemies, woke Lavon, aka the avatar of Pilot, up from his shell, because they planned to drive Flosc, one of Eaters, out of their castle.
 
 Noc guided them to find hibernated Shar, aka the avatar of the doctor as well as the smartest thinker among them, and Phil who hibernated near Shar.
 
@@ -46,15 +46,17 @@ Para told the new Lavon that people came to their world out of the blue before t
 Lavon felt it boring and threatened to throw away the plates if Shar doted on this useless stuff. Para who had already feared human would left them one day to find their ancestors gladly obeyed and took the last plate off immediately ignoring Shar's desperate objection.
 
 ## 2.2 
-Frustrated with the loss of the plate subconsciously and curious about the universe outside the sky, Lavon felt obliged to climb and see. But near the water surface, he was suddenly sucked out of water by a strong tension and  drowned by the air. 
+Frustrated with the loss of the plate subconsciously and curious about the universe outside the sky, Lavon felt obliged to climb and see. But near the water surface, he was suddenly sucked out of water by a strong force and  drowned by the air. 
 
 ## 2.3
-Lavon recovered himself in his spore. After convalescence, he planned to make a ship to the outside. Some of his workers quitted from this crazy plan, but more young human were willing to devote for this project.
+Lavon recovered himself in his spore. After convalescence, he planned to make a ship and an outside expedition. Some of his workers quitted from this crazy plan, but more young human were willing to devote themselves to this project.
 
 ## 2.4
-Lavon rejected to give back the plate as usual but accepted to go along with them. They hauled up the wheels to break through the great tension along the space-mud interface. Eventually, they landed the ground.
+Lavon rejected to give back the plate as usual yet accepted to go along with them. 
 
-The scorching sun killed lots of their allies and therefore they had to hurry to canyon for fresh water by starlight that they witnessed for the first time.
+They hauled up the wheels to break through the great tension along the space-mud interface. Eventually, they landed on the ground with their tiny bottle-like tank for the first time.
+
+The scorching sun killed lots of their mates and therefore they had to hurry to canyon for fresh water by starlight that they witnessed for the first time.
 
 ## 2.5
 As they entered the pond of the canyon, Lavon saved a girl reminiscent of his previous incarnation from atrocious Eaters. The girl was curious about the weapon they used to beat Eaters and Lavon said that's cooperation. 
@@ -63,12 +65,10 @@ Para was impressed that human succeeded in leading them to conquer the space des
 
 Shar doubted whether they actually conquer the space, which was trivial to Lavon lusted after the girl now. 
 
-# Core: 6/9. Blish wasn't the first to write on pantrophy, but he was definitely one of the best to describe it in credible detail. His circumstantial text on the fictitious discipline called Pantrophy clearly demonstrated his deep knowledge of zoology and biology. I would give a higher score if he could write a better plot though.
+# Core: 6/9. Blish wasn't the first to write on pantrophy, but he was definitely one of the best to describe it in credible detail. His circumstantial account on the fictitious discipline called Pantrophy clearly demonstrated his deep knowledge of zoology and biology. I would give a higher score if he could write a better plot though.
 Were there any other expeditions who came here to find them or collect their carcasses? It's so cold-blooded otherwise.
 
-How were the original crew? How did they die? 
-
-Was it possible that these microscopic colonists one day would find their relics and their spaceship?
+How were the original crew? How did they die? Was it possible that these microscopic colonists one day would find their relics and their spaceship?
 
 Was it possible that these microscopic colonists one day could welcome human beings who came to investigate the original accident?
 
@@ -110,8 +110,8 @@ By the way, would it be okay if the number of women was less than men for a civi
 
 # Overall: 6/9. The work had better world-building than story-telling.
 
-The idea had a huge potential in improvement because the work had better world-building than story-telling.
-For example, I would give a higher score if Blish could omit the wordy prologue, render the story in the form of mystery where humans fought together for their discovery of their origin story with more thrillers and suspenses in a quicker tempo and lesser words.
+The work had a huge potential in improvement because it had better world-building than story-telling.
+For example, I would give a higher score if Blish could omit the wordy prologue or change it to the epilogue, render the story in the form of mystery where humans fought together for their discovery of their origin story with more thrillers and suspenses in a quicker tempo and lesser words.
 
 From the perspective of a reader, after reading the prologue, I expected that it could tell how little humans won their place in the cruel nature by unique wisdom and cooperation, how they interpreted their origin story arduously from generation to generation, how they found the relics of their original antecedents and marvelled at their huge bodies, and how they consolidated themselves into the current civilization of human beings again with the help of lost technology and finally fulfill Doctor's original wish. Therefore I'm disappointed of a scale from the pond to the ground in stead of a range from the pond to the space.
 
