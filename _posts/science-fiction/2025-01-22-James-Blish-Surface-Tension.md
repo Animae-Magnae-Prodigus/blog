@@ -17,6 +17,7 @@ Pilot thought their air accident and imminent death would be God's vengeance upo
 + definite break of duration in active years 
 + winter over shells
 + microscopic as the size of rotifier
++ haploid
 
 They also left metal records for their colonists hoping someday these mannikins could puzzle them out.
 
@@ -49,21 +50,23 @@ Lavon felt it boring and threatened to throw away the plates if Shar doted on th
 Frustrated with the loss of the plate subconsciously and curious about the universe outside the sky, Lavon felt obliged to climb and see. But near the water surface, he was suddenly sucked out of water by a strong force and  drowned by the air. 
 
 ## 2.3
-Lavon recovered himself in his spore. After convalescence, he planned to make a ship and an outside expedition. Some of his workers quitted from this crazy plan, but more young human were willing to devote themselves to this project.
+Lavon recovered himself in his spore. After convalescence, he and Shar planned to make a crawling ship and an outside expedition from the Bottom.
+
+Some of his workers quitted from this crazy plan, but more young human were willing to devote themselves to this project.
 
 ## 2.4
-Lavon rejected to give back the plate as usual yet accepted to go along with them. 
+Lavon rejected to give back the plate as usual yet accepted to go along with them for the sake of surveillance. 
 
 They hauled up the wheels to break through the great tension along the space-mud interface. Eventually, they landed on the ground with their tiny bottle-like tank for the first time.
 
 The scorching sun killed lots of their mates and therefore they had to hurry to canyon for fresh water by starlight that they witnessed for the first time.
 
 ## 2.5
-As they entered the pond of the canyon, Lavon saved a girl reminiscent of his previous incarnation from atrocious Eaters. The girl was curious about the weapon they used to beat Eaters and Lavon said that's cooperation. 
+As they entered the rivulet of the canyon, Lavon saved a girl reminiscent of his previous incarnation from atrocious Eaters. The girl was curious about the weapon they used to beat Eaters and Lavon said that's cooperation. 
 
 Para was impressed that human succeeded in leading them to conquer the space despite their stymie. It was about to die yet in an ignited confidence of knowledge. So it finally concealed the real location of the plate.
 
-Shar doubted whether they actually conquer the space, which was trivial to Lavon lusted after the girl now. 
+Shar doubted whether they actually conquer the space, which was trivial to Lavon who was currently lusting  after the girl.
 
 # Core: 6/9. Blish wasn't the first to write on pantrophy, but he was definitely one of the best to describe it in credible detail. His circumstantial account on the fictitious discipline called Pantrophy clearly demonstrated his deep knowledge of zoology and biology. I would give a higher score if he could write a better plot though.
 Were there any other expeditions who came here to find them or collect their carcasses? It's so cold-blooded otherwise.
@@ -76,14 +79,19 @@ Were the plates too difficult to be decoded? Why did they not inscribe more pict
 
 By the way, would it be okay if the number of women was less than men for a civilisation?
 
+How did these haploid propagate? If it was by gametogenesis as indicated in the context, then would the title be passed to these who didn't have any resemblance of their original owners?
+
+Plus, how did the savage girl understand Lavon's language immediately since they had never met before? Protos knew the language because they were taught before but how did the girl know?
+
 # Character: 4/9. Their characteristics were not impressive enough to make a good plot. In addition, women here appeared absolutely inferior to men. By the way, why were the Proto here more impressive than most of the crew members?
-## Human
++ Proto: They supported human staunchly but stymied human's attempt of seeing outside by hiding their plate, yet in the end one of them was touched by their feat and intended to give back the plate before death.
+	> "We have always been there for you. Push your folly to the uttermost. We will benefit in the end, and so will the man."
+	> "This organism dies now. It dies in confidence of knowledge, as an intelligent creature dies. Man has taught us there is nothing that knowledge cannot do..."
+
 + Pilot: Paul la Ventura/Lavon, the typical intrepid hero 
 + Doctor: Chatvieux/Shar, the senior on this expedition, the wisest man here that could interpret the metal and develop technology here.
 + Midshipwoman: Joan Heath/ , Pilot's vase girlfriend 
 + Communicator/Communication Officer: Philip Strasvogel
-
-## Others who only had highlights in the prologue or completely ignored by Blish unfortunately 
 + Doctor's Senior Assistant: Saltonstall
 + Ecologist: Eunice Wagner
 + Delegate from the colonization council: Eleftherois Venezuelos
