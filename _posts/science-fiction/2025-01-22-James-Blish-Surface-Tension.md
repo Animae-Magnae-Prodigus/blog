@@ -86,6 +86,7 @@ Plus, how did the savage girl understand Lavon's language immediately since they
 # Character: 4/9. Their characteristics were not impressive enough to make a good plot. In addition, women here appeared absolutely inferior to men. By the way, why were the Proto here more impressive than most of the crew members?
 + Proto: They supported human staunchly but stymied human's attempt of seeing outside by hiding their plate, yet in the end one of them was touched by their feat and intended to give back the plate before death.
 	> "We have always been there for you. Push your folly to the uttermost. We will benefit in the end, and so will the man."
+
 	> "This organism dies now. It dies in confidence of knowledge, as an intelligent creature dies. Man has taught us there is nothing that knowledge cannot do..."
 
 + Pilot: Paul la Ventura/Lavon, the typical intrepid hero 
