@@ -1,5 +1,5 @@
 ---
-title: "0/9 | James Blish - Surface Tension"
+title: "6/9 | James Blish - Surface Tension"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1921-1975, 1952
 ---
 
