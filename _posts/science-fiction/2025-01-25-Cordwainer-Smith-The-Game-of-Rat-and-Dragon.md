@@ -31,4 +31,4 @@ How did people find out their pet cats can be used for their partners? Why did p
 
 How did people get the telepathy?  Talent or discipline? How far? How long? How often? Why could only the telepath sense and fight the dragon? What was the history of telepaths?
 
-# Overall: 2/9. I don't like Cordwainer Smith because of his weak writing ability especially on fighting scenes and world-building and his weird lust after cats.
+# Overall: 2/9. I don't like Cordwainer Smith because of his weak writing ability especially on fighting scenes and world-building and his weird lust after cats. If his next work I will read is still so unbearable to me, then I will block him forever.
