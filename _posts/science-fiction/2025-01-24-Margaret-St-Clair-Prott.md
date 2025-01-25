@@ -11,11 +11,12 @@ The narrator investigated Prott, a telepathic species in deep space, alone. His 
 In the end, Fox revealed that Protts eventually followed the signal rocket and polluted human's minds with persistent bellyaching.
 
 
-# Core: 4/9. I think it a satire on those people who continuously bellyache and those who listen to them owing to their spirit of self-sacrifice. Also, Clair expressed the possible trials and tribulations in communicating with distinct species.
+# Core: 5/9. I think it a satire on those people who continuously bellyache and those who listen to them owing to their spirit of self-sacrifice. Also, Clair expressed the possible trials and tribulations in communicating with distinct species.
+Plus I think Prott actually alludes to Marcel Proust (1871-1922) and Clair maybe mocked Proust's writing style in this article (1953).
 
 
 
-# Character: 2/9. It's unreasonable for the narrator to stay in the deep space for such a ludicrous disbelief towards the ability of humankind.
+# Character: 2/9. It's unreasonable for the narrator to stay in the deep space for such a ludicrous distrust  towards the ability of humankind.
 
 
 # World and Others: 1/9. Why did the bursar approve his solo research without any prompt communication? It's too unpractical.
@@ -25,3 +26,5 @@ In the end, Fox revealed that Protts eventually followed the signal rocket and p
 # Overall: 3/9. I can sense St. Clair's dark humour here but I don't appreciate her skill of storytelling here.
 By the way, I like this opinion.
 > St. Clair thought the field didn't always understand or reward sophisticated humor, too invested in a headlong rush toward the perfect earnest.
+
+It's said that this article was not claimed as the best of Clair's works, so maybe I would read more of her.
