@@ -3,18 +3,18 @@ title: HOME
 ---
 
 # Principle
-A good reader becomes a commentator.
++ A good reader becomes a commentator.
 
-A better reader becomes an author.
++ A better reader becomes an author.
 
-A best reader becomes a philosopher.
++ A best reader becomes a philosopher.
 
 # Introduction
 Here reside my notes and comments on books, offered to fellow bibliophiles who share the same reading predilections as me.
 
-For me, the reason why **science fiction** move me so much is because some of the best of them could provide me with exotic situations,  dramatic emotions, fabulous visions and marvelous solutions.
+For me, the reason why **science fiction** move me so much is because some of the best of them could provide me with exotic **situations**,  dramatic **emotions**, fabulous **visions** and marvelous **solutions**.
 
-Some of the best of **detective fiction** also possess me with their plausible speculations in addition to the aforementioned qualities.
+Some of the best of **detective fiction** also possess me with their plausible **speculations** in addition to the aforementioned qualities.
 
 # Rules
 + The titles of my commenting posts follow the pattern of "scores I gave \| Author Name - Work Name".
