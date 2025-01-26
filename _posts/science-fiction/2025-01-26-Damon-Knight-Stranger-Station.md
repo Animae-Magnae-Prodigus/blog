@@ -26,7 +26,7 @@ He therefore forced Jane to send him the video of the alien, and realized that a
 
 In the end, the alien died and station exploded. Paul watched aliens' corpse and thought hate won before his death.
 
-# Core: 1/9. An eerie first contact should be delineated with more delicate details and convincing suspenses.
+# Core: 0/9. An eerie first contact should be delineated with more delicate details and convincing suspenses. In addition, the abrupt answer related with love and hate was too low. How could Knight convince me Paul's conclusion was not a imagination out of great agony here?
 
 
 
@@ -34,7 +34,7 @@ In the end, the alien died and station exploded. Paul watched aliens' corpse and
 
 
 
-# World and Others: 3/9. I like the description of the station.
+# World and Others: 4/9. I like the description of the station, the space and the Earth from the perspective of a man in agony.
 
 
 
