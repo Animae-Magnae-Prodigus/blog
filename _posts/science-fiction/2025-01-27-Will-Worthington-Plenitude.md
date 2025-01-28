@@ -22,7 +22,7 @@ Two families had a dinner together eventually.
 
 
 
-# World and Others: 1/9. So why was the city abandoned? Why did most of those people die in their sacs? Why did the civilization disappear? Why could them violate others' land and kill the master without scruple?
+# World and Others: 1/9. So why was the city abandoned? Why did most of those people die in their sacs? Why did the civilization disappear? Why could them violate others' land and kill the master without scruple? Why didn't the survivor try to resuscitate the city or the civilisation? For example, the survivor could provide the robot to release the narrator's heavy work for whatever they needed.
 
 
 
