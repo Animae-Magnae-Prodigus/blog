@@ -8,7 +8,7 @@ Sorry but the title of this book seems to have nothing to do with the context of
 
 Also, I'm no longer attracted by Murderbot who appears more like human now, and the book seems to lack novel or interesting scientific elements.
 
-# Character: 5/9. Slightly good.
+# Character: 4/9. Slightly good.
 Miki: An innocent pet robot or gull who loved its owner, Abene, and believed in any human or robot who claims to protect Abene. It presumed Murderbot as its first bot friend and sacrificed itself to help Murderbot defeat the combat bot.
 
 Abene: The leader of the investigation team who treated Miki so benevolently and tenderly that it made Murderbot jealous.
@@ -38,13 +38,11 @@ Other human: No impressive behavior. It would be better if the author learned ho
 
 + Murderbot hacked another ship to bring the evidence to Dr. Mensah in person after hearing Abene's crying.
 
-# World and others: 4/9. So-so.
-Things would be more dramatic if the author was able to give more details on trivial cases Murderbot managed to deal with and render information on that world through them. Otherwise it always represents a sense of unrealistic tale.
+# World and others: 3/9. Things would be more dramatic if the author was able to give more details on trivial cases Murderbot managed to deal with and render information on that world through them. Otherwise it always represents a sense of unrealistic tale.
 
 I'm a bit disappointed when she skipped lots of descriptions on magnificent dynamic scenes like using a shuttle to bumble the zipper off its track.
 
-I thought the storm mentioned a few times was the presage of a crumbling tractor array triggered by the encrypted signal. But since its final boss was just a combat bot rather than the catastrophe of a planet, I had to deduce that both the guardians and the combat bot were procrastinators.
+In addition, I thought the storm mentioned a few times was the presage of a crumbling tractor array triggered by the encrypted signal. But since its final boss was just a combat bot rather than the catastrophe of a planet, I had to deduce that both the guardians and the combat bot were procrastinators without any intelligence.
 
 
-# Overall: 4/9. So-so.
-Her writing quality returned to normal in this book thanks to formidable enemies.
+# Overall: 4/9. Her writing quality returned to normal in this book thanks to formidable enemies.
