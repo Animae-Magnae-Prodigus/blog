@@ -18,7 +18,7 @@ When the narrator repeated this to people in the bar, one of them claimed the sp
 
 
 
-# Character: 5/9. The characters here were comical with their wisecrack.
+# Character: 6/9. The characters here were comical with their wisecrack.
 > I'm on the cusp of my wretched thirtieth and I truly fear that I have more to learn than I already know.
 
 > If you think about men, do you think them admirable? I think the exact opposite: they are stupid, cruel, mean, and envious.
@@ -27,4 +27,5 @@ When the narrator repeated this to people in the bar, one of them claimed the sp
 
 
 
-# Overall: 3/9. I supposed the article was made to mock humanity from the perspective of an alien who were shocked to find the world was not in the hands of the best people and such riffraff had the control of the atomic bomb.
+# Overall: 3/9. I supposed the article was made to mock humanity from the perspective of an alien who were shocked to find the world was not in the hands of the best people and such riffraff had the control of the atomic bomb. So the writer intentionally refuted the meaning of the love of the humanity and let human lose their hope to be salvaged.
+I would not reject Casares' work for his good characters, but I would not read him on my initiative for his inability in world building like Ballard's inability in positive plots.
