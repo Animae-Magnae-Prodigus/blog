@@ -14,7 +14,7 @@ Waldas returned to the city where the military had already came back to recover 
 
 
 
-# Core: 4/9. So why did the world totally fall into absolute blackness that even the matches or five would not work? What about phosphorescence? I would give a higher score if the details on the cause of darkness were given.
+# Core: 4/9. So why did the world totally fall into absolute blackness that even the matches or fine would not work? What about phosphorescence? I would give a higher score if the details on the cause of darkness were given.
 
 
 
