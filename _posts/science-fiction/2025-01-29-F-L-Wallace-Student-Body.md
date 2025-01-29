@@ -3,7 +3,7 @@ title: "5/9 | F. L. Wallace - Student Body"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1915-2004, 1953
 ---
 
-# Plot: 6/9. It's a horrible story on space colonization. I would give a higher score if how people treated this new human was depicted.
+# Plot: 6/9. It's a horrible story happened in space colonization containing a mystery to be solved. I would give a higher score if how people treated this new human was depicted.
 The very first morning that Executive Harfner was fully committed to the planet, he found someone stole the clothes and coverings from sleeping colonists bedding outside the spaceship, and therefore commanded Biologist Marin to discover the cause.
 
 The culprit turned out to be a kind of rodents, a strange species undetected by Biological Survey. Harfner then let him find ways to keep them out of their crops and their warehouse. No poison could exterminate them all at once. So they asked engineers to create a robot cat. It worked temporarily.
@@ -32,10 +32,10 @@ As we all know, the introduction of new species might be a disaster. Then why di
 
 
 
-# World and Others: 4/9. 
+# World and Others: 4/9. mundane
 
 
 
-# Overall: 5/9. 
+# Overall: 5/9. Wallace, a mechanical engineer, was more interesting than those pure writers.
 
 
