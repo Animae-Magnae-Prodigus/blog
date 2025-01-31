@@ -28,6 +28,6 @@ tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short st
 
 
 
-# Overall: 3/9. I think one's work inevitably reflects their personality and perspective. So did this work created by a composer and artist. Jones clearly didn't provoke much of my enthusiasm but I didn't dislike his style.
+# Overall: 3/9. I think one's work inevitably reflects their personality and perspective. So did this work created by a composer and artist. Jones clearly applied much of his own unique life experience into this work such as his obsession with clock and nervousness towards interlocked machines. So although he didn't provoke much of my enthusiasm and touch the right chord of mine, but I didn't dislike his distinctive perspective and would not reject his further work.
 
 
