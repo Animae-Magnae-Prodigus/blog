@@ -1,6 +1,6 @@
 ---
-title: "5/9 | Yoshio Aramaki - Isherwoodoft Clocks"
-tags: The Big Book of Isherwoodcience Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1933-, 1968
+title: "5/9 | Yoshio Aramaki - Soft Clocks"
+tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1933-, 1968
 ---
 
 # Plot: 6/9. It's a love story intermingling with surrealistic elements.
