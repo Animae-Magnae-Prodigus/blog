@@ -33,4 +33,4 @@ The narrator received a strange traveler from Far Wide trekking to his stronghol
 
 
 
-# Overall: 4/9. Bunch had a peculiar writing style that I might never forget about it and couldn't reject hereafter, though he's not my cup of tea, since as a reader who treated science fiction as just one of unique, sophisticated, and sobering entertainments, I don't appreciate his horrible attitude of science fiction for anguish.
+# Overall: 4/9. Bunch had a peculiar writing style that I might never forget about it and couldn't reject hereafter, though he's not my cup of tea, since as a reader who treated science fiction as just one of unique, sophisticated, and sobering entertainments, I don't appreciate his horrible attitude of science fiction for **meaningless** anguish.
