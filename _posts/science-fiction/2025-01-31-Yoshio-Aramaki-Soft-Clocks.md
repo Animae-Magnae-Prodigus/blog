@@ -17,13 +17,18 @@ In the end, Isherwood suddenly fell in love with another woman insomuch that Viv
 + Is it moral to persuade a severe technophobe to save others at the risk of her own life and mentality rather than escape from the danger immediately?
 
 
-# Character: 4/9. Is it responsible for a psychiatrist to cure a patient who didn't ask for treatment on her initiative, and to let a technophobia who had already committed suicide for a mere guess know abruptly that she was full of appliances? The woman here seemed to act as a submissive clock easily manipulated by the man's will.
-Isherwood was so horrible that he claimed to love Vivi really at first but made a gadget triggering her technophobe probably. Eventually, he turned to another woman at the first sight insomuch as he just saw her bare body in an accident.
+# Character: 4/9. Commonplace.
++ The narrator: Is it responsible for a psychiatrist to cure a patient who didn't ask for treatment on her initiative, and to let a technophobia who had already committed suicide for a mere guess know abruptly that she was full of appliances?
 
-Dali was an odd bod, but he was definitely the highlights. I would give a higher score if Aramaki could render more his sentimentality with her granddaughter especially on the reason why he was desperate to marry his young granddaughter.
++ Vivi: Vivi here seemed to act as a submissive female clock easily manipulated by the man's will.
+
++ Isherwood: Isherwood was so horrible that he claimed to love Vivi really at first but made a gadget triggering her technophobe probably. Eventually, he turned to another woman at the first sight insomuch as he just saw her bare body in an accident.
+
++ Dali: Dali was an odd bod, but he was definitely the highlights. I would give a higher score if Aramaki could render more his sentimentality with her granddaughter especially on the reason why he was desperate to marry his young granddaughter.
 
 
-# World and Others: 5/9. I would give a higher score if the environmental scenes of Mars were depicted more vividly as if the reader was appreciating the literary version of the bleak, absurd, and surrealistic paintings of Dali. Unfortunately, as a layman in surrealism, I could barely sense its charisma from the description, though I indeed love Dali's magical mansion here such as illusory hallway and rebellious chair.
+# World and Others: 4/9. Bland.
+I would give a higher score if the environmental scenes of Mars were depicted more vividly as if the reader was appreciating the literary version of the bleak, absurd, and surrealistic paintings of Dali. Unfortunately, as a layman in surrealism, I could barely sense its charisma from the description, though I indeed love Dali's magical mansion here such as illusory hallway and rebellious chair.
 
 By the way, how could the Earth be deteriorated by the heat and monoxide to the extent of turning everything into gray and brown?
 
