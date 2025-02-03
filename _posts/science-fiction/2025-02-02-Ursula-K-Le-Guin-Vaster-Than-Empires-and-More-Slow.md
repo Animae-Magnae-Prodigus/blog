@@ -12,7 +12,7 @@ Osden assumed that the forest was an integral giant sentient being interconnecte
 
 
 
-# Core: 4/9. In order to appease a planet-wide creature like Solaris in 1961, one man had to abandon himself and learn how to love for the first time. I would give a higher score if Guin could write less on their drama and paid attention to Osden's inner struggle. Moreover, some settings here failed to convince me:
+# Core: 4/9. In order to appease a planet-wide creature like Solaris in 1961, one man had to abandon himself and learn how to love for the first time. I would give a higher score if Le Guin could write less on their drama and paid more appropriate attention to Osden's inner struggle. Moreover, some settings here failed to convince me:
 + It's ridiculous that they could quickly transfer not information but human insomuch as "cosmic mass intelligence could not yet been eliminated from the operation of the ansible." Why not therefore send carriers that held mass to and fro so that they don't need to suffer unnecessary absolute loneliness?
 + Why could Osden be so confident that the forest wouldn't hunt people after he was literally attacked by it?
 + It should be *Vaster Than Empires and Slower* instead of *Vaster Than Empires and More Slow*.
@@ -28,4 +28,4 @@ Osden assumed that the forest was an integral giant sentient being interconnecte
 
 
 
-# Overall: 4/9. Merely judged from this article, Le Guin seemed to be the type of writers good at characters instead of building triggering plots, mysteries, worlds and wonders. I need to read more about her works to ascertain her advantages on writing.
+# Overall: 4/9. Merely judged from this article, Le Guin seemed to be the type of writers good at characters instead of building triggering plots, mysteries, worlds and wonders. I need to read more about her works to ascertain her advantages on writing. For the time being , I don't think she is my cup of tea.
