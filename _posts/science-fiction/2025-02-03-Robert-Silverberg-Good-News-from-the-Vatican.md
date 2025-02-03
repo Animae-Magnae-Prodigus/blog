@@ -11,7 +11,8 @@ While the narrator were waiting for the final announcement by the conclave that 
 # Core: 3/9. Since I know nothing about Vatican and popes, I didn't sense this satire works for me. And I held a lot of questions while reading:
 + What is difference for their believers between a human clergy and a robot one? How did the people interact with them?
 + Where did robots come from? Who created them? Did they have their own death? How to differentiate them? Why did they hold the same right to compete with human and express their own opinion?
-+ What did it mean that? What kind of contribution did robots make so that no fraction detested to have robots as pope?
++ What did the compromise of more time allotment mean?
++ What kind of contribution did robots make so that no fraction detested to have robots as pope?
 
 
 
