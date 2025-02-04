@@ -15,14 +15,15 @@ He then applied for off-planet work through hard study where he realized the imm
 
 The engineer eventually introduced the narrator to his wife who seemed to bear hurt for the work here and married just to meet the working requirement of being happily married couple. The narrator nevertheless ignored the engineer's last warning that do stay at home and never approach aliens.
 
-# Core: 6/9. I still don't fully understand the meaning of the title. Is it a metaphor of the engineer's sober regret at exchanging everything on earth for a chance of contacting aliens in his youth? Since I kind of resonate with this feeling:
+# Core: 7/9. I still don't fully understand the meaning of the title. Is it a metaphor of the engineer's sober regret at exchanging everything on earth for a chance of contacting aliens in his youth? Since I kind of resonate with this feeling:
 
 You once borrowed a bunch of money and sacrificed a lot to support your dream and satisfy your infatuation without caring about the consequences by just acting in accordance with your immature instinct. Then finally one day some epiphany brought you back to full consciousness insomuch that your fantasy was now shattered by the cruel reality and left you nothing but bleak dilapidation behind. However, it's too hard of you to extricate yourself from this unpleasant quagmire because you were already bounded by an unredeemable contract or an irrevocable matter like children, marriage, or worse, chronic sequela of a disease or an addiction.
 
+The only thing you could do was to keep going and wish some miracle would happen one day in the future.
 
+> And I Awoke and Found Me Here on the Cold Hill’s Side.
 
 # Character: 3/9. I could not sense the charisma of any of characters here including the aliens.
-
 
 
 # World and Others: 3/9. What is aliens' true attitude towards human? Is it possible that they didn't care about any human if they actually didn't mind copulating with human? What was their society like actually?
