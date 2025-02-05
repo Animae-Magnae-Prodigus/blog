@@ -1,5 +1,5 @@
 ---
-title: "3/9 | W. E. B. Du Bois - The Comet"
+title: "Review 3/9 | W. E. B. Du Bois - The Comet"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1868-1963, 1920
 ---
 

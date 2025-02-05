@@ -1,5 +1,5 @@
 ---
-title: "5/9 | Yoshio Aramaki - Soft Clocks"
+title: "Review 5/9 | Yoshio Aramaki - Soft Clocks"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1933-, 1968
 ---
 

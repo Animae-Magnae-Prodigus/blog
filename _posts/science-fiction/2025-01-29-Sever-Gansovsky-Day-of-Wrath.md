@@ -1,5 +1,5 @@
 ---
-title: "6/9 | Sever Gansovsky - Day of Wrath"
+title: "Review 6/9 | Sever Gansovsky - Day of Wrath"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1965-1990, 1965
 ---
 

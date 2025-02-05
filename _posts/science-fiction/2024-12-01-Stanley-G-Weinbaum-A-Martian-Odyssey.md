@@ -1,5 +1,5 @@
 ---
-title: "9/9 | Stanley G. Weinbaum - A Martian Odyssey"
+title: "Review 9/9 | Stanley G. Weinbaum - A Martian Odyssey"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1902-1935, 1934
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "6/9 | Theodore Sturgeon - The Man Who Lost the Sea"
+title: "Review 6/9 | Theodore Sturgeon - The Man Who Lost the Sea"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1918-1985, 1959
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "4/9 | James Tiptree Jr. - And I Awoke and Found Me Here on the Cold Hill’s Side"
+title: "Review 4/9 | James Tiptree Jr. - And I Awoke and Found Me Here on the Cold Hill’s Side"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1915-, 1972
 ---
 

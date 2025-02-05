@@ -1,5 +1,5 @@
 ---
-title: "3/9 | Robert Silverberg - Good News from the Vatican"
+title: "Review 3/9 | Robert Silverberg - Good News from the Vatican"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1935-, 1971
 ---
 # Plot: 2/9. It's a tedious story without any impressive scenes. Silverberg was good at creating bland plots, meaningless context, and boring nonsense as usual.

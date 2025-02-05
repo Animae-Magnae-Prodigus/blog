@@ -1,5 +1,5 @@
 ---
-title: "8/9 | Stanisław Lem; Bill Johston - Solaris"
+title: "Review 8/9 | Stanisław Lem; Bill Johston - Solaris"
 tags: Stanisław Lem, science fiction, 1961, Poland, Polish Science Fiction, 2017, Tomasz Lem, Bill Jonhston
 ---
 # Core: 9/9. This novel uses an exotic live ocean to expound the abstruse philosophical problems.

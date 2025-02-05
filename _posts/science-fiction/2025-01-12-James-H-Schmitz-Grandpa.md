@@ -1,5 +1,5 @@
 ---
-title: "8/9 | James H. Schmitz - Grandpa"
+title: "Review 8/9 | James H. Schmitz - Grandpa"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1911-1981, 1955
 ---
 

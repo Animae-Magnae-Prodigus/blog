@@ -1,5 +1,5 @@
 ---
-title: "2/9 | Damon Knight - Stranger Station"
+title: "Review 2/9 | Damon Knight - Stranger Station"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1922-2022, 1956
 ---
 

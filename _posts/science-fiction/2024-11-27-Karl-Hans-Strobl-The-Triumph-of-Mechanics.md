@@ -1,5 +1,5 @@
 ---
-title: "5/9 | Karl Hans Strobl; Gio Clairval - The Triumph of Mechanics"
+title: "Review 5/9 | Karl Hans Strobl; Gio Clairval - The Triumph of Mechanics"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1877-1946, 1907
 ---
 

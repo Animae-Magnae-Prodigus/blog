@@ -1,5 +1,5 @@
 ---
-title: "2/9 | John Baxter - The Hands"
+title: "Review 2/9 | John Baxter - The Hands"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1939-, 1965
 ---
 

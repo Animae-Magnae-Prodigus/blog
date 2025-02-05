@@ -1,5 +1,5 @@
 ---
-title: "8/9 | James White - Sector General"
+title: "Review 8/9 | James White - Sector General"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1928-1999, 1957
 ---
 

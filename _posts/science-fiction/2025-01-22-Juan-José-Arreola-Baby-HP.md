@@ -1,5 +1,5 @@
 ---
-title: "2/9 | Juan José Arreola - Baby HP"
+title: "Review 2/9 | Juan José Arreola - Baby HP"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1918-2001, 1952
 ---
 

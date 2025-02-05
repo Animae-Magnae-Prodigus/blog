@@ -1,5 +1,5 @@
 ---
-title: "5/9 | F. L. Wallace - Student Body"
+title: "Review 5/9 | F. L. Wallace - Student Body"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1915-2004, 1953
 ---
 

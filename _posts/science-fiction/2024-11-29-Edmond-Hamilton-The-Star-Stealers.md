@@ -1,5 +1,5 @@
 ---
-title: "4/9 | Edmond Hamilton - The Star Stealers"
+title: "Review 4/9 | Edmond Hamilton - The Star Stealers"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1904-1977, 1929
 ---
 

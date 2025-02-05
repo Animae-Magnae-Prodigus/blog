@@ -1,5 +1,5 @@
 ---
-title: "3/9 | Martha Wells - Compulsion (The Murderbot Diaries #0.5)"
+title: "Review 3/9 | Martha Wells - Compulsion (The Murderbot Diaries #0.5)"
 tags: novellette, science fiction, Murderbot, cyborg
 ---
 
@@ -10,10 +10,10 @@ But in the end Murderbot abruptly claimed that it could persuade it for the prod
 
 Strange. Why did a rogue Murderbot have more sentient than the governor module?
 
-# Character: 4/9. So-so. What else did you expect from a novelette with the first-person perspective of a Murderbot?
+# Character: 3/9. What else did you expect from a novelette with the first-person perspective of a Murderbot?
 At least it depicts the feelings of Murderbot well.
 
-# Plot: 3/9. So-so and tedious, yet at least it's a story with a conflict.
+# Plot: 3/9. Tedious, yet at least it's a story with a conflict.
 Murderbot presumed that Asa accidentally bumped into Sekai and knocked her off the platform. (But is this true? Since Elane who was very concerned with Sekai had seemed to have a tiff with Sekai at first.) 
 
 At first Murderbot didn't rescue her because it's not part of its duty. However it changed its mind upon thinking about a similar scene in its ongoing media.

@@ -1,5 +1,5 @@
 ---
-title: "2/9 | Philip K. Dick - Not By Its Cover"
+title: "Review 2/9 | Philip K. Dick - Not By Its Cover"
 tags: Philip K. Dick, short story, novelette, science fiction, 1928-1982, 1952
 ---
 

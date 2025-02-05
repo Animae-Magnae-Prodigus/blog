@@ -1,5 +1,5 @@
 ---
-title: "5/9 | Paul Ernst - The Microscopic Giants"
+title: "Review 5/9 | Paul Ernst - The Microscopic Giants"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1899-1985, 1936
 ---
 
@@ -37,7 +37,7 @@ Why could the mannikin drag the corpse if it could not pass through Frank's body
 
 
 
-# World and Others: 3/9. It would be unreasonable for officials and workers to ignore the mystery of the inexplicable remains like the explosive dens that could not be made by people, a lunatic, a corpse with impossible trails and strange bullets aimed at the concrete walls by two.
+# World and Others: 3/9. It would be unreasonable for officials and workers to ignore the mystery of the inexplicable remains like the explosive dens that could not be made by people, a lunatic, a corpse with impossible trails and strange bullets aimed at the concrete walls by the two.
 
 And also in reality, Frank's bomb would not stop people's avidity for copper.
 

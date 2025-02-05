@@ -1,5 +1,5 @@
 ---
-title: "1/9 | Silvina Ocampo - The Waves"
+title: "Review 1/9 | Silvina Ocampo - The Waves"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1903-1993, 1959
 ---
 

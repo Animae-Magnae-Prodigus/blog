@@ -1,5 +1,5 @@
 ---
-title: "4/9 | Samuel R. Delany - Aye, and Gomorrah"
+title: "Review 4/9 | Samuel R. Delany - Aye, and Gomorrah"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1942-, 1967
 ---
 

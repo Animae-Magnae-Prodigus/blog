@@ -1,5 +1,5 @@
 ---
-title: "2/9 | Cordwainer Smith - The Game of Rat and Dragon"
+title: "Review 2/9 | Cordwainer Smith - The Game of Rat and Dragon"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1913-1966, 1955
 ---
 

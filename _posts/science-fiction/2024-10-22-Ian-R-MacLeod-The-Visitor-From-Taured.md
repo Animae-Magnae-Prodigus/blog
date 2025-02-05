@@ -1,5 +1,5 @@
 ---
-title: "2/9 | Ian R. MacLeod - The Visitor From Taured"
+title: "Review 2/9 | Ian R. MacLeod - The Visitor From Taured"
 tags: Science Fiction, Short Story, Novelette, Best Science Fiction of the Year (#2), 2017, Neil Clarke
 ---
 

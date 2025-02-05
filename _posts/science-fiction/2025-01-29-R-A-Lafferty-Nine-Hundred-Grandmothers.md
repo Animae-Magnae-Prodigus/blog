@@ -1,5 +1,5 @@
 ---
-title: "1/9 | R. A. Lafferty - Nine Hundred Grandmothers"
+title: "Review 1/9 | R. A. Lafferty - Nine Hundred Grandmothers"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1914-2002, 1966
 ---
 

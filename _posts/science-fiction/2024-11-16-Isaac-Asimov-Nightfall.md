@@ -1,5 +1,5 @@
 ---
-title: "6/9 | Isaac Asimov - Nightfall"
+title: "Review 6/9 | Isaac Asimov - Nightfall"
 tags: short story, novelette, science fiction, 1941, Astounding Science Fiction, Campbell, Emerson
 ---
 

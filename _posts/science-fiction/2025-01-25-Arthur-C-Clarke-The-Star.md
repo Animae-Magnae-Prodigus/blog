@@ -1,5 +1,5 @@
 ---
-title: "6/9 | Arthur C. Clarke - The Star"
+title: "Review 6/9 | Arthur C. Clarke - The Star"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1917-2008, 1955
 ---
 
