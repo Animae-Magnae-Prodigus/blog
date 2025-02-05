@@ -44,11 +44,13 @@ Some of the best of **detective fiction** also possess me with their plausible *
 # My Favorite Tags on science fiction 
 + space opera 
 + exotic adventure 
-+ thrilling fight 
++ thrilling journey 
 + mystery 
 + enigma 
 + conundrum 
 + challenge 
++ struggle 
++ life-or-death
 + experiment
 + hard science
 + alien friendship
@@ -70,3 +72,4 @@ Some of the best of **detective fiction** also possess me with their plausible *
 + Hel Clement
 + Charles Stross
 + Greg Egan
++ Dmitri Bilenkin
