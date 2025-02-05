@@ -1,5 +1,5 @@
 ---
-title: "4/9 | Isaac Asimov - The Acquisitive Chuckle"
+title: "Review 4/9 | Isaac Asimov - The Acquisitive Chuckle"
 tags: Tales of the Black Widowers, short story, novelette, mystery fiction, 1972, Ellery Queen's Mystery
 ---
 

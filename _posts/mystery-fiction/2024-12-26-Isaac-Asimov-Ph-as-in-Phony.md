@@ -1,5 +1,5 @@
 ---
-title: "4/9 | Isaac Asimov - Ph as in Phony"
+title: "Review 4/9 | Isaac Asimov - Ph as in Phony"
 tags: Tales of the Black Widowers, short story, novelette, mystery fiction, 1972, Ellery Queen's Mystery
 ---
 

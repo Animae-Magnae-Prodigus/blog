@@ -1,5 +1,5 @@
 ---
-title: "5/9 | Yasutaka Tsutsui - Standing Woman"
+title: "Review 5/9 | Yasutaka Tsutsui - Standing Woman"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1934-, 1974
 ---
 # Plot: 4/9. The plot was bland because of the passive narrator who didn't do anything but accepting the status quo.
