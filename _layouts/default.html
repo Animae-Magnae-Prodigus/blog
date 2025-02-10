@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }} | Your Name</title>
-  <meta name="description" content="A place to record my journey of cultivating critical taste and enhancing literary expression.">
+  <meta name="viewport" content="width=device-width, initial-scale=2.0">
+  <title>{{ page.title }} </title>
+  <meta name="description" content="It's just a place to record my journey of cultivating critical taste and enhancing literary expression.">
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 
   <!-- Google Analytics (if you're adding it later) -->
@@ -20,15 +20,15 @@
 <body>
 
   <header>
-    <h1>Your Name's Blog</h1>
-    <p>A place to record my journey of cultivating critical taste and enhancing literary expression.</p>
+    <h1>{{ page.title }}</h1>
+    <p>It's just a place to record my journey of cultivating critical taste and enhancing literary expression.</p>
   </header>
 
   <main>
     <article>
       <header>
         <h2>{{ page.title }}</h2>
-        <p><em>Published on: {{ page.date | date: "%B %d, %Y" }}</em></p>
+        <p><em> {{ page.date | date: "%B %d, %Y" }}</em></p>
       </header>
 
       <div class="post-content">
@@ -38,7 +38,8 @@
   </main>
 
   <footer>
-    <p>© {{ "now" | date: "%Y" }} Your Name. All rights reserved.</p>
+    <p>© {{ "now" | date: "%Y" }} {{ page.author }}. All rights reserved.</p>
+    <p>{{ page.description }}</p>
   </footer>
 
 </body>
