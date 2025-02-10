@@ -1,6 +1,5 @@
 theme: "minima"
 defaults:
-  - 
   scope:
     path: ""
   values:
