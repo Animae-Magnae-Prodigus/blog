@@ -3,10 +3,10 @@ title: "Review 5/9 | Barrington J. Bayley - Sporting with the Chid"
 tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1937-2008, 1979
 ---
 
-# Plot: 6/9. It's a horrible story concerning a disturbing first contact and a mystery revealing why the Chid was lumped in the forbidden category.
+# Plot: 6/9. The story revolved around a disturbing first contact and an unsettling mystery of the reason why the Chid was categorized as forbidden.
 In order to mend Wessel's split body, Ruiger and Brand expected a favor of Chid, a species famous for their racial talent in surgery. But for some unknown reason humanity were forbidden by their authority to contact with those aliens.
 
-One indigene there proposed the medical operation for a sport game which the duo agreed perfunctorily for a schemed backtrack on their promise. During their waiting time, humans ambulated in Chid's bizarrely lurid garden where automated origin-like animals bode ill for the eerie consequence of this treatment: 
+One indigene there proposed the medical operation in the remuneration of a sport game with the duo who agreed immediately and perfunctorily for a schemed backtrack on their promise. During their waiting time, humans ambulated in Chid's bizarrely lurid garden where automated origin-like animals bode ill for the eerie consequence of this treatment: 
 
 Wessel came back in time yet with his moveable brain chasing after his decapitated body. No wonder shuddering at the sight of a clambering brain, Ruiger and Brand barged into the medic's house with guns and self-righteous indignation.
 
