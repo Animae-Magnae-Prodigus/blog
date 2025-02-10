@@ -19,7 +19,7 @@ So after having accompanied his wife throughout her entire life, he applied to t
 
 
 # Core: 2/9. The story of redemption usually required a tighter storyline on how the protagonist gradually accepted the exotic part in himself and more charismatic characters to edify the protagonist for his ultimate climax of epiphany and transcendence. This is why the article was an absolute failure:
-+ Characters lacked depth: What is the background of all the compassionate sharers? Why were they seemed as expensive commodities rather than human? Why did they volunteer to do such a dangerous and humiliating job?
++ Characters lacked depth: What is the background of all the other compassionate sharers? Why were they seemed as expensive commodities rather than human? Why did they volunteer to do such a dangerous and humiliating job?
 + Climax was not striking: I would give a higher score if the protagonist could get acquainted with more distinct compassionate sharers, ultimately leading him to beating the crazy twins by accepting his true self and overcoming his old terror.
 + Conflicts were mild and solutions were haphazard: I don't think normal people could fully resonate with the protagonist's gradual acceptance and final metamorphosis.
 
