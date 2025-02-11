@@ -5,24 +5,24 @@ tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short st
 
 
 
-# Plot: 8/9. I'll wager that it's one of the most elaborate horrible science fiction demonstrating Martin's great writing capability on manipulating scenes into the dramatic climax in his 30s. As chickens had come home to roost, Kress' innate brutality and penchant for bloody warfare was eventually recompensed with more a lurid violence of his ill-bred exotic pets.
-Recommended by a saleswoman Wo running a new arresting little store on Rainbow Boulevard, four kinds of Sandkings boarded at their new habitat located in a terrarium of Kress' mansion. Soon unsatisfied by their upsettingly moderate progress, Kress starved them into waging war against each other for cannibalism.
+# Plot: 8/9. I'll wager that it's one of the most elaborate examples of horrible science fiction, demonstrating Martin's great writing capability of manipulating scenes into the dramatic climax in his 30s. As if chickens had come home to roost, Kress' innate brutality and penchant for bloody warfare were eventually recompensed with even more lurid violence of his ill-bred exotic pets.
+Recommended by a saleswoman named Wo, who ran a new arresting little store on Rainbow Boulevard, four types of Sandkings were subsequently introduced to their new habitat—a terrarium of Kress' mansion. Soon unsatisfied by their moderate progress, Kress starved them into waging war against each other for cannibalism.
 
-Intoxicated with his face materialized on the walls of the sandcastles by his devotional beasts, he invited guests to watch how Sandkings opened truculent hostilities over party scraps. His ex-girlfriend Cath m'Lane immediately strode out in reminiscence of his uncompassionate wrongdoing of never apologizing to her for his shambler once eating her beloved puppy. Wo conceived the war resulted from hunger was primitive, artless and grading and warned him of his malicious face in Sandkings' minds represented by their current sculptures.
+Intoxicated by the sight of his face being materialized on the walls of the sandcastles created by his devotional beasts, he invited guests to witness how Sandkings opened truculent hostilities over their party scraps. His ex-girlfriend Cath m'Lane immediately strode out for her reminiscence of his uncompassionate wrongdoing of never apologizing to her for his shambler once eating her beloved puppy. Wo conceived the war resulted from hunger was primitive, artless and grading and warned him of his malicious face in Sandkings' current minds represented by their idolized sculptures.
 
-Over the next few months, Kress persistently betted on the war games between Sandkings of dubious background and various monstrous species across the universe which, as was often the case, merely served as Sandkings' sumptuous meals.
+Over the next few months, Kress persistently bet on the war games between Sandkings of dubious background and various monstrous species across the universe which, as was often the case, merely served as Sandkings' sumptuous meals.
 
-One police solicited by m'Lane's complaint was bribed into relinquish her confiscation of Kress' distinctive creatures which then played the lead in a film shot by Idi Noreddian on Sandkings devouring a specific puppy in reprisal for m'Lane's retaliatory report.
+One police officer solicited by m'Lane's complaint was bribed into relinquishing her confiscation of Kress' distinctive creatures which, in reprisal for m'Lane's retaliatory report, consequently played the lead in a film shot by Idi Noreddian on Sandkings devouring a specific puppy.
 
-Discontented with his malevolent images ostentatiously inscribed on the present ramparts especially that one crafted by white Sandkings, he obliterated fierily the insulting caricature and thrust his sword heavily into their core maw, before he adjusted the humidity controls to Sandkings' strong distaste for punishment.
+Discontented with his malevolent images ostentatiously inscribed on the present ramparts, especially that one crafted by white Sandkings, he obliterated fierily the insulting caricature and thrust his sword heavily into their core maw, before he adjusted the humidity controls to Sandkings' strong distaste for punishment.
 
-His heartbreaking ex-girlfriend took great umbrage about the video so much that she crushed his tank up with a sledgehammer in an outburst of rage and was accordingly killed by the horror-struck owner on the spur of the moment in his dire extremity of incapable of driving the unwanted woman out.
+His ex-girlfriend took great umbrage about the video so much that she crushed his tank up with a sledgehammer in an outburst of rage and was unexpectedly killed by the horror-struck owner on the spur of the moment in his dire extremity of constant failure in driving the unwanted lunatic out.
 
 He hence disposed of her skimmer through an active volcano and even vandalized his ex-girlfriend's corpse for the white Sandkings to digest more easily. To further clearing his incriminating evidence, he committed a premeditated murder by pushing innocent Noreddian into the maw of white Sandkings.
 
 After his preliminary attempt of purification with poisonous pellets proved to be inefficacious and the spraying of illegally lethal pesticide encountered with Sandkings' tenacious resistance, a detachment of mercenaries led by Lissandra managed to annihilate black and red Sandkings with flamethrowers, laser cannon, and explosives albeit the sacrifice of two human lives. 
 
-White Sandkings, however, thwarted the contingent's endeavour through their psionic power amplified more powerfully by the nourishment of human flesh. Unsettled by hunger pangs of white Sandkings who imprisoned him intact due to their worship towards him, Kress summoned his partying friends to his house as their pray. 
+White Sandkings, however, thwarted the contingent's endeavour by utilizing their intrinsic psionic power amplified more powerfully with the nourishment of human flesh. Unsettled by hunger pangs of white Sandkings who imprisoned him intact due to their worship towards him, Kress summoned his partying friends to his house as their pray. 
 
 One morning after observing their preternaturally stillness and the exfoliation of their exoskeleton, he phoned Wo who denounced him righteously despite her irresponsible lack of thorough notice of the latent risks at first and suggested him a daring escape during their metamorphosis. 
 

@@ -2,7 +2,7 @@
 /* General styles for headings */
 /* Increase font size for body text */
 body {
-  font-size: 25px; /* Adjust as needed */
+  font-size: 20px; /* Adjust as needed */
   line-height: 1;
 }
 
@@ -66,7 +66,7 @@ h3::before {
 
 /* h4 styles */
 h4 {
-  font-size: 1.4em;
+  font-size: 1.5em;
   color: #f39c12; /* Yellow color */
   letter-spacing: 2px;
 }
@@ -82,7 +82,7 @@ h4::before {
 
 /* h5 styles */
 h5 {
-  font-size: 1.2em;
+  font-size: 1.5em;
   color: #9b59b6; /* Purple color */
   text-transform: capitalize;
 }
@@ -98,7 +98,7 @@ h5::before {
 
 /* h6 styles */
 h6 {
-  font-size: 1.0em;
+  font-size: 1.5em;
   color: #34495e; /* Grayish color */
   font-style: italic;
 }
