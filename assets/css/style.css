@@ -1,0 +1,18 @@
+  /* assets/css/style.css */
+
+/* Increase font size for body text */
+body {
+  font-size: 18px; /* Adjust as needed */
+  line-height: 1.6;
+}
+
+/* Increase font size for headings */
+h1, h2, h3, h4, h5, h6 {
+  font-size: 2em; /* Adjust the scale of your headings */
+}
+
+/* Increase font size for paragraphs */
+p {
+  font-size: 1.2em; /* Adjust as needed */
+}
+
