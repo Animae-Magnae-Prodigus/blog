@@ -9,8 +9,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Arial', sans-serif; /* Change to your preferred font */
   font-weight: bold;
-  margin: 20px 0;
-  padding-left: 3em;
+  margin: 1em 0;
+  padding-left: 1em;
   /*padding-left: 50px;*/
   position: relative;
 }
@@ -23,14 +23,14 @@ h1 {
   /*text-transform: uppercase; /* Uppercase */*/
 }
 
-h1::before {
-  content: "🔶 "; /* Decorative icon before h1 */
-  font-size: 0.5em;
-  position: absolute;
-  left: 0;
-  top: 50%;
-  transform: translateY(-50%);
-}
+/*h1::before {*/
+/*  content: "🔶 "; /* Decorative icon before h1 */*/
+/*  font-size: 1em;*/
+/*  position: absolute;*/
+/*  left: 0;*/
+/*  top: 50%;*/
+/*  transform: translateY(-50%);*/
+/*}*/
 
 /* h2 styles */
 h2 {
@@ -116,6 +116,6 @@ h6::before {
 
 /* Increase font size for paragraphs */
 p {
-  font-size: 1.0em; /* Adjust as needed */
+  font-size: 1.5em; /* Adjust as needed */
 }
 
