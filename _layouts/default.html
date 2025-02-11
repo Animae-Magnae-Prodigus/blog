@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=2.0">
-  <title>{{ page.title }} </title>
-  <meta name="description" content="It's just a place to record my journey of cultivating critical taste and enhancing literary expression.">
+  <!--<title>{{ page.title }} </title>-->
+  <!--<meta name="description" content="It's just a place to record my journey of cultivating critical taste and enhancing literary expression.">-->
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 
   <!-- Google Analytics (if you're adding it later) -->
@@ -19,10 +19,10 @@
 </head>
 <body>
 
-  <header>
-    <h1>{{ page.title }}</h1>
-    <!--<p>It's just a place to record my journey of cultivating critical taste and enhancing literary expression.</p>-->
-  </header>
+  <!--<header>-->
+    <!--<h1>{{ page.title }}</h1>-->
+    <!--<p></p>-->
+  <!--</header>-->
 
   <main>
     <article>
@@ -40,6 +40,7 @@
   <footer>
     <p>© {{ "now" | date: "%Y" }} {{ page.author }}. All rights reserved.</p>
     <p>{{ page.description }}</p>
+		<p><em>{{ page.epigraph }}</em></p>
   </footer>
 
 </body>
