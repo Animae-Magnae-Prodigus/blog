@@ -2,7 +2,7 @@
 /* General styles for headings */
 /* Increase font size for body text */
 body {
-  font-size: 15px; /* Adjust as needed */
+  font-size: 13px; /* Adjust as needed */
   line-height: 1.6;
 }
 
@@ -10,13 +10,14 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Arial', sans-serif; /* Change to your preferred font */
   font-weight: bold;
   margin: 20px 0;
-  padding-left: 30px;
+  padding-left: 50px;
   position: relative;
 }
 
 /* h1 styles */
 h1 {
   font-size: 2.5em; /* Larger font size */
+	padding-left: 40px
   color: #2c3e50; /* Dark color */
   /*text-transform: uppercase; /* Uppercase */*/
 }
@@ -25,7 +26,6 @@ h1::before {
   content: "🔶 "; /* Decorative icon before h1 */
   font-size: 2em;
   position: absolute;
-	padding-left: 40px
   left: 0;
   top: 50%;
   transform: translateY(-50%);
