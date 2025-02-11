@@ -24,7 +24,7 @@ h1 {
 
 h1::before {
   content: "🔶 "; /* Decorative icon before h1 */
-  font-size: 2em;
+  font-size: 0.5em;
   position: absolute;
   left: 0;
   top: 50%;
