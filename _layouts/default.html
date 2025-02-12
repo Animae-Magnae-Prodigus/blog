@@ -1,98 +1,47 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=640">
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=2.0">
+  <!--<title>{{ page.title }} </title>-->
+  <!--<meta name="description" content="It's just a place to record my journey of cultivating critical taste and enhancing literary expression.">-->
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen">
-    <link rel="stylesheet" href="{{ '/assets/css/mobile.css' | relative_url }}" media="only screen and (max-width:640px)">
-    <link rel="stylesheet" href="{{ '/assets/css/non-screen.css' | relative_url }}" media="only screen and (max-width:640px)">
+  <!-- Google Analytics (if you're adding it later) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ELNLJR6XRV"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-    <script src="{{ '/assets/js/modernizr.js' | relative_url }}"></script>
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-    <script src="{{ '/assets/js/headsmart.min.js' | relative_url }}"></script>
-    <script>
-      $(document).ready(function () {
-        $('#main_content').headsmart()
-      })
-    </script>
+    gtag('config', 'G-ELNLJR6XRV');
+  </script>
+</head>
+<body>
 
-{% seo %}
+  <!--<header>-->
+    <!--<h1>{{ page.title }}</h1>-->
+    <!--<p></p>-->
+  <!--</header>-->
 
-{% include head-custom.html %}
-  </head>
+  <main>
+    <article>
+      <!--<header>-->
+        <!--<h2>{{ page.title }}</h2>-->
+        <!--<p><em> {{ page.date | date: "%B %d, %Y" }}</em></p>-->
+      <!--</header>-->
 
-  <body>
-    <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
-    <div class="shell">
-
-      <header>
-        <div class="ribbon-outer">
-          <div class="ribbon-inner">
-            <h1>{{ site.title | default: site.github.repository_name }}</h1>
-            <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-          </div>
-          <span class="left-tail"></span>
-          <span class="right-tail"></span>
-        </div>
-      </header>
-
-      {% if site.show_downloads %}
-        <section id="downloads">
-          <span class="inner">
-            <a href="{{ site.github.zip_url }}" class="zip"><em>download</em> .ZIP</a><a href="{{ site.github.tar_url }}" class="tgz"><em>download</em> .TGZ</a>
-          </span>
-        </section>
-      {% else %}
-        <div id="no-downloads">
-          <span class="inner">
-          </span>
-        </div>
-      {% endif %}
-
-
-      <span class="banner-fix"></span>
-
-
-      <section id="main_content">
+      <div class="post-content">
         {{ content }}
-				  <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
-      <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.minima.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+      </div>
+    </article>
+  </main>
 
-      </section>
+  <footer>
+    <p>© {{ "now" | date: "%Y" }} {{ page.author }}. All rights reserved.</p>
+    <p>{{ page.description }}</p>
+		<p><em>{{ page.epigraph }}</em></p>
+  </footer>
 
-      <footer>
-        <span class="ribbon-outer">
-          <span class="ribbon-inner">
-            {% if site.github.is_project_page %}
-              <p>this project by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a href="{{ site.github.repository_url }}">GitHub</a></p>
-            {% endif %}
-            {% if site.github.is_user_page %}
-              <p>Projects by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a href="{{ site.github.repository_url }}">GitHub</a></p>
-            {% endif %}
-          </span>
-          <span class="left-tail"></span>
-          <span class="right-tail"></span>
-        </span>
-        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
-        <span class="octocat"></span>
-      </footer>
-
-    </div>
-  </body>
+</body>
 </html>

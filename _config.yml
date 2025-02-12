@@ -1,7 +1,7 @@
+theme: "minima"
 # theme: "minima"
-# theme: "minima"
-remote_theme: pages-themes/merlot@v0.2.0
-plugins:
+# remote_theme: pages-themes/merlot@v0.2.0
+# plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: A story a day keeps Boring Fairy away.
 author: AMP
@@ -9,18 +9,18 @@ description: It's just a place to record my journey of cultivating critical tast
 show_downloads: true
 google_analytics: G-ELNLJR6XRV
 
-# defaults:
-#   scope:
-#     path: ""
-#   values:
-#       # layout: "default"
-#       title: "A story a day keeps Boring Fairy away."
-#       author: "AMP"
-#       description: "It's just a place to record my journey of cultivating critical taste and enhancing literary expression."  
-#       epigraph: "Friedrich Nietzsche (Untimely Meditations, 1876): Do ask yourself why you, the individual, exist, and if you can get no other answer try for once to justify the meaning of your existence as it were a posteriori by setting before yourself an aim, a goal, a ‘to this end’, an exalted and noble ‘to this end’. Perish in pursuit of this and only this - I know of no better aim of life than that of perishing, ANIMAE MAGNAE PRODIGUS, in pursuit of the great and the impossible."
-#
-#   scope:
-#     path: "_posts"
-#   values:
-#     # layout: "default"
-#     # page_excerpts: true
+defaults:
+  scope:
+    path: ""
+  values:
+      # layout: "default"
+      title: "A story a day keeps Boring Fairy away."
+      author: "AMP"
+      description: "It's just a place to record my journey of cultivating critical taste and enhancing literary expression."  
+      epigraph: "Friedrich Nietzsche (Untimely Meditations, 1876): Do ask yourself why you, the individual, exist, and if you can get no other answer try for once to justify the meaning of your existence as it were a posteriori by setting before yourself an aim, a goal, a ‘to this end’, an exalted and noble ‘to this end’. Perish in pursuit of this and only this - I know of no better aim of life than that of perishing, ANIMAE MAGNAE PRODIGUS, in pursuit of the great and the impossible."
+
+  scope:
+    path: "_posts"
+  values:
+    # layout: "default"
+    # page_excerpts: true
