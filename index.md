@@ -1,5 +1,5 @@
 ---
-title: HOME
+title: AMP's Personal Website
 ---
 
 # Principle
@@ -18,7 +18,7 @@ Some of the best of **detective fiction** also possess me with their plausible *
 
 
 # Rules
-+ The titles of my commenting posts follow the pattern of "scores I gave \| Author Name - Work Name".
++ The titles of my commenting posts follow the pattern of "Property of the post with scores I gave \| Author Name - Work Name".
 
 + **Spoiler Alert**: For more details or reasons, go ahead the links. **Don't click the links of my notes below unless you want to read spoilers!**
 
@@ -40,36 +40,3 @@ Some of the best of **detective fiction** also possess me with their plausible *
 + Works rated less than four didn't deserve my attention any more and I may block the writer accordingly.
 + Works rated no less than four deserved to be read at least once.
 + Works rated more than six deserved to be reread.
-
-# My Favorite Tags on science fiction 
-+ space opera 
-+ exotic adventure 
-+ thrilling journey 
-+ mystery 
-+ enigma 
-+ conundrum 
-+ challenge 
-+ struggle 
-+ life-or-death
-+ experiment
-+ hard science
-+ alien friendship
-+ first contact
-
-# My Favorite writers on science fiction 
-+ Issac Asimov
-+ Andy Weir
-+ Stanisław Lem
-+ Kim Robinson
-+ Jules Verne
-+ James White
-+ Arthur Clark
-+ Alastair Reynolds
-+ Neal Stephenson
-+ Robert Forward
-+ Poul Anderson
-+ Peter Watts
-+ Hel Clement
-+ Charles Stross
-+ Greg Egan
-+ Dmitri Bilenkin
