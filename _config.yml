@@ -3,10 +3,10 @@
 remote_theme: pages-themes/merlot@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: "A story a day keeps Boring Fairy away."
-author: "AMP"
-description: "It's just a place to record my journey of cultivating critical taste and enhancing literary expression."
-show_downloads: true 
+title: A story a day keeps Boring Fairy away.
+author: AMP
+description: It's just a place to record my journey of cultivating critical taste and enhancing literary expression.
+show_downloads: true
 google_analytics: G-ELNLJR6XRV
 
 # defaults:
