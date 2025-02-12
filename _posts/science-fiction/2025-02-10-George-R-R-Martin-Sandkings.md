@@ -1,6 +1,6 @@
 ---
 title: "Review 7/9 | George R. R. Martin - Sandkings"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1948-, 1979
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1948- 1979
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Review 3/9 | Martha Wells - Compulsion (The Murderbot Diaries #0.5)"
-tags: novellette, science fiction, Murderbot, cyborg
+tags: Novellette Science-Fiction Murderbot Cyborg
 ---
 
 # Core: 1/9. Terrible.

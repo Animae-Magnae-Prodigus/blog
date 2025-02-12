@@ -1,6 +1,6 @@
 ---
 title: "Review 2/9 | Juan José Arreola - Baby HP"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1918-2001, 1952
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1918-2001 1952
 ---
 
 # Plot: 4/9. As an advertisement for imaginary gadget called Baby HP and as a satire on hysterical babies with convulsive tantrums, it didn't have any visible plot rather than a series of funny scenes.

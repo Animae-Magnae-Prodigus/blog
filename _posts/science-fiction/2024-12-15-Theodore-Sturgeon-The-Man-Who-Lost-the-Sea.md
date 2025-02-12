@@ -1,6 +1,6 @@
 ---
 title: "Review 6/9 | Theodore Sturgeon - The Man Who Lost the Sea"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1918-1985, 1959
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1918-1985 1959
 ---
 
 # Plot: 8/9. Sturgeon made an boring air crash an impressive mystery. I would give a higher score if Sturgeon could give more detail on the mission and the life of the man. I did not even know his name at the end of the story.

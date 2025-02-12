@@ -1,6 +1,6 @@
 ---
 title: "Review 4/9 | David R. Bunch - Three from Moderan"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1925-2000, 1971
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1925-2000 1971
 ---
 
 # Plot: 4/9. It's tiresome and bland records of encountering three Moderans in a post-apocalyptic world without thrilling scenes I expected at first such as fights and wars: I would give a higher score if some futuristic wars were rendered with more detail instead of weird and tedious dialogues.

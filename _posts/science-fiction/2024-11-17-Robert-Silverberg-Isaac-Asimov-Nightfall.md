@@ -1,6 +1,6 @@
 ---
 title: "Review 2/9 | Robert Silverberg, Isaac Asimov - Nightfall"
-tags: 1990, novel, science fiction,
+tags: 1990 Novel Science-Fiction
 ---
 
 # Core: 2/9. This adaptation is bad.

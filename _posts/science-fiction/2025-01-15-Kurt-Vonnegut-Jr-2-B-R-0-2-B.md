@@ -1,6 +1,6 @@
 ---
 title: "Review 3/9 | Kurt Vonnegut Jr. - 2 B R 0 2 B"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1922-2007, 1962
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1922-2007 1962
 ---
 
 # Plot: 6/9. It's a concise dark drama as powerful as a short film.

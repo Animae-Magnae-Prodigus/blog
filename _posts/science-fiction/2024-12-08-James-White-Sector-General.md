@@ -1,6 +1,6 @@
 ---
 title: "Review 8/9 | James White - Sector General"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1928-1999, 1957
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1928-1999 1957
 ---
 
 # Plot: 8/9. It's oriented on an inexperienced doctor's workday. He encountered aliens, made mistakes, treated patients, pondered over philosophical questions, argued with others, and killed the source of trouble. It's a story of first contact and self-growth in the splendid cosmos with bountiful species. It made me feel real yet a bit lax structurally. Since it's an excerpt from a novel, then the fault was excusable.

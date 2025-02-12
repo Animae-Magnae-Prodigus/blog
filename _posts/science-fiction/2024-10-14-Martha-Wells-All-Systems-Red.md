@@ -1,6 +1,6 @@
 ---
-title: "Review 4/9 | Martha Wells - All Systems Red (The Murderbot Diaries #1)"
-tags: novella, science fiction, space, Murderbot, cyborg, company, corporation, survey, security, contract, adventure
+title: "4/9 | Martha Wells - All Systems Red (The Murderbot Diaries #1)"
+tags: Novella Science-Fiction Space Murderbot Cyborg Company Corporation Survey Security Contract Adventure
 ---
 
 # Core: 2/9. Slightly Bad.

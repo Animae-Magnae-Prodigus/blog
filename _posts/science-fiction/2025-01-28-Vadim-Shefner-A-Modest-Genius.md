@@ -1,6 +1,6 @@
 ---
 title: "Review 2/9 | Vadim Shefner - A Modest Genius"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1915-2002, 1969
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1915-2002 1969
 ---
 
 # Plot: 2/9. A tawdry love story.

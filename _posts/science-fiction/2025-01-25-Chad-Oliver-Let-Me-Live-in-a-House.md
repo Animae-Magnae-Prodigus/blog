@@ -1,6 +1,6 @@
 ---
 title: "Review 3/9 | Chad Oliver - Let Me Live in a House"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1928-1993, 1954
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1928-1993 1954
 ---
 
 # Plot: 5/9. A horrible first contact disturbing the routine was dispelled by Gordon alone at the cost of his sanity.

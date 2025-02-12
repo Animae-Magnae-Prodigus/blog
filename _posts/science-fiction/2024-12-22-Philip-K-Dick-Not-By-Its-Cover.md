@@ -1,6 +1,6 @@
 ---
 title: "Review 2/9 | Philip K. Dick - Not By Its Cover"
-tags: Philip K. Dick, short story, novelette, science fiction, 1928-1982, 1952
+tags: Philip-K.-Dick Short-Story Novelette Science-Fiction 1928-1982 1952
 ---
 
 # Plot: 2/9. It's interesting to see the naughty wub again. But it had a boring storyline. I would give a higher score if it ended with Masters would like to a coat made up of wub fur to live forever, but was possessed therefore by the wub. Thus it also echoed the quatrain, "Our stint on earth doth herald an unstopping bliss."

@@ -1,6 +1,6 @@
 ---
 title: "Review 4/9 | Isaac Asimov - Ph as in Phony"
-tags: Tales of the Black Widowers, short story, novelette, mystery fiction, 1972, Ellery Queen's Mystery
+tags: Tales-Of-The-Black-Widowers Short-Story Novelette Mystery-Fiction 1972 Ellery-Queen's-Mystery
 ---
 
 # Plot: 4/9. Talking of the background of today's guest, Drake couldn't help recalling Faron, his mediocre yet wealthy classmate who once got an unusual high score to apply to PHD. He thought Faron must have cheated but didn't know how he did it. Henry thought it's the professor who was bought and connived at the cheat.

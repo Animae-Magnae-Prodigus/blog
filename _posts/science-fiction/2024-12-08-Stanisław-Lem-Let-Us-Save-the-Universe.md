@@ -1,6 +1,6 @@
 ---
 title: "Review 6/9 | Stanisław Lem - Let Us Save the Universe"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1921-2002, 1971
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1921-2002 1971
 ---
 
 # Plot: 5/9. This is a sarcastic and funny conte de philosophy in the form of an open letter from Tichy to appeal to the environmental protection by depicting the various malignant anthropic influence for the cosmic. Here are the phenomena he had a dig at:

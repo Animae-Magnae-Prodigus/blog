@@ -1,6 +1,6 @@
 ---
 title: "Review 4/9 | James Tiptree Jr. - And I Awoke and Found Me Here on the Cold Hill’s Side"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1915-, 1972
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1915- 1972
 ---
 
 # Plot: 4/9. A disillusioned elder warned the newcomer of the danger of approaching aliens. But it's typical that the newcomer turned a deaf ear to it. I would give a higher score if the harangue was less tedious.

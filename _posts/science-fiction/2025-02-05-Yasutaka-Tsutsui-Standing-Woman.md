@@ -1,6 +1,6 @@
 ---
 title: "Review 5/9 | Yasutaka Tsutsui - Standing Woman"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1934-, 1974
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1934- 1974
 ---
 # Plot: 4/9. The plot was bland because of the passive narrator who didn't do anything but accepting the status quo.
 The narrator finished his story embodying no practical meaning other than entertainment. On his way to post office, he met a stranger feeding a dog pillar, which was made brutally from the living creature and still held some original properties before they completely transformed into the plant. That gentleman confessed mournfully that he used to be a writer but now he didn't have any courage to continue his writing in an era when even a casual conversation here between two strangers might be reported, because two writers gathering together would be deemed as an illegal assembly.

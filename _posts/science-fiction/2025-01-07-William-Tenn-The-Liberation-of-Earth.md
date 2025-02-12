@@ -1,6 +1,6 @@
 ---
 title: "Review 7/9 | William Tenn - The Liberation of Earth"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1920-2010, 1950, 1953
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1920-2010 1950 1953
 ---
 
 # Plot: 7/9. This comical parable used an intergalactic stage to tell me how the humanity fell down owing to involving into the war between higher civilisations unfortunately.

@@ -1,6 +1,6 @@
 ---
 title: "Review 5/9 | Barrington J. Bayley - Sporting with the Chid"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1937-2008, 1979
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1937-2008 1979
 ---
 
 # Plot: 6/9. The story revolved around a disturbing first contact and an unsettling mystery of the reason why the Chid was categorized as forbidden.

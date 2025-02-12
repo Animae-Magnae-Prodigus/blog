@@ -1,6 +1,6 @@
 ---
 title: "Review 4/9 | Martha Wells - Rouge Protocol (The Murderbot Diaries #3)"
-tags: novella, science fiction, space, Murderbot, cyborg, adventure
+tags: Novella Science-Fiction Space Murderbot Cyborg Adventure
 ---
 
 # Core: 1/9. Terrible.

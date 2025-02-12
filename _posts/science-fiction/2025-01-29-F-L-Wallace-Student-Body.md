@@ -1,6 +1,6 @@
 ---
 title: "Review 5/9 | F. L. Wallace - Student Body"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1915-2004, 1953
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1915-2004 1953
 ---
 
 # Plot: 6/9. It's a horrible story happened in space colonization containing a mystery to be solved. I would give a higher score if how people treated this new human was depicted.

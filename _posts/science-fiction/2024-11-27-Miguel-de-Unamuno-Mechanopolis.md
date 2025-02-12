@@ -1,6 +1,6 @@
 ---
 title: "Review 3/9 | Miguel de Unamuno - Mechanopolis"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1864-1936, 1913
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1864-1936 1913
 ---
 
 # Core: 2/9. It's a story on a world run by only machines that have consciousness of human without any trace of human. But it puzzled me that why did these machines feed this uninvited person? And where did human who once lived in this Mechanopolis go? Plainly speaking, it's tedious and lack of conflicts.

@@ -1,6 +1,6 @@
 ---
 title: "Review 5/9 | Karl Hans Strobl; Gio Clairval - The Triumph of Mechanics"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1877-1946, 1907
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1877-1946 1907
 ---
 
 # Core: 6/9. I like the story that brilliant mechanic defeats the capitalists and the bureaucrat by his wit, and it told well though the technology here is a bit fantastic.

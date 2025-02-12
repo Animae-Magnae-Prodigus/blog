@@ -1,6 +1,6 @@
 ---
 title: "Review 1/9 | Clare Winger Harris - The Fate of the Poseidonia"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1891-1968, 1927
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1891-1968 1927
 ---
 
 # Plot: 1/9. Terrible. Because the protagonist was not a capable figure who tired his best. The plot was driven by the narrative of an idiot. 

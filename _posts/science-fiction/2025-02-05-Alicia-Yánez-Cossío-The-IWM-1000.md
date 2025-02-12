@@ -1,6 +1,6 @@
 ---
 title: "Review 3/9 | Alicia Yánez Cossío - The IWM 1000"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1929-, 1975
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1929- 1975
 ---
 
 # Plot: 3/9. I would give a higher score if scenes were depicted more vividly.

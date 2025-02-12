@@ -1,6 +1,6 @@
 ---
 title: "Review 6/9 | Philip K. Dick - Beyond Lies the Wub"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1928-1982, 1952
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1928-1982 1952
 ---
 
 # Plot: 8/9. It had a dramatic and unexpected turn.

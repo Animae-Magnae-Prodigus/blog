@@ -1,6 +1,6 @@
 ---
 title: "Review 1/9 | Silvina Ocampo - The Waves"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1903-1993, 1959
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1903-1993 1959
 ---
 
 # Plot: 1/9. How awful the story was presented! Did Womack (at 56 years old) know how to tell a story actually? I would give a higher score if Ocampo could render it in a more formal form. This is a work any mature writer would shame to publish.

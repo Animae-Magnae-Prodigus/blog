@@ -1,6 +1,6 @@
 ---
 title: "Review 7/9 | Dmitri Bilenkin - Where Two Paths Cross"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1933-1987, 1972
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1933-1987 1972
 ---
 # Plot: 7/9. It's a fiery confrontation between two species meeting for the first time. As usual, humanity who were less powerful yet more intelligent discovered the blind spots of the enemy and thus won the day. The principle used here was simple but classical yet I indeed failed to guess it out.
 People mistook mangors as innocuous shrubbery and consequently crushed its branches into its middle for specimens. In retaliation, mangors hence lifted their all-terrain vehicle up, squeezed and reverse it, which were their standard strategies against their primordial enemies. But all-terrain vehicle was so sturdy that those methods proved futile.

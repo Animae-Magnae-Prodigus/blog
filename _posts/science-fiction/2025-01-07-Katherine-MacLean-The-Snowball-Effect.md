@@ -1,6 +1,6 @@
 ---
 title: "Review 3/9 | Katherine MacLean - The Snowball Effect"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1925-, 1952
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1925- 1952
 ---
 
 # Plot: 4/9. It's absurd but a little comical. I would give a higher score if what Searles did could be put in more detail.

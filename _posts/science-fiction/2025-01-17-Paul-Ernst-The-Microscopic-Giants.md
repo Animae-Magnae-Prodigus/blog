@@ -1,6 +1,6 @@
 ---
 title: "Review 5/9 | Paul Ernst - The Microscopic Giants"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1899-1985, 1936
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1899-1985 1936
 ---
 
 # Plot: 7/9. I would give a higher score if Ernst could build the fight more spectacularly. Yet it was a complete story with suspenses and thrills.

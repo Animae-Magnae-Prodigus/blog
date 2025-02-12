@@ -1,6 +1,6 @@
 ---
 title: "Review 3/9 | Will Worthington - Plenitude"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 19??-????, 1959
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 19??-???? 1959
 ---
 
 # Plot: 4/9. Worthington clearly knew how to write a good story.

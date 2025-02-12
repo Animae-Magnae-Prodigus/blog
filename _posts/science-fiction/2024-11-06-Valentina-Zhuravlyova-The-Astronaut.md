@@ -1,6 +1,6 @@
 ---
 title: "Review 4/9 | Valentina Zhuravlyova - The Astronaut"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction,
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction
 ---
 
 # Core: 3/9. Slightly Bad.

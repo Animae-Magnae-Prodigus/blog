@@ -1,6 +1,6 @@
 ---
 title: "Review 3/9 | Michael Bishop - The House of Compassionate Sharers"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Kefann Vandermeer, short story, novelette, science fiction, 1945-, 1977
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Kefann-Vandermeer Short-Story Novelette Science-Fiction 1945- 1977
 ---
 # Plot: 3/9. Bishop's redemption arc tasted flat, failing to possess any impressive appeal of a Bishop to touch the right chord.
 Dorian Lorca, the narrator and the prince consort to the governor of Miroste, Rumai Montieth, was introduced to Kefa, the only wardress at the house of compassionate sharers as Montieth's last hope to extinguish her husband's anthrophobia and suicide attempt owing to having to survive in the form of cyborg after an accident.

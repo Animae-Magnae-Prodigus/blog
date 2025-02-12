@@ -1,6 +1,6 @@
 ---
 title: "Review 4/9 | J. G. Ballard - The Voices of Time"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1930-2009, 1960
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1930-2009 1960
 ---
 
 # Plot: 4/9. A man waited for his imminent death anxiously in an apocalyptic world. I would give a higher score if the plots were less tedious and Ballard could prevented himself from the impulse of blinding readers with science.

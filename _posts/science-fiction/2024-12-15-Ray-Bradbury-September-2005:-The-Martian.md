@@ -1,6 +1,6 @@
 ---
 title: "Review 5/9 | Ray Bradbury - September 2005: The Martian"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1920-2012, 1949
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1920-2012 1949
 ---
 
 # Plot: 8/9. I like the mystery and the sentiment within this story. However, I would give a higher score if the environment could be depicted more in detail. None the less, it had a complete drama structure: When mystery was dissolved, the conflict came to its zenith and the story ended with impressive tragedy.

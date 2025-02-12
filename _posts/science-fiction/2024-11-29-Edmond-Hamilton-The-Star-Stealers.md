@@ -1,6 +1,6 @@
 ---
 title: "Review 4/9 | Edmond Hamilton - The Star Stealers"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1904-1977, 1929
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1904-1977 1929
 ---
 
 # Plot: 6/9. Plots follow the classic template of Halloween Film or a hero's Odessa. I would give a higher score if Hamilton could depict characters more lively and add more humor to their conversation rather than cast a bunch of explanation to the hero.

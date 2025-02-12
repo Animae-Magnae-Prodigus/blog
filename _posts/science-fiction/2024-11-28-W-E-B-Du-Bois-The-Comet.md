@@ -1,6 +1,6 @@
 ---
 title: "Review 3/9 | W. E. B. Du Bois - The Comet"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1868-1963, 1920
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1868-1963 1920
 ---
 
 # Plot: 4/9. Tawdry. A black poor man who knew how to call for help saved a white rich woman who knew only crying for help. Thriller? Adventure? Fight? Nothing! Only enormous craps on how the woman felt the man. I would give a higher score if this was ended with the part of two and the return of bigotry because a happy ending flushes the serious core.

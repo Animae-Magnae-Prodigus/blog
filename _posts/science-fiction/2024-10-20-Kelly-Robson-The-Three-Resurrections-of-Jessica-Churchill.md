@@ -1,6 +1,6 @@
 ---
 title: "Review 1/9 | Kelly Robson - The Three Resurrections of Jessica Churchill"
-tags: Science Fiction, Short Story, Clarkesworld, Issue 101 - February 2015
+tags: Science-Fiction Short-Story Clarkesworld Issue101-February2015
 ---
 
 # Core: 2/9. So-so.

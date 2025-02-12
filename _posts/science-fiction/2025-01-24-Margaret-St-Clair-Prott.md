@@ -1,6 +1,6 @@
 ---
 title: "Review 3/9 | Margaret St. Clair - Prott"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1911-1995, 1953
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1911-1995 1953
 ---
 
 # Plot: 3/9. It's a bit tedious.

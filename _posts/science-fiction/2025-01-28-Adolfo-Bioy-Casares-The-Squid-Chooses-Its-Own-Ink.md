@@ -1,6 +1,6 @@
 ---
 title: "Review 3/9 | Adolfo Bioy Casares - The Squid Chooses Its Own Ink"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1914-1999, 1962
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1914-1999 1962
 ---
 
 # Plot: 3/9. The beginning was great but the ending was tedious as if nothing happened.

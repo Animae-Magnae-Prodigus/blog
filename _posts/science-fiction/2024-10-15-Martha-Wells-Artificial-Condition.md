@@ -1,6 +1,6 @@
 ---
 title: "Review 2/9 | Martha Wells - Artificial Condition (The Murderbot Diaries #2)"
-tags: novella, science fiction, space, Murderbot, cyborg, adventure
+tags: Novella Science-Fiction Space Murderbot Cyborg Adventure
 ---
 
 # Core: 0/9.

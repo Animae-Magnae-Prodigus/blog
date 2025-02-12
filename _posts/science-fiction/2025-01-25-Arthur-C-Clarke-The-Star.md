@@ -1,6 +1,6 @@
 ---
 title: "Review 6/9 | Arthur C. Clarke - The Star"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1917-2008, 1955
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1917-2008 1955
 ---
 
 # Plot: 6/9. The narrator depicted his tedious flight in detail before finally exposed what exactly troubled him so much. I supposed no one could predict the impressive ending except Clarke himself.

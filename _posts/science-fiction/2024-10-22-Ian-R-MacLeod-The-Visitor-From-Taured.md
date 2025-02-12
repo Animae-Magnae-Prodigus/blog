@@ -1,6 +1,6 @@
 ---
 title: "Review 2/9 | Ian R. MacLeod - The Visitor From Taured"
-tags: Science Fiction, Short Story, Novelette, Best Science Fiction of the Year (#2), 2017, Neil Clarke
+tags: Science-Fiction Short-Story Novelette Best-Science-Fiction-Of-The-Year-(#2) 2017 Neil-Clarke
 ---
 
 # Core: 1/9. Terrible. Many worlds theory is a common trope derived from the quantum theory.

@@ -1,6 +1,6 @@
 ---
 title: "Review 2/9 | John Baxter - The Hands"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1939-, 1965
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1939- 1965
 ---
 
 # Plot: 4/9. This bizarre, unsettled, grotesque, and concise story told  people couldn't escape the aftermath of torture and even became the torturer against their own will.

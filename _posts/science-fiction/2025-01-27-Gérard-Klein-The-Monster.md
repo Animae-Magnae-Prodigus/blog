@@ -1,6 +1,6 @@
 ---
 title: "Review 2/9 | Gérard Klein - The Monster"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1937-, 1958
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1937- 1958
 ---
 
 # Plot: 4/9. Crazy Love?

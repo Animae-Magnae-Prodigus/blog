@@ -1,6 +1,6 @@
 ---
 title: "Review 6/9 | Clifford D. Simak - Desertion"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1904-1988, 1944
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1904-1988 1944
 ---
 
 # Plot: 7/9. It had a tint of religious story promoting a sublimation from the clumsy terrestrial husk.

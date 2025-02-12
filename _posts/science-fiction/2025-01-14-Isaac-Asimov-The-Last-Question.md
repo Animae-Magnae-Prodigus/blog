@@ -1,6 +1,6 @@
 ---
 title: "Review 5/9 | Isaac Asimov - The Last Question"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1920-1992, 1956
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1920-1992 1956
 ---
 
 # Plot: 6/9. Asimov created a mythology on the alpha and omega of the universe around the problem of entropy.

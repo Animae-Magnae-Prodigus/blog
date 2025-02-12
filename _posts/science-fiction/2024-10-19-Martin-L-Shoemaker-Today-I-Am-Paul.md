@@ -1,6 +1,6 @@
 ---
 title: "Review 4/9 | Martin L. Shoemaker - Today I Am Paul"
-tags: Neil Clarke, The Best Science Fiction of the Year (Volume #1), Science Fiction, Short Story, Novelette
+tags: Neil-Clarke The-Best-Science-Fiction-Of-The-Year-(Volume-#1) Science-Fiction Short-Story Novelette
 ---
 
 # Core: 4/9. So-so. A robot caretaker took care of an old woman with Alzheimer's.

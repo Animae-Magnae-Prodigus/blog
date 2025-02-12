@@ -1,6 +1,6 @@
 ---
 title: "Review 0/9 | Alfred Jarry - Elements of Pataphysics"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1873-1907, 1911
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1873-1907 1911
 ---
 
 # Core: 0/9. 

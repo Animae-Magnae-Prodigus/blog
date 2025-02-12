@@ -1,6 +1,6 @@
 ---
 title: "Review 3/9 | Miguel de Unamuno - The Doom of Principle City"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1864-1936, 1913
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1864-1936 1913
 ---
 
 # Core: 4/9. It's a simple story on invasion by capitalism but it's somewhat grim.

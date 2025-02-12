@@ -1,6 +1,6 @@
 ---
 title: "Review 2/9 | Cordwainer Smith - The Game of Rat and Dragon"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1913-1966, 1955
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1913-1966 1955
 ---
 
 # Plot: 2/9. The upper half of this article dumped you information on the world-building without any plot! The space opera forced people to cooperate with their cats against the dragons. It's a complete story describing how the hero drew his cat and beat the enemy successfully, yet it couldn't strike the right chord of mine under the condition that I extremely like this kind of science fiction. I would give a higher score if it could trigger my curiosity or drew my attention more intensely.

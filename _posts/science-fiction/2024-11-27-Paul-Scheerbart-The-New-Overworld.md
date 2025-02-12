@@ -1,6 +1,6 @@
 ---
 title: "Review 1/9 | Paul Scheerbart - The New Overworld"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1863-1915, 1911
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1863-1915 1911
 ---
 
 # Core: 2/9. Aliens on Venus solved their problems on lands which might be a good topic, but depicted in a childish way. I think it's more fantastic fiction than science fiction. I didn't saw anywhere it's related to real science.

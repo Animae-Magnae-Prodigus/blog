@@ -1,6 +1,6 @@
 ---
 title: "Review 1/9 | A. Merritt - The Last Poet and the Robots"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1884-1943, 1934
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1884-1943 1934
 ---
 
 # Plot: 2/9. A reclusive poet saved the Earth. But this story could serve as the best example of bad writing.

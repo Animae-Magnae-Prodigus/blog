@@ -1,6 +1,6 @@
 ---
 title: "Review 2/9 | Carol Emshwiller - Pelt"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1921-, 1958
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1921- 1958
 ---
 
 # Plot: 4/9. This is quite a bland yet elaborate story full of motions and emotions.

@@ -1,6 +1,6 @@
 ---
 title: "Review 4/9 | Joanna Russ - When It Changed"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1937-, 1972
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1937- 1972
 ---
 # Plot: 2/9. It's not a story because it just contained one scene! Although it indeed entertained me so much with its interesting opening and settings. I would give a higher score if it could end in women beating the intruders out and declaring with self-confidence that they didn't need any men and their so-called sexual equality.
 The narrator served as the translator of the men coming into the city for the first time. The man looked pole-axed at the fact that men here were extinguished owing to the plague and women here propagated through the scientific method of merging ova.

@@ -1,6 +1,6 @@
 ---
 title: "Review 4/9 | Ursula K. Le Guin - Vaster Than Empires and More Slow"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1929-, 1971
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1929- 1971
 ---
 
 # Plot: 4/9. It's concerned with an extraterrestrial exploration and a man's transformation in learning love. But I could not resonate with the extreme terror inasmuch as the weak plot and lame suspense bored me to death.

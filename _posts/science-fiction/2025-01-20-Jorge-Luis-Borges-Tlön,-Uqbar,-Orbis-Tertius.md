@@ -1,6 +1,6 @@
 ---
 title: "Review 5/9 | Jorge Luis Borges - Tlön, Uqbar, Orbis Tertius"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1904-1988, 1944
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1904-1988 1944
 ---
 
 # Plot: 4/9. I would give a higher score if Borges could add more suspenses and twists to the plot so that I could not be so easily distracted during reading.

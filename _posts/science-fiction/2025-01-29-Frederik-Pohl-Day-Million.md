@@ -1,6 +1,6 @@
 ---
 title: "Review 3/9 | Frederik Pohl - Day Million"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1919-2013, 1966
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1919-2013 1966
 ---
 
 # Plot: 4/9. It's a bizarre love story happened in Day Million.

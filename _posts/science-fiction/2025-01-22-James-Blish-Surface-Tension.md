@@ -1,6 +1,6 @@
 ---
 title: "Review 6/9 | James Blish - Surface Tension"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1921-1975, 1952
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1921-1975 1952
 ---
 
 # Plot: 5/9. I would give a higher score if Blish could render it in the form of mystery where mannikins fought together for their discovery of their origin story with more thrillers and suspenses in a quicker tempo and lesser words.

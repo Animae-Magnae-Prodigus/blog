@@ -1,6 +1,6 @@
 ---
 title: "Review 8/9 | James H. Schmitz - Grandpa"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1911-1981, 1955
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1911-1981 1955
 ---
 
 # Plot: 8/9. It's a classical natural adventure story set on an alien planet with a mystery surrounding the secret of Grandpa throughout culminating in hero's pivotal revelation and salvation.

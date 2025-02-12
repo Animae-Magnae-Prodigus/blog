@@ -1,6 +1,6 @@
 ---
 title: "Review 9/9 | Stanley G. Weinbaum - A Martian Odyssey"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1902-1935, 1934
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1902-1935 1934
 ---
 
 # Plot: 9/9. It mainly uses 4 kinds of species as 4 mysteries and 3 challenges from the mediocre to the drama. Tweel's simple learnt vocabulary could serve as different complex meanings to prompt  Jarvis through the entire odyssey.

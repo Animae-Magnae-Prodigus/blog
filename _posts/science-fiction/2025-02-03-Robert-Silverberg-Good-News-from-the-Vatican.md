@@ -1,6 +1,6 @@
 ---
 title: "Review 3/9 | Robert Silverberg - Good News from the Vatican"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1935-, 1971
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1935- 1971
 ---
 # Plot: 2/9. It's a tedious story without any impressive scenes. Silverberg was good at creating bland plots, meaningless context, and boring nonsense as usual.
 While the narrator were waiting for the final announcement by the conclave that had been deadlocked for days, his companies differed on having a robot pope. In the end, the election result was settled and the new robot pope delivered the traditional benediction to the city and the world.

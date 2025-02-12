@@ -1,6 +1,6 @@
 ---
 title: "Review 3/9 | Harlan Ellison - “Repent, Harlequin!” Said the Ticktockman"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1934-2018, 1965
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1934-2018 1965
 ---
 
 # Plot: 4/9. It's a flimsy fairytale with  poor narrating, because Ellison didn't explain how Harlequin got so many jellybeans, how Harlequin was caught, weather Alice told him out or not, what moved Harlequin to do those gimmicks, how his death influenced the society or how this society was so irredeemable that it didn't change. So I think it a bit superficial yet funny.

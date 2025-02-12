@@ -1,6 +1,6 @@
 ---
 title: "Review 3/9 | Langdon Jones - The Hall of Machines"
-tags: The Big Book of Science Fiction, Jeff Vandermeer, Ann Vandermeer, short story, novelette, science fiction, 1942-, 1968
+tags: The-Big-Book-Of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer Short-Story Novelette Science-Fiction 1942- 1968
 ---
 
 # Plot: 2/9. It entailed specifications of various bizarre applicants held in an infinite hall. Frankly speaking, it resembled an art gallery on machinery to me. No wonder it's a work of an artist. 
