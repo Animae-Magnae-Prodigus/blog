@@ -1,4 +1,7 @@
-theme: "minima"
+# theme: "minima"
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 defaults:
   scope:
     path: ""
@@ -12,5 +15,5 @@ defaults:
   scope:
     path: "_posts"
   values:
-      # layout: "default"
-    page_excerpts: true
+    layout: "default"
+    # page_excerpts: true
