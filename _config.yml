@@ -8,6 +8,14 @@ author: AMP
 description: It's just a place to record my journey of cultivating critical taste and enhancing literary expression.
 show_downloads: true
 google_analytics: G-ELNLJR6XRV
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+header_pages:
+  - index.md
+minima:
+  # skin: classic
+  skin: solarized
 
 defaults:
 -
@@ -18,6 +26,7 @@ defaults:
       title: A story a day keeps Boring Fairy away.
       author: AMP
       description: It's just a place to record my journey of cultivating critical taste and enhancing literary expression.
+      Friedrich Nietzsche (Untimely Meditations, 1876): Do ask yourself why you, the individual, exist, and if you can get no other answer try for once to justify the meaning of your existence as it were a posteriori by setting before yourself an aim, a goal, a ‘to this end’, an exalted and noble ‘to this end’. Perish in pursuit of this and only this - I know of no better aim of life than that of perishing, ANIMAE MAGNAE PRODIGUS, in pursuit of the great and the impossible.
 
 -
   scope:
