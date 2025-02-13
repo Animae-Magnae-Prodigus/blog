@@ -1,5 +1,4 @@
 ---
-title: AMP's Personal Website
 ---
 
 # Principle

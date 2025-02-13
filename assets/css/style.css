@@ -118,6 +118,6 @@ p {
 }
 
 
-li,ul {
+table, ul {
   font-size: 1.5em; /* Adjust as needed */
 }
