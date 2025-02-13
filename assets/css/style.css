@@ -1,5 +1,5 @@
 
-body {
+* {
   font-size: 18px; /* Adjust as needed */
   line-height: 1;
 }
@@ -117,3 +117,7 @@ p {
   font-size: 1.5em; /* Adjust as needed */
 }
 
+
+li,ul {
+  font-size: 1.5em; /* Adjust as needed */
+}
