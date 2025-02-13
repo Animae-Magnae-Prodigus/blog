@@ -11,7 +11,7 @@ google_analytics: G-ELNLJR6XRV
 
 defaults:
   scope:
-    path: 
+    path: ""
   values:
       layout: default
       title: A story a day keeps Boring Fairy away.
