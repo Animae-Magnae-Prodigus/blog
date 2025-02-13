@@ -11,8 +11,8 @@ google_analytics: G-ELNLJR6XRV
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-# header_pages:
-#   - index.md
+header_pages:
+  - index.md
 minima:
   # skin: classic
   skin: solarized
