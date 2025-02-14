@@ -6,15 +6,15 @@ tags: The-Big-Book-of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer short-story
 
 
 # Plot: 4/9. It's a simple yet memorable love tragedy.
-The newlywed received a universe box which shortly afterward captivated the lonely heroine who was constantly disappointed with her husband's lateness of returning home. She was so enamored of this gadget that she neglected her duty of keeping the house and taking care of her husband.
+The newlywed received a universe box, which shortly afterward captivated the lonely heroine who was constantly disappointed with her husband's habitual lateness in returning home. She was so enamored of this gadget that she neglected her duty to maintain the household and take care of her husband as a normal Japanese housewife.
 
-Eventually, exasperated beyond forbearance, the husband approached that the heroine even didn't pay attention to his extramarital affair. 
-Subsequently, out of an outburst of rage at the heroine's ongoing absence of mind, he smashed the box and triggered the dial to absorb him into the inner universe in bewilderment. Overwhelmed by the inscription on the box that memorialized their wedding, she dived after him into the cosmos she had observed and craved for a long time. 
-
-
+Eventually, exasperated beyond forbearance, the husband confronted the heroine with her negligence insofar as she didn't pay due attention to his extramarital affair. 
+Subsequently, out of an outburst of rage at the heroine's ongoing absence of mind, he smashed the box and triggered the dial that absorbed him into the inner universe in bewilderment. Overwhelmed by the inscription on the box memorializing their wedding, she dove after him into the cosmos she had long observed and craved.
 
 
-# Core: 6/9. The heroine incarnated the kind of simple-minded women that I have witnessed in the real world: They were lured into the brutal cage of marriage without knowing too much about their partners and especially themselves thoroughly, so when their husbands were incapable of close company for various reasons, they were driven to distraction and sometimes to extremes.
+
+
+# Core: 6/9. The heroine incarnated the kind of simple-minded women that I have witnessed in the real world: They were lured into the brutal cage of marriage without knowing too much about their partners and especially themselves thoroughly. Consequently, when their husbands were incapable of providing close companionship for various reasons, they were driven to distraction and sometimes to extremes.
 
 
 
@@ -22,7 +22,7 @@ Subsequently, out of an outburst of rage at the heroine's ongoing absence of min
 
 
 
-# World and Others: 1/9. I would give a higher score if Shinji could impress me with a more spectacular description on the inner universe like [Arthur Clark's the Star]({% link 2025-01-25-Arthur-C-Clarke-The-Star.md | absolute_url %}).
+# World and Others: 1/9. I would give a higher score if Shinji could impress me with a more spectacular description of the inner universe, akin to [Arthur Clark's the Star]({% link 2025-01-25-Arthur-C-Clarke-The-Star.md | absolute_url %}) instead of writing how many new concepts the heroine had learnt from it.
 
 
 
