@@ -22,7 +22,7 @@ Subsequently, out of an outburst of rage at the heroine's ongoing absence of min
 
 
 
-# World and Others: 1/9. I would give a higher score if Shinji could impress _with a more spectacular description on the inner universe like [Arthur Clark's the Star](2025-01-25-Arthur-C-Clarke-The-Star.Md).
+# World and Others: 1/9. I would give a higher score if Shinji could impress me with a more spectacular description on the inner universe like [Arthur Clark's the Star]({% link 2025-01-25-Arthur-C-Clarke-The-Star.md | absolute_url %}).
 
 
 
