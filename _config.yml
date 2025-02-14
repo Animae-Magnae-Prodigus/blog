@@ -1,4 +1,7 @@
 theme: minima
+minima:
+  # skin: classic
+  skin: solarized
 # theme: minima
 # remote_theme: pages-themes/merlot@v0.2.0
 # plugins:
@@ -7,15 +10,14 @@ title: A story a day keeps Boring Fairy away.
 author: AMP
 description: It's just a place to record my journey of cultivating critical taste and enhancing literary expression.
 show_downloads: true
+url: ""
+baseurl: ""
 google_analytics: G-ELNLJR6XRV
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 # header_pages:
 #   - index.md
-minima:
-  # skin: classic
-  skin: solarized
 
 defaults:
 -
@@ -32,7 +34,5 @@ defaults:
   scope:
     path: "_posts/*"
   values:
-		url: ""
-		baseurl: ""
     layout: default
     # page_excerpts: true
