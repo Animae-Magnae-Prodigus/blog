@@ -8,7 +8,7 @@ tags: The-Big-Book-of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer short-story
 # Plot: 4/9. It's a simple yet memorable love tragedy.
 The newlywed received a universe box, which shortly afterward captivated the lonely heroine who was constantly disappointed with her husband's habitual lateness in returning home. She was so enamored of this gadget that she neglected her duty to maintain the household and take care of her husband as a normal Japanese housewife.
 
-Eventually, exasperated beyond forbearance, the husband confronted the heroine with her negligence insofar as she didn't pay due attention to his extramarital affair. 
+Eventually, exasperated beyond forbearance, the husband confronted the heroine with her negligence insofar as she didn't even pay due attention to his extramarital affair. 
 Subsequently, out of an outburst of rage at the heroine's ongoing absence of mind, he smashed the box and triggered the dial that absorbed him into the inner universe in bewilderment. Overwhelmed by the inscription on the box memorializing their wedding, she dove after him into the cosmos she had long observed and craved.
 
 
@@ -22,7 +22,7 @@ Subsequently, out of an outburst of rage at the heroine's ongoing absence of min
 
 
 
-# World and Others: 1/9. I would give a higher score if Shinji could impress me with a more spectacular description of the inner universe, akin to Arthur Clark's the Star instead of writing how many new concepts the heroine had learnt from it.
+# World and Others: 1/9. I would give a higher score if Shinji could impress me with a more spectacular description of the inner universe, akin to Arthur Clark's [the Star](% post_url 2025-01-25-Arthur-C-Clarke-The-Star %}) instead of writing how many new concepts the heroine had learnt from it.
 
 
 
