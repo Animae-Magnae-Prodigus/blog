@@ -5,28 +5,27 @@ tags: The-Big-Book-of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer short-story
 
 
 
-# Plot: 4/9. I had to bear with devilishly nauseating psychological harangue of this hypocritical the heroine in order to wait for the final destructive climax.
+# Plot: 4/9. I had to bear with devilishly nauseating psychological harangue of this hypocritical heroine in order to wait for the final destructive climax.
 Desperate for greater power, Marvene, the heroine, collaborated with her colleague Janos surreptitiously in their own experimentation of endowing species with borrowed propensities which could be monitored with a remote controller.
 
-Selly, a brilliant scientist also their patron-cum-boss, was therefore endowed with the propensity of a cat without his consent by the heroine who was constantly repellent to his vulgarity.
+Selly, a brilliant scientist and also their patron-cum-boss, was therefore endowed with the propensity of a cat without his consent by the heroine who was constantly repellent to his vulgarity.
 
-At a party full of celebrities, she activated the switch to humiliate Selly who, driven by the assumption that it's Janos' evil scheme due to Selly's snooping into Janos's confidential essays, activated his controller towards Janos, which made Janos suddenly lose his original fabulous capacity of swimming and was nearly drowned in the swimming pool. On the spur of the moment, Janos activated his secret weapon against the heroine to save himself through her new endowment of the snake. Thus at last all they three were in total disgrace and no longer desirable by the upper-class.
+At a party full of celebrities, she activated the switch to humiliate Selly who, driven by the assumption that it was Janos' evil scheme due to Selly's previous snooping into Janos's confidential essays, activated his controller towards Janos, which made Janos suddenly lose his exceptional swimming capacity and was nearly drowned in the swimming pool. On the spur of the moment, Janos activated his secret weapon against the heroine to save himself using her new swimming endowment of the snake. Thus, at last, all three of them were in total disgrace and no longer desirable to the upper-class.
 
+After Janos and Selly were both killed by the heroine, a snake, which had obtained the ability of language through Selly's experiment, spoke to the heroine telepathically with a quotation from Chomsky before swallowing her whole.
 
-In the end, after Janos and Selly were both killed by the heroine, a snake who obtained the ability of language by Selly's experiment spoke with the heroine telepathically with a quotation from Chomsky before swallowed her on a whole.
-
-# Core: 2/9. I beg to point out that by nature, mice could swim and snake could not communicate with others telepathically. Meanwhile, some crazy scientists coming back to roost would not suffice to disclose either "the follies of capitalist societies" or the darkness of the utopia under the pen of Saxton.
-
-
-
-# Character: 5/9. At least the heroine impressed me with her cold-blooded characteristics and snakelike behaviour, exemplifying the titular reference: She was actually the other hidden hideous snake that had read Chomsky. 
+# Core: 2/9. I beg to point out that by nature, mice can swim and snake can not communicate with others telepathically. Meanwhile, some crazy scientists coming back to roost would not suffice to disclose either "the follies of capitalist societies" or the darkness of the utopia under the pen of Saxton.
 
 
 
-# World and Others: 2/9. As the proverb "show rather than tell" goes, using the first perspective was not the rightful excuse of substituting the necessary description of the environment and the society with the grandiosely superficial exposition of the world-building.
+# Character: 5/9. At least the heroine impressed me with her cold-blooded characteristics and snakelike behaviour, exemplifying the titular reference: She was actually the other hidden, hideous snake that had read Chomsky. 
 
 
 
-# Overall: 3/9. If this work is the "classic Saxton", I was able to understand why she was " underrated " all the time.
+# World and Others: 2/9. As the proverb "show rather than tell" goes, using the first-person perspective was not the rightful excuse of substituting the necessary description of the environment and society with the grandiosely superficial exposition of the world-building.
+
+
+
+# Overall: 3/9. If this work is the "classic Saxton", I am able to understand why she has been "underrated" all the time.
 
 

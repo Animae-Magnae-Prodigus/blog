@@ -25,6 +25,13 @@ for book in books:
     author = re.sub(r"[\.;,]", "", book["Author"])
     AuthorTitle = author + "-" + title
     AuthorTitle = re.sub(r" ", r"-", AuthorTitle)
+    tags = book["Tags"]
+    print(tags)
+    tags = [ re.sub("\s+", "-", tag) for tag in re.split(r", ", tags)]
+    print(tags)
+    book["Tags"] = " ".join(tags)
+    # exit()
+
     if not glob.glob("**/*"+AuthorTitle+".md"):
         print(f"{AuthorTitle}")
         current = book
@@ -48,6 +55,8 @@ outputFilename =  outputFilename.isoformat() + "-" + AuthorTitle + ".md"
 outputFilenamePath = os.path.join("_posts", current["Directory"], outputFilename)
 with open("nv.sh", "w") as f:
     print(f"nvim -S ia.vim {outputFilenamePath} list.tsv", file=f)
+    print(f"rm -f current", file=f)
+    print(f"ln -s {outputFilenamePath} current", file=f)
 # exit()
 with open(outputFilenamePath, "w", encoding="utf-8") as f:
     f.write(template)
