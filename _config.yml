@@ -10,8 +10,6 @@ title: A story a day keeps Boring Fairy away.
 author: AMP
 description: It's just a place to record my journey of cultivating critical taste and enhancing literary expression.
 show_downloads: true
-url: ""
-baseurl: ""
 google_analytics: G-ELNLJR6XRV
 plugins:
   - jekyll-feed
