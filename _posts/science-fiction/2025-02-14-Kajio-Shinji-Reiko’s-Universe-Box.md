@@ -1,7 +1,6 @@
 ---
 title: "Review 4/9 | Kajio Shinji - Reiko’s Universe Box"
 tags: The-Big-Book-of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer short-story novelette science-fiction 1947- 1981
-baseurl: /blog
 ---
 
 
