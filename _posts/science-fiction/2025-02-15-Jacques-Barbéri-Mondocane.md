@@ -7,7 +7,7 @@ tags: The-Big-Book-of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer short-story
 
 
 
-# Plot: 2/9. The whole story was almost made up of fragmentary visceral scenes reminiscent of [Langdon Jones' the Hall of Machines]({{ site.Baseurl }}{% post_url 2025-01-29-Langdon-Jones-The-Hall-of-Machines.Md %}).
+# Plot: 2/9. The whole story was almost made up of fragmentary visceral scenes reminiscent of [Langdon Jones' the Hall of Machines]({{ site.baseurl }}{% post_url 2025-01-29-Langdon-Jones-The-Hall-of-Machines.Md %}).
 The war of unknown causes obliterated the Earth into the inferno where 
 + some people formed piles of pyramids of bodies which finally turned into autonomies.
 + Some people had developed the neurosis of never removing the mask despite the mould.
