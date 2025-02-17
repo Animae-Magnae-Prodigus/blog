@@ -27,14 +27,14 @@ In the end, the author abruptly claimed a new giant would come out and Raven's d
 
 
 
-# Character: 0/9. The person bearing the name was negligible. 
+# Character: 0/9. The only person bearing the name was negligible and I didn't see the usage of the first-person perspective in the last sentence.
 
 
 
-# World and Others: 1/9. So people who could fly to other planets failed to rebuild the Earth and recover the order? Was there any meaning besides Barbéri's personal idiosyncrasy in writing visceral and illogical harangues?
+# World and Others: 1/9. So why people who could fly to other planets failed to rebuild the Earth and recover the order? Was there any meaning besides Barbéri's personal idiosyncrasy in writing visceral and illogical harangues?
 
 
 
-# Overall: 1/9. Like Langdon, Barbéri was also a musician-cum-science-fictionist, which now would be a red flag for me for they all seemed to unknown to the definition of the story. By the way, why on earth did Vandermeers favored this kind of low quality of work?
+# Overall: 1/9. Like Langdon, Barbéri was also a musician-cum-science-fictionist, which now would be a red flag for me for they all seemed to unknown to the definition of the story. By the way, why on earth did Vandermeers favor this kind of low quality of work?
 
 
