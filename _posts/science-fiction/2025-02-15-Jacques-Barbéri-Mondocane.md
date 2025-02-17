@@ -1,5 +1,5 @@
 ---
-title: "Review 0/9 | Jacques Barbéri - Mondocane"
+title: "Review 1/9 | Jacques Barbéri - Mondocane"
 tags: The-Big-Book-of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer short-story novelette science-fiction 1954- 1983
 ---
 
@@ -35,6 +35,6 @@ In the end, the author abruptly claimed a new giant would come out and Raven's d
 
 
 
-# Overall: 1/9. Like Langdon, Barbéri was also a musician-cum-science-fictionist, which now would be a red flag for me for they all seemed to unknown to the definition of the story.
+# Overall: 1/9. Like Langdon, Barbéri was also a musician-cum-science-fictionist, which now would be a red flag for me for they all seemed to unknown to the definition of the story. By the way, why on earth did Vandermeers favored this kind of low quality of work?
 
 
