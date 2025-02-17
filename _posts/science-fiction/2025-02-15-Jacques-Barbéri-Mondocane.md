@@ -7,15 +7,15 @@ tags: The-Big-Book-of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer short-story
 
 
 
-# Plot: 2/9. The whole story was almost made up of fragmentary visceral scenes reminiscent of [Langdon Jones' the Hall of Machines]({{ site.baseurl }}{% post_url 2025-01-29-Langdon-Jones-The-Hall-of-Machines %}).
+# Plot: 2/9. The whole story was almost made up of fragmentary, visceral scenes reminiscent of [Langdon Jones' the Hall of Machines]({{ site.baseurl }}{% post_url 2025-01-29-Langdon-Jones-The-Hall-of-Machines %}).
 The war of unknown causes obliterated the Earth into the inferno where 
-+ Some people formed piles of pyramids of bodies which finally turned into autonomies.
-+ Some people had developed the neurosis of never removing the mask despite the mould.
-+ Some found them in trouble dealing with the ordinary buildings and machines insomuch as human perception was modulated inadvertently. (I didn't fully understand this bizarre part.)
-+ Some flung themselves into the space for a new planet albeit the death.
-+ Not long after Anton Raven, the scientist, was crushed by his own clothes, people wore heavy copper clothing or nothing at all.
-+ Men folded into the women's bodies to evolve into a new species called homunculi.
-+ Some people saw the appearance of men bearing the face of Raven in bottles at sea.
++ Some people formed piles of pyramids of bodies, which finally turned into biological autonomies.
++ Some people developed the neurosis of never removing the mask despite the erosive mould.
++ Some found themselves in trouble dealing with the ordinary buildings and machines insomuch as human perception was modulated inadvertently. (I didn't fully understand this abstruse part.)
++ Some flung themselves into space for a new planet albeit the high number of death.
++ Not long after Anton Raven, the scientist, was crushed by his own clothes, people began wearing heavy copper clothing or nothing at all.
++ Men folded into women's bodies and evolved into a new species called homunculi.
++ Some people saw the men in bottles bearing the face of Raven at sea.
 
 In the end, the author abruptly claimed a new giant would come out and Raven's death probably "save them all".
 
@@ -23,7 +23,7 @@ In the end, the author abruptly claimed a new giant would come out and Raven's d
 
 
 
-# Core: 1/9. This version of post-apocalyptic world was sketched out roughly without a clear chain of thought.
+# Core: 1/9. This version of a post-apocalyptic world was sketched out roughly without a clear chain of thought.
 
 
 
@@ -31,10 +31,10 @@ In the end, the author abruptly claimed a new giant would come out and Raven's d
 
 
 
-# World and Others: 1/9. So why people who could fly to other planets failed to rebuild the Earth and recover the order? Was there any meaning besides Barbéri's personal idiosyncrasy in writing visceral and illogical harangues?
+# World and Others: 1/9. So why did people who could fly to other planets fail to rebuild the Earth and restore  order? Was there any meaning, besides Barbéri's personal idiosyncrasy of misusing Darwinism, in writing visceral and illogical harangues? 
 
 
 
-# Overall: 1/9. Like Langdon, Barbéri was also a musician-cum-science-fictionist, which now would be a red flag for me for they all seemed to unknown to the definition of the story. By the way, why on earth did Vandermeers favor this kind of low quality of work?
+# Overall: 1/9. Like Langdon, Barbéri was also a musician-cum-science-fictionist, which now would be a red flag for me for they all seemed to unfamiliar with the basic definition of the story. By the way, why on earth did Vandermeers favor this kind of low-quality work?
 
 
