@@ -102,7 +102,7 @@ h6 {
 }
 
 h6::before {
-  content: "❖ "; /* Another symbol for h6 */
+  content: "📜 "; /* Another symbol for h6 */
   font-size: 0.5em;
   position: absolute;
   left: 0;
@@ -124,7 +124,8 @@ table, ul {
 
 blockquote {
   font-size: 1em;
-  color: #5c1414;
-background-color: #b3b3b3;
+  color:#2c1414;
+background-color:#e3e3e3;
 	padding-left: 2em;
+  content: "❖ ";
 }
