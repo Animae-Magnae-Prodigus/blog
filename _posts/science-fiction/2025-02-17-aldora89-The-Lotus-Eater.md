@@ -124,73 +124,121 @@ For example, under the federation's decision, scientists developed a new chemica
 # Character: 7/9. In spite of the humorous banter, witty puns and fabulous reactions throughout the context, the background of most characters and their individual development seemed obscure, especially regarding the reason why Spock was determined to downplay the discipline imbued within him from childhood and why Longclaw didn't miss her hometown. It also embodied large potential for improving the building of minor characters, such as the motivation of the unfriendly General and the response of friends and families towards their relationship.
 
 ## Jim failed to treat the Longclaw.
+>
 > Jim even made a stubborn bid to clean Longclaw’s wounds against her will. She led him in a circle around the fire, waiting until he was just within reach of her tail to scurry away. Spock observed their behavior with interest.
+>
 > “Would you just–”
+>
 > “No touch.”
+>
 > “Give me five seconds.”
+>
 > “No!”
+>
 > “I’m trying to help you!”
+>
 > “No help. Am strong.”
+>
 > “If you’re so strong, why do you keep running away?”
+>
 > “Am not running.”
+>
 > “Stop acting like a toddler.”
+>
 > Their mutual scramble halted as Longclaw stopped abruptly and peered back at Jim. “Toddler?”
+>
 > “Like a damn hatchling!” he snarled, lunging for her.
+>
 > Eventually Jim gave up and threw the entire contents of the pouch at her. It was not a very effective method. Spock estimated he had covered approximately twenty-four percent of the wound surface area at best.
+>
 > Nevertheless, Longclaw hissed and thrashed in a dramatic fashion. “Stupid, weak male!” She stalked away, her tail lashing.
+>
 > “Overgrown gecko!” Jim shouted after her. He sank down gracelessly next to Spock and stared into the fire, his gaze distant. His face reminded Spock of the mission he was introduced to the Gallatians and informed that they regularly ate their young.
+>
 >  “I think I just channeled Bones,” Jim mumbled. He stared at the empty pouch in his hands. “I guess I need to make more booze.”
 
 ## lovely moment
+>
 > dimming firelight. “Hey, Spock,” he said. “I can’t sleep. Truth or dare?”
+>
 > “Dare,” Spock said.
+>
 > His response had the desired effect. Jim gaped at him and hesitated. “Wow. Um… what can I dare you to do here that isn’t stupidly dangerous?”
+>
 > “That is why I had not bothered to select that option before,” Spock said.
+>
 > “Then why did you select it now?”
+>
 > “Curiosity,” he admitted.
+>
 > “Curiosity, huh?” Jim’s face grew serious, and he looked away for four point two seconds. Suddenly he snickered. “Dare you to kiss me.”
 
 ## Longclaw was assigned with the comfort button.
+>
 > Approximately the opposite of a useful function, Spock thought carefully, in the same tonepeople used for spelling out ‘walk’ in front of dogs. Jim was impressed.
 
 ## Longclaw exposed Kirk's lie.
+>
 > . “Have you eaten your daily allotment of our provisions?”
+>
 > “Yeah.”
+>
 > “Did not,” the scaly bundle across the fire said. “Gave mine, made eat. Stupid male too small.”
+>
 > Jim glared at her but did not defend himself, 
 
 ## Hell Puns
+>
 > They watched the clouds of steam turn orange in silence, and the last wash of sunlight slide off the peaks of distant mountains. The Galapagos was transformed into an amorphous, dark mirage on the boiling desert plain.
+>
 > “Damn it all to hell,” Jim said weakly.
+>
 > Spock thought about that. “According to the descriptions of many human religious traditions, we may already be there.”
+>
 > The captain punched his arm in response. 
 
 # funny moment 
+>
 > The three of them sat in total silence for what felt like a long time. Jim caught his breath, gingerly cleaned his injuries, and tried to figure out what to do next. This whole situation was the setup for a terrible joke, he thought. A druggie captain, a Vulcan having a breakdown, and an overgrown lizard are stranded on a planet, trying to kill each other. He wished he knew the punch line.
 
 ## When Kirk was so sensitive,
+>
 > “Absolutely.” Kirk let the turbolift doors slide closed, and almost immediately he sighed and slumped his shoulders, kneading a hand into his forehead. “I bet it’s some stupid technical error. All three of them are so fresh out of the Academy they’ve got dirt behind their ears.”
+>
 > “Approximately seventeen percent of all starship crews now consist of recent graduates,” Spock reminded him. “Yourself included.” Survivors of Narada, commended and promoted disproportionately during reconstruction.
+>
 > “Do you know what that sounds like to me? A lot of kids getting into trouble. Myself most definitely included.” The captain shot him a faint smile, although Spock had not intended his last comment as a jibe.
 
 ## banter of teammates
+>
 > Three bored-looking lieutenants were waiting for them in the transporter room when they arrived, outfitted in landingparty gear. “Where’s Dr. McGrouch?” Morgan hopped down from the edge of a control panel and adjusted the phaser onher belt.
+>
 > “He’ll be along in a minute,” Jim said. He retrieved two free sets of equipment from the corner locker, tossing one at Spock. “He has to nag someone to death first.”
+>
 > “Another casualty,” Davis moaned. “When will his reign of terror end?”
+>
 > Lautner rolled his eyes as he checked their emergency packs. “Not everyone has the singular talent of turning a five-minute appointment into a half-hour ordeal, Davey-boy.”
 
 ## banter among the trio 
+>
 > “She likes you,” Kirk said lightly once they were out of earshot. Spock was puzzled to find that the captain’s eyes were trained on him.
+>
 > “Sure seems that way, doesn’t it? Maybe I should give her a psych exam,” McCoy muttered, glancing around with obvious unease.
 
 ## witty retorts 
+>
 > “But sir, if you think it could be too dangerous for us, then it’s sure as hell too dangerous for you,” Morgan protested. “Mr. Spock, talk to him!”
+>
 > And say what, Spock wondered. He had no more influence over Kirk than a dwarf planet over its sun. “Lieutenant, I have learned that once the captain has made up his mind, very few forces in the universe can sway him.”
+>
 > (...)
+>
 > Spock approached him. “Sir, why did you not insist I return to the ship as well?”
+>
 > “I can persuade some junior officers just fine, but a battle of wills with you? No way.” Kirk heaved a sigh and smiled mischievously. “I learned a long time ago that once you’ve made up your mind, very few forces in the universe can sway you.”
 
 ## when Kirk found himself tied by Spock, his comment was this:
+>
 > “You know, standard human protocol says you have to take someone out a few times before you get to tie them up.”
 
 
