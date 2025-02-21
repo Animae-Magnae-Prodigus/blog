@@ -121,3 +121,11 @@ p {
 table, ul {
   font-size: 1.5em; /* Adjust as needed */
 }
+
+blockquote {
+  font-size: 1.5em;
+  color: #5c1414; /* Red color */
+  background-color: #d3d3d3; /* Red color */
+  text-decoration: underline; /* Underlined */
+	padding-left: 2em
+}
