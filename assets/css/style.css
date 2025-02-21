@@ -123,9 +123,8 @@ table, ul {
 }
 
 blockquote {
-  font-size: 1.5em;
-  color: #5c1414; /* Red color */
-  background-color: #d3d3d3; /* Red color */
-  text-decoration: underline; /* Underlined */
+  font-size: 1em;
+  color: #5c1414;
+  background-color: #131313; 
 	padding-left: 2em
 }

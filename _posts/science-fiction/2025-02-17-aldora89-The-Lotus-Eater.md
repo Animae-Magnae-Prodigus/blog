@@ -197,7 +197,7 @@ For example, under the federation's decision, scientists developed a new chemica
 >
 > The captain punched his arm in response. 
 
-# funny moment 
+## funny moment 
 >
 > The three of them sat in total silence for what felt like a long time. Jim caught his breath, gingerly cleaned his injuries, and tried to figure out what to do next. This whole situation was the setup for a terrible joke, he thought. A druggie captain, a Vulcan having a breakdown, and an overgrown lizard are stranded on a planet, trying to kill each other. He wished he knew the punch line.
 
