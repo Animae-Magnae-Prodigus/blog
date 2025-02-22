@@ -7,27 +7,22 @@ tags: AO3 fan-fiction Star-Trek James-T.-Kirk/Spock romance
 # Plot: 7/9. It's a really excellent yet gratuitous work on [AO3](https://archiveofourown.org/works/277853), though before beginning this work, make sure that you have read through all its warning tags, including the explicit description of the homosexual relationship between two males.
 
 ## 1
-Gates, the captain of Galapagos, solicited Kirk, her former student at the academy and also the captain of enterprise, to rescue her lost team on the planet Sigma Nox several days ago. Kirk and McCoy found Taylor, their ex-classmate, was on that list. 
+Gates, the captain of Galapagos, solicited Kirk, her former student at the academy and also the captain of enterprise, to rescue her team lost on the planet called Sigma Nox several days ago. Kirk and McCoy found Taylor, their ex-classmate, was on that list. Gates' attempt to tag along with Kirk and Spock was stymied by McCoy, and her science officer Brady requested a contact as long as they found Kallie Lombard.
 
-Gates' attempt to tag along with Kirk and Spock was stymied by McCoy, and her science officer Brady requested a contact as long as they found Kallie Lombard.
+During their exploration, had it not been for the prompt from McCoy and Kirk, Spock wouldn't have realized a possible favor from his teammate Morgan, who afterwards became the first to spot Gates' unconscious biologist, Phillips, lying in the exotic forest. McCoy reported Phillips' receptor didn't pick up acetylcholine insomuch as an unknown compound messed with his limbic system, and overall he seemed like on a bender. 
 
-During their exploration, had it not been for the prompt from McCoy and Kirk, Spock wouldn't have realized a possible favor from his teammate Morgan, who afterwards became the first to spot Gates' unconscious biologist, Phillips, lying in the exotic forest.
-
-McCoy reported Phillips' receptor didn't pick up acetylcholine insomuch as an unknown compound messed with his limbic system, and overall he seemed like on a bender. Granted that Gates' team got themselves misplaced following sunset, McCoy expected them to return immediately, which, of course, dismissed by Kirk, who extremely worried about the dwindling window of action.
-
-So all crew except Spock were commanded back to the ship leaving Spock and Kirk
- two in the rainforest. Momentarily following the sunset, when Spock was about to report an unusual signal he received, only to find Kirk just disappeared behind his back.
+Granted that Gates' team got themselves misplaced following sunset, McCoy expected them to return immediately, which, of course, dismissed by Kirk, who extremely worried about the dwindling window of action. So all crew except Spock were commanded back to the ship, leaving Spock and Kirk alone in the rainforest. Momentarily following the sunset, when Spock was about to report an unusual signal he received, only to find Kirk just disappeared right behind his back.
 
 
 
 ## 2
-Spock immediately contacted Nyota, who detected that Kirk's communicator was moving fast several hundred meters away. Spock subsequently hurried to get after it, only to find a communicator intentionally disabled by its owner. 
+Spock immediately notified Nyota, who detected that Kirk's communicator was moving fast several hundred meters away. Spock subsequently hurried to get after it, only to find a communicator intentionally disabled by its owner. 
 
 Scott informed him of the unusual electrical interference, yet Spock was determined to stay there until his captain was found.
 
-Luckily, Spock caught his somnambulant  captain, who was totally bewildered by his own action before being brought around by Spock as well as Kallie Lombard, one of Gates' missing crew, who was heading in the same direction as the previously possessed captain.
+Luckily, Spock caught his somnambulant  captain, who was totally bewildered by his own action before being brought around by Spock, as well as Kallie Lombard, one of Gates' missing crew, who was heading in the same direction as the previously possessed captain.
 
-In intermittent signals, they realized that a strange spaceship had attacked their ships like a bolt out of the blue sky, leading to the loss of Galapagos and the retreat of Entrepreneur. Meanwhile, the circumstance of vanishing Kirk obliged vexed Spock to let out Lombard for the destination.
+In intermittent signals, they realized that a strange spaceship had attacked their ships like a bolt out of the blue sky, leading to the loss of Galapagos and the retreat of Entrepreneur. Meanwhile, Kirk's sudden vanish obliged vexed Spock to let out Lombard for the destination.
 
 The culprit turned out to be Bulbweed, the largest angiospermous plant on the planet, from which Spock struggled to save Kirk its maw intact, by using his body to endure the annoying stings and clamps of enormous, noxious Cattlebugs.
 
@@ -179,7 +174,7 @@ For example, under the federation's decision, scientists developed a new chemica
 
 ## Longclaw exposed Kirk's lie.
 >
-> . “Have you eaten your daily allotment of our provisions?”
+> “Have you eaten your daily allotment of our provisions?”
 >
 > “Yeah.”
 >
@@ -243,7 +238,7 @@ For example, under the federation's decision, scientists developed a new chemica
 
 
 
-# World and Others: 6/9. Though the configuration of Bulbweed was indeed fascinating, the mystery of their appearance, the history of Cattlebugs, and the local biodiversity were not fully disclosed.
+# World and Others: 6/9. Though the configuration of Bulbweed was indeed fascinating, the mystery of their appearance, the history of Cattlebugs, and the scenery of an instinct planet were not fully disclosed.
 
 
 

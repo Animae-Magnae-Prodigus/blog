@@ -102,7 +102,7 @@ h6 {
 }
 
 h6::before {
-  content: "📜 "; /* Another symbol for h6 */
+  content: "❖ ";
   font-size: 0.5em;
   position: absolute;
   left: 0;
@@ -127,5 +127,13 @@ blockquote {
   color:#2c1414;
 background-color:#e3e3e3;
 	padding-left: 2em;
-  content: "❖ ";
+}
+
+blockquote::before {
+  content: "📜 "; /* Another symbol for h6 */
+  font-size: 0.5em;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
 }
