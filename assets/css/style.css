@@ -1,6 +1,6 @@
 
 body {
-  font-size: 14px; /* Adjust as needed */
+  font-size: 12px; /* Adjust as needed */
   line-height: 1;
 }
 
@@ -133,7 +133,7 @@ blockquote::before {
   content: "📜 "; 
   font-size: 0.5em;
   position: absolute;
-  left: 0;
-  top: 5%;
-  transform: translateY(-5%);
+  /*left: 0;*/
+  /*top: 5%;*/
+  /*transform: translateY(-5%);*/
 }

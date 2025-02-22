@@ -4,10 +4,10 @@
 @import "{{ site.theme }}";
 
 
-// body {
-//   font-size: 18px; /* Adjust as needed */
+body {
+  font-size: 12px; /* Adjust as needed */
 //   line-height: 1;
-// }
+}
 //
 // h1, h2, h3, h4, h5, h6 {
 //   font-family: 'Arial', sans-serif; /* Change to your preferred font */
@@ -122,6 +122,9 @@
 // }
 //
 //
-// table, ul {
-//   font-size: 1.5em; /* Adjust as needed */
-// }
+p {
+  font-size: 1.5em; /* Adjust as needed */
+}
+table, ul {
+  font-size: 1.0em; /* Adjust as needed */
+}
