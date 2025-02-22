@@ -24,16 +24,16 @@ Luckily, Spock caught his somnambulant  captain, who was totally bewildered by h
 
 In intermittent signals, they realized that a strange spaceship had attacked their ships like a bolt out of the blue sky, leading to the loss of Galapagos and the retreat of Entrepreneur. Meanwhile, Kirk's sudden vanish obliged vexed Spock to let out Lombard for the destination.
 
-The culprit turned out to be Bulbweed, the largest angiospermous plant on the planet, from which Spock struggled to save Kirk its maw intact, by using his body to endure the annoying stings and clamps of enormous, noxious Cattlebugs.
+The culprit turned out to be Bulbweed, the largest angiospermous plant on the planet, from the maw of which Spock struggled to save Kirk intact, while using his body to endure the annoying stings and clamps of enormous, noxious Cattlebugs.
 
 
 
 
 ## 3
-The next morning, when Spock went out for edible food, Kirk regained his consciousness gradually, checked the electronics, and collected the kindling. After Spock brought souvenirs back and managed to light the fire, they ate their first dinner together on this godforsaken planet for the first time.
+The next morning, when Spock went out for edible food, Kirk regained his consciousness gradually, checked the electronics, and collected the kindling. After Spock brought souvenirs back and managed to light the fire, they ate their adventurous dinner together on this godforsaken planet for the first time.
 
 ## 4
-Watching Kirk's listless mental state, sapped day by day by his nightly possession, Spock felt obliged to put aside his vegetarianism and hunt animals for better nutrition nourishing his captain. The sense of thrilling self-accomplishment reminded him of his previous ostracism by his paternal tribe owing to his once savage attack on one innocent tribesman.
+Watching Kirk's listless mental state sapped day by day by his nightly possession, Spock felt obliged to put aside his vegetarianism and hunt animals for better nutrition to nourish his captain. The sense of thrilling self-accomplishment reminded him of his previous ostracism by his paternal tribe owing to his once savage attack on one innocent tribesman.
 
 Kirk was responsible for cooking and mending, and once found a luminous artificial object surrounding the planet which was supposed to be the abandoned Galapagos. 
 
@@ -61,22 +61,20 @@ When a giant, tough mantis attacked, paralyzed and devoured Spock, Kirk, who had
 Kirk demanded that Spock entered his healing trance, which Spock obeyed reluctantly.
 
 ## 7
-Kirk almost got himself killed when he tried to impede the unnecessary attack from fight-fogged Spock, who indulged himself in the spree of the massacre at the bare sight of a giant lizard approaching his captain, because, as it turned out from their communication, the lizard, called Longclaw and also the only survivor of an expedition team from another advanced civilisation, had no inimical intention to speaking species.
+Kirk almost got himself killed when he tried to impede the unnecessary assault from fight-fogged Spock, who indulged himself in the spree of the massacre at the bare sight of a giant lizard approaching his captain, because, as it turned out from their communication, the lizard, called Longclaw and also the only survivor of an expedition team from another advanced civilisation, had no inimical intention to speaking species.
 
-Spock confessed that all the times he lost control recently, albeit his strict discipline since the childhood incident, were all related to Kirk, who acknowledged Spock's apology and even consoled the distraught Spock that he had actually made substantial progress in controlling himself, judged from the different consequences of his emotional breakdowns.
+Spock confessed that all the times he lost self-control recently, albeit his strict discipline since the childhood incident, were all closely related with Kirk, who acknowledged Spock's apology and even consoled the distraught Spock that he had actually made substantial progress in self-possession, judged from the different consequences of his emotional breakdowns.
 ## 8
 In order to approach Galapagos in the exceedingly sweltering geothermal fields, they were determined to make a thermal protection suit, and Spock volunteered to venture into the literal hell because of his innate thermo-regulatory structure.
 
-Subsequent to many failed attempts, they found the ideal material might possibly be the armor of the aforementioned mantis, which was called Snapnecks by Longclaw, perhaps owing to their weakness of their brittle necks exposing while they were snapping.
+Subsequent to many failed attempts, they found the ideal material might possibly be the armor of the aforementioned mantis, which was called Snapnecks by Longclaw, perhaps owing to their weakness of their brittle necks exposing at their snapping.
 
 On their way to hunt, Kirk dared Spock to kiss him, and Spock did, much to Kirk's surprise.
 
 ## 9
-Immediately after Kirk came to from an failed besiege surround a Snapneck, Longclaw led him to rescue Spock, who had been abducted to Snapnecks' den.
+Immediately after Kirk came to from their failed besiege of a Snapneck, Longclaw led him to rescue Spock, who had been just abducted to Snapnecks' den. Not only was Spock found there comatose, but also Kallie Lombard's remains were hanging on the branches.
 
-Not only was Spock found comatose, but also Kallie Lombard's remains were hanging on the branches of the den. 
-
-Kirk managed to kill the male with the assistance of Longclaw and freed Spock from the web. But Bulbweed again degenerated his mentality at the very same moment that a more potent female was about to come back.
+Kirk managed to kill the male with the assistance of Longclaw, and freed Spock from the web. But Bulbweed again degenerated his mentality at the very same moment that a more potent female was about to come back.
 
 In such a delirium, he sensed fragmentary memories belonging to his alternative self, including a scene where his other self was kissing his own Spock, for, in that universe, they were apparently mates.
 
@@ -102,7 +100,7 @@ They finally made it home.
 
 ## 12
 They were greeted by their astonished colleagues, including McCoy who discovered Bulbweed could release two types of chemicals targeting in organisms holding hemoglobin or similar iron-based proteins: One was able to hack the acetylcholine receptors through direct contact, causing the death of victims during withdrawal, and the other, wrenching into the limbic systems, was only emitted in the night through the air to attract victims to approach the former chemical.
-Soon, observing captain's chronic health issues as well as post-traumatic syndrome, Spock proposed a healing vacation for they both in his hometown, where Spock declared to his people that the teachings of masters were no longer suitable for him and hinted he would mate with Kirk, an earthling just like his mother.
+Soon, observing captain's chronic health issues as well as post-traumatic syndrome, Spock proposed a healing vacation for them both in his own hometown, where Spock declared to his people that the teachings of masters were no longer suitable for him and hinted he would mate with Kirk, an earthling just like his mother.
 
 
 ## 13
