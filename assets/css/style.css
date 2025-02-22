@@ -135,5 +135,5 @@ blockquote::before {
   position: absolute;
   /*left: 0;*/
   /*top: 5%;*/
-  /*transform: translateY(-5%);*/
+  transform: translateX(-50%);
 }
