@@ -4,12 +4,12 @@
 @import "{{ site.theme }}";
 
 body {
-  font-size: 15px; 
+  font-size: 15px;
   line-height: 1;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Arial', sans-serif; 
+  font-family: 'Arial', sans-serif;
   font-weight: bold;
   margin: 1em 0;
   padding-left: 1em;
@@ -17,9 +17,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.0em; 
+  font-size: 2.0em;
   padding-left: 40px;
-  color: #2c3e50; 
+  color: #2c3e50;
 }
 
 
@@ -34,12 +34,12 @@ h1 {
 
 h2 {
   font-size: 1.8em;
-  color: #16a085; 
+  color: #16a085;
   font-style: italic;
 }
 
 h2::before {
-  content: "🔹 "; 
+  content: "🔹 ";
   font-size: 0.5em;
   position: absolute;
   left: 0;
@@ -50,12 +50,12 @@ h2::before {
 
 h3 {
   font-size: 1.6em;
-  color: #e74c3c; 
-  text-decoration: underline; 
+  color: #e74c3c;
+  text-decoration: underline;
 }
 
 h3::before {
-  content: "❖ "; 
+  content: "❖ ";
   font-size: 0.5em;
   position: absolute;
   left: 0;
@@ -66,12 +66,12 @@ h3::before {
 
 h4 {
   font-size: 1.5em;
-  color: #f39c12; 
+  color: #f39c12;
   letter-spacing: 2px;
 }
 
 h4::before {
-  content: "★ "; 
+  content: "★ ";
   font-size: 0.5em;
   position: absolute;
   left: 0;
@@ -82,12 +82,12 @@ h4::before {
 
 h5 {
   font-size: 1.5em;
-  color: #9b59b6; 
+  color: #9b59b6;
   text-transform: capitalize;
 }
 
 h5::before {
-  content: "➤ "; 
+  content: "➤ ";
   font-size: 0.5em;
   position: absolute;
   left: 0;
@@ -98,7 +98,7 @@ h5::before {
 
 h6 {
   font-size: 1.5em;
-  color: #34495e; 
+  color: #34495e;
   font-style: italic;
 }
 
@@ -115,12 +115,12 @@ h6::before {
 
 
 p {
-  font-size: 1.5em; 
+  font-size: 1.5em;
 }
 
 
 li, table, ul {
-  font-size: 1em; 
+  font-size: 1em;
 }
 
 blockquote {
@@ -131,7 +131,7 @@ background-color:#e3e3e3;
 }
 
 blockquote::before {
-  content: "📜 "; 
+  content: "📜 ";
   font-size: 0.5em;
   position: absolute;
   left: 0;

@@ -10,8 +10,7 @@ Edward, an obstetrician, gave Vergil Ulam, his talented friend met in the univer
 
 In these days, those incredible Medically Applicable Biochips not only rebuilt him from the inside out by restoring his health, fixing up the metabolism and reinforcing the bones as well as libido, but also probably helped him return to the laboratory and made rapid advances in his career.
 
-Being terrified by the nightmarish catastrophes Vergil brought to bear on the civilisation of humanity in the possible future, especially after witnessing how they are talking to Vergil by interacting with his neurons directly, Edward dunked the quartz lamp that was used to forbidding them crawling outside the skin into Vergil's tub when he was releasing his intrepid, tiny astronauts, and subsequently electrocuted Vergil on the spur of the moment.
-Only to make for a long-lasting, thorough, disastrous, anatomical transformation on him and his wife 
+Being terrified by the nightmarish catastrophes Vergil brought to bear on the civilisation of humanity in the possible future, especially after witnessing how they are talking to Vergil by interacting with his neurons directly, Edward dunked the quartz lamp that was used to forbidding them crawling outside the skin into Vergil's tub when he was releasing his intrepid, tiny astronauts, and subsequently electrocuted Vergil on the spur of the moment, only to make for a long-lasting, thorough, disastrous, anatomical transformation on him and his wife 
 by the unnoticed exodus and eventually to become an immense pool of cells draping across the apartment that would likely pollute the water and intrude all the living things on Earth.
 
 
