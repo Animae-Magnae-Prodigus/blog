@@ -4,45 +4,42 @@
 @import "{{ site.theme }}";
 
 body {
-  font-size: 15px; /* Adjust as needed */
+  font-size: 15px; 
   line-height: 1;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Arial', sans-serif; /* Change to your preferred font */
+  font-family: 'Arial', sans-serif; 
   font-weight: bold;
   margin: 1em 0;
   padding-left: 1em;
-  /*padding-left: 50px;*/
   position: relative;
 }
 
-/* h1 styles */
 h1 {
-  font-size: 2.0em; /* Larger font size */
+  font-size: 2.0em; 
   padding-left: 40px;
-  color: #2c3e50; /* Dark color */
-  /*text-transform: uppercase; /* 
+  color: #2c3e50; 
 }
 
-/*h1::before {*/
-/*  content: "🔶 "; /* Decorative icon before h1 */*/
-/*  font-size: 1em;*/
-/*  position: absolute;*/
-/*  left: 0;*/
-/*  top: 50%;*/
-/*  transform: translateY(-50%);*/
-/*}*/
 
-/* h2 styles */
+
+
+
+
+
+
+
+
+
 h2 {
   font-size: 1.8em;
-  color: #16a085; /* Teal color */
+  color: #16a085; 
   font-style: italic;
 }
 
 h2::before {
-  content: "🔹 "; /* Different icon before h2 */
+  content: "🔹 "; 
   font-size: 0.5em;
   position: absolute;
   left: 0;
@@ -50,15 +47,15 @@ h2::before {
   transform: translateY(-50%);
 }
 
-/* h3 styles */
+
 h3 {
   font-size: 1.6em;
-  color: #e74c3c; /* Red color */
-  text-decoration: underline; /* Underlined */
+  color: #e74c3c; 
+  text-decoration: underline; 
 }
 
 h3::before {
-  content: "❖ "; /* A different symbol for h3 */
+  content: "❖ "; 
   font-size: 0.5em;
   position: absolute;
   left: 0;
@@ -66,15 +63,15 @@ h3::before {
   transform: translateY(-50%);
 }
 
-/* h4 styles */
+
 h4 {
   font-size: 1.5em;
-  color: #f39c12; /* Yellow color */
+  color: #f39c12; 
   letter-spacing: 2px;
 }
 
 h4::before {
-  content: "★ "; /* Star icon for h4 */
+  content: "★ "; 
   font-size: 0.5em;
   position: absolute;
   left: 0;
@@ -82,15 +79,15 @@ h4::before {
   transform: translateY(-50%);
 }
 
-/* h5 styles */
+
 h5 {
   font-size: 1.5em;
-  color: #9b59b6; /* Purple color */
+  color: #9b59b6; 
   text-transform: capitalize;
 }
 
 h5::before {
-  content: "➤ "; /* Arrow icon for h5 */
+  content: "➤ "; 
   font-size: 0.5em;
   position: absolute;
   left: 0;
@@ -98,10 +95,10 @@ h5::before {
   transform: translateY(-50%);
 }
 
-/* h6 styles */
+
 h6 {
   font-size: 1.5em;
-  color: #34495e; /* Grayish color */
+  color: #34495e; 
   font-style: italic;
 }
 
@@ -116,14 +113,14 @@ h6::before {
 
 
 
-/* Increase font size for paragraphs */
+
 p {
-  font-size: 1.5em; /* Adjust as needed */
+  font-size: 1.5em; 
 }
 
 
 li, table, ul {
-  font-size: 1em; /* Adjust as needed */
+  font-size: 1em; 
 }
 
 blockquote {
@@ -138,6 +135,5 @@ blockquote::before {
   font-size: 0.5em;
   position: absolute;
   left: 0;
-  /*top: 5%;*/
   transform: translateX(-250%);
 }
