@@ -118,12 +118,12 @@ p {
 }
 
 
-table, ul {
-  font-size: 1em; /* Adjust as needed */
+table {
+  font-size: 1.5em; /* Adjust as needed */
 }
 
 blockquote {
-  font-size: 1em;
+  font-size: 1.5em;
   color:#2c1414;
 background-color:#e3e3e3;
 	padding-left: 2em;

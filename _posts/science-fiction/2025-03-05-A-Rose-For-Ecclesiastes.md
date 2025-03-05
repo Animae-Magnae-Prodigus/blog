@@ -8,7 +8,7 @@ tags: Short-Story Science-Fiction 1941 F&SF 1963
 # World: 2/9. 
 # Core: 2/9. 
 For me, it’s not so much good science fiction as a full-fledged fantastic story because
-+ I couldn’t detect any existence of science—except for Mars, which could be substituted by any other laid-back villages on Earth.
++ I couldn’t detect any existence of science—except for Mars, which could be easily substituted by any other laid-back villages on Earth.
 + I couldn’t sense any convincing world building, especially engaging details on the mystical Martian civilization. For example, why didn’t Gallinger, who learned both languages for some unknown reason, instruct the hero face to face for efficiency?
 + I couldn’t understand why the hero’s foretold action could eventually save the sterile species— whether by impregnating the female, breaking into the temple and delivering a self-opinionated harangue.
 
