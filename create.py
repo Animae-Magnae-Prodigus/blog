@@ -5,12 +5,16 @@ import datetime
 import glob
 import os
 import csv
-import re
+import re,sys
 
 dialect = "excel-tab"
 
 # read the list
-ListFileName = "list.tsv"
+if not sys.argv[-1].endswith("tsv"):
+    ListFileName = "list.tsv"
+else:
+    ListFileName = sys.argv[-1]
+
 with open(ListFileName, "r", encoding="utf-8") as f:
     reader = csv.DictReader(f, dialect=dialect)
     fieldnames = reader.fieldnames
@@ -53,10 +57,12 @@ with open(templateFileName, "r", encoding="utf-8") as f:
 outputFilename = datetime.date.today()
 outputFilename =  outputFilename.isoformat() + "-" + AuthorTitle + ".md"
 outputFilenamePath = os.path.join("_posts", current["Directory"], outputFilename)
-with open("nv.sh", "w") as f:
-    print(f"nvim -S ia.vim {outputFilenamePath} list.tsv", file=f)
-    print(f"rm -f current", file=f)
-    print(f"ln -s {outputFilenamePath} current", file=f)
+if ListFileName == "list.tsv":
+    with open("nv.sh", "w") as f:
+        print(f"nvim -S ia.vim {outputFilenamePath} list.tsv", file=f)
+        print(f"rm -f current", file=f)
+        print(f"ln -s {outputFilenamePath} current", file=f)
 # exit()
+
 with open(outputFilenamePath, "w", encoding="utf-8") as f:
     f.write(template)
