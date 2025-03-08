@@ -6,17 +6,17 @@ tags: Marvel-Studios 2024
 
 # Plot: 6/9. 
 ## 0 
-After being rejected by the Avengers, Deadpool became a mundane salesman selling cars with Paul and sulking at his girlfriend's leaving. When friends were celebrating his birthday, he was suddenly abducted by Mr. Paradox, an officer of the TVA who was about to solicit Deadpool for a job. He also informed Deadpool that there was no need for him to go home, because the universe Deadpool belonged to lost its anchor being, Wolverine, and was therefor going to wither. Paradox thought it was considerable of him to expedite this ending by launching the ripper.
+After being rejected by the Avengers, Deadpool became a mundane salesman selling cars with Paul and sulking over his girlfriend's leaving. When friends were celebrating his birthday, he was abruptly abducted by Mr. Paradox, an officer of TVA, who was here to offer Deadpool a job. He also informed Deadpool that there was no need for him to go home, because Deadpool's universe lost its anchor being, Wolverine, and was therefor going to wither in thousands of years later. So Paradox thought it was considerable of him to expedite this ending by launching the ripper several days later.
 
 ## 1
-So Deadpool robbed Paradox of his gadget, and returned to his home universe to dig Wolverine's grave out, only to confirm that Wolverine of this universe was indeed dead. Out of disappointment or entertainment, he just desecrated Wolverine's carcass as weapons to purge Paradox's henchmen one by one, before he traveled through different universes to find a suitable substitute of Wolverine.
+refusing this tragic fate, Deadpool robbed Paradox of his gadget, returned to his original universe, and dug Wolverine's grave up, only to confirm that Wolverine of this universe was indeed dead. Out of disappointment or entertainment, he just desecrated Wolverine's carcass by using its remains as weapons to mow down Paradox's pursuing henchmen one by one, before he traveled through different universes to find a suitable substitute for Wolverine.
 
-When Deadpool finally handed an available Wolverine to Paradox, Paradox derided that this Wolverine was too bad to redeem the universe, and then threw the duo to the void. Wolverine didn't want to help Deadpool, so they fight ferociously until Deadpool lied that TVA could recover Wolverine's mistake, which certainly struck the right chord of Wolverine.
+When Deadpool finally handed an available yet disheartening Wolverine over to Paradox, Paradox derided that this Wolverine was too bad to redeem the universe, and subsequently threw the duo directly to the void. after landing,  Wolverine, reluctant to help Deadpool, fought him ferociously, until Deadpool lied that TVA could change the time and undo Wolverine's past mistakes, which certainly struck the right chord of Wolverine.
 
 ## 2
-But then, they were caught by Cassandra Nova, the sister of the duo's mutual friend Xavier, and barely escaped from the maw of a monster called Alioth.
+But then, they were captured by Cassandra Nova, the malevolent sister of the duo's mutual acquaintance, Xavier, and barely escaped from the maw of a monster called Alioth.
 
-After dining, they met Nicepool, the owner of the Dogpool, who provided them with a car gratuitously.
+After dining, they met Nicepool, the owner of Dogpool, who provided them with a car gratuitously.
 
 On their way to the borderline, sensitive Wolverine detected Deadpool's previously "educated wish" and triggered a brawl in the car, until both of them lost consciousness.
 
@@ -45,6 +45,7 @@ Paradox'a illegal behaviour was sensed and interrogated by his superior who then
 + Why did the teammates let the duo abandon them and leave the dangerous Nova behind?
 + Why did the teammates accept Deadpool's and whimsical plan after many deaths of powerful allies?
 + what is the usage of a diner that had food in the rural area of the void? For Deadpools?
++ Why did Paradox tell Deadpool the truth before he finished the destruction? Did he not worry about Deadpool informed other people of this evil conspiracy?
 
 # Character: 6/9.
 
