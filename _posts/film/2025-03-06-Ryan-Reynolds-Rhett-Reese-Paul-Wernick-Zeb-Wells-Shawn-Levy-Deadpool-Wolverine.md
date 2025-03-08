@@ -34,12 +34,11 @@ Although Deadpool acknowledged Wolverine's heroic act, yet he knocked Wolverine 
 
 Paradox'a illegal behaviour was sensed and interrogated by his superior, who then celebrated the regeneration of Deadpool's universe, and brought their teammates back to their respective home under the request of Deadpool. In the end, Deadpool adopted Dogpool, invited Wolverine to be his roommate, came back to the embrace of friends, and won the favor of his ex-girlfriend under the help of Wolverine.
 
-# Core: 2/9. The scriptwriters merely mimicked a literally commonplace template called the hero's odyssey without regard to the inner logic of the plots and characters.
+# Core: 4/9. The scriptwriters merely mimicked a literally commonplace template called the hero's odyssey without regard to the inner logic of the plots and characters.
 + The duo could have found alternative materials to connect the leads, instead of trusting Paradox—an antagonist who determined to exterminate the entire universe at first—and sacrificing themselves hot-headedly.
 + Why did the duo survive?
 + Why did none of Paradox's subordinates report his delinquency? 
 + Why didn't Wolverine care about the possibility that all of them got killed due to his untimely beneficence?
-+ Why did Deadpool rush to Wolverine's grave first, when everyone including himself, knew Wolverine was already dead?
 + Why did the teammates feel when the duo abandoned them and left the dangerous Nova behind?
 + Why did the teammates accept Deadpool's and whimsical plan after so many deaths of powerful allies?
 + What was the usage of a diner serving food in the rural void? Was it for Deadpools?
