@@ -6,10 +6,10 @@ tags: Marvel-Studios 2024
 
 # Plot: 6/9. 
 ## 0 
-After being rejected by Avengers, Deadpool became a mundane car salesman along with Peter—his best friend—while sulking over his last breakup. While he and friends were celebrating his birthday, he was abruptly abducted by Mr. Paradox, an officer of TVA, who was here to offer Deadpool a job and also informed Deadpool that there was no need for him to go home, because Deadpool's universe lost its anchor being—Wolverine—and was therefor going to wither in thousands of years later. But Paradox thought it considerable and honorable of him to expedite this inevitable ending by launching the ripper several days later.
+After being rejected by Avengers, Deadpool became a mundane car salesman along with Peter—his best friend—while sulking over his last breakup. While he and friends were celebrating his birthday, he was abruptly abducted by Mr. Paradox, an officer of TVA, who was here to offer Deadpool a job and also informed Deadpool that there was no need for him to go home, because Deadpool's universe lost its anchor being—Wolverine—and was therefor going to wither in thousands of years later. But Paradox would like to expedite this inevitable ending humanely by launching the time ripper several days later.
 
 ## 1
-Refusing this tragic fate, Deadpool robbed Paradox of his gadget, returned to his original universe, and exhumed  Wolverine's grave—only to confirm that Wolverine of this universe was indeed dead. Out of disappointment or entertainment, he just desecrated Wolverine's carcass as weapons to mow down Paradox's pursuing henchmen one by one, before he traveled through different universes to find a suitable substitute for Wolverine.
+Refusing this tragic fate, Deadpool robbed Paradox of his magic gadget, returned to his original universe, and exhumed  Wolverine's grave—only to confirm that Wolverine of this universe was indeed dead. Out of disappointment or entertainment, he just desecrated Wolverine's carcass as weapons to mow down Paradox's pursuing henchmen one by one, before he traveled through different universes to find a suitable substitute for Wolverine.
 
 When Deadpool finally handed an available yet disheartening Wolverine over to Paradox, the latter derided that this Wolverine was too bad to redeem this universe, and subsequently threw the duo directly to the void. After landing, Wolverine, reluctant to help Deadpool, fought him ferociously, until Deadpool lied that TVA could change the time to undo Wolverine's past mistakes, which certainly struck the right chord of Wolverine.
 
@@ -39,9 +39,10 @@ Paradox'a illegal behaviour was sensed and interrogated by his superior, who the
 + Why did the duo survive?
 + Why did none of Paradox's subordinates report his delinquency? 
 + Why didn't Wolverine care about the possibility that all of them got killed due to his untimely beneficence?
-+ Why did the teammates feel when the duo abandoned them and left the dangerous Nova behind?
++ What did the teammates feel when the duo abandoned them to the mercy of the dangerous Nova?
 + Why did the teammates accept Deadpool's and whimsical plan after so many deaths of powerful allies?
 + What was the usage of a diner serving food in the rural void? Was it for Deadpools?
++ Why didn't Paradox send the duo to the void again?
 + Why did Paradox reveal the truth to Deadpool before finishing the destruction? Did he not worry about Deadpool exposed his evil conspiracy to other people in this universe?
 
 # Character: 7/9.
