@@ -5,11 +5,11 @@ tags: The-Big-Book-of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer short-story
 
 
 # Plot: 3/9. 
-Miranda was so guilty of her behaviour of cheating her conscript, sacrificed boyfriend decades ago that she accepted the technology in her senile age that enabled her to communicate with him in her dream. At first it worked well, then the apparition blamed her for doing nothing to the war and confessed that he had killed a kid, which didn't act in accordance with the ex in her memory. 
+Miranda was so encumbered with the guilt for having cheated on her conscript boyfriend who had sacrificed decades ago in the Vietnam War that, in her senile years, she accepted a technology that enabled her to communicate with him in her dreams. At first it worked well; However, the apparition eventually blamed her for doing nothing to the war and confessed that he had killed a kid, which didn't act in accordance with the real ex in her memory.
 
-In the end, Miranda lost in a lurid reverie of Vietnam War he might face and finally fulfilling the long-cherished desire of dying together with her ex.
+In the end, without the assistance of the equipment, Miranda became lost in a lurid reverie of Vietnam War he might have faced, ultimately fulfilling her long-cherished desire of dying together with her ex.
 
-# Core: 3/9. With a plot like this, I could not resonate with the passive heroine who died of her irrevocable, tedious and unnecessary regret. by the way, what does the title "The Lake Was Full of Artificial Things" mean?
+# Core: 3/9. With a plot like this, I could not resonate with the passive heroine who died of her irrevocable, tedious and unnecessary regret. By the way, what does the title "The Lake Was Full of Artificial Things" mean?
 
 # Character: 2/9. 
 
