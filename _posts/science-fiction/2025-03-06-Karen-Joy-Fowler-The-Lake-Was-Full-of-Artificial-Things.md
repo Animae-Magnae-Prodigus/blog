@@ -9,7 +9,7 @@ Miranda was so guilty of her behaviour of cheating her conscript, sacrificed boy
 
 In the end, Miranda lost in a lurid reverie of Vietnam War he might face and finally fulfilling the long-cherished desire of dying together with her ex.
 
-# Core: 3/9. With a plot like this, I could not resonate with the passive heroine who died of her irrevocable, tedious and unnecessary regret.
+# Core: 3/9. With a plot like this, I could not resonate with the passive heroine who died of her irrevocable, tedious and unnecessary regret. by the way, what does the title "The Lake Was Full of Artificial Things" mean?
 
 # Character: 2/9. 
 
