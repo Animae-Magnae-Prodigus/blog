@@ -80,3 +80,6 @@ Some of the best of **detective fiction** also possess me with their plausible *
 |   4   | The world-building existing in this story is not good enough for me to appreciate, though it is indeed full-fledged.  |
 |   6   | The world-building of this work is engaging enough for me to scan albeit some possible loopholes. |
 |   9   | It's hard to improve or surpass this epic at least in the publishing time. |
+
+## advanced reading 
++ [the criteria of a science fiction writer]({{ site.baseurl }}{% post_url science-fiction-writer %})
