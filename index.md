@@ -43,8 +43,36 @@ Some of the best of **detective fiction** also possess me with their plausible *
 ## on plots
 | Score | Meaning |
 | ----- | ------- |
-|   0   | Is it a story rather than a crap, a laughingstock, or a nightmare? | 
+|   0   | Is it a storyline rather than a crap, a laughingstock, a nightmare or an concrete evidence that AI is learning to write like humanity? |
 |   2   | Are there any ups and downs in this story? |
 |   4   | The conflict existing in this story is not good enough for me to appreciate, though it is indeed full-fledged.  |
 |   6   | The storyline of this work is engaging enough for me to resonate with despite some conspicuous flaws or ugly scenes. |
-|   9   | It's hard to improve or surpass. |
+|   9   | It's hard to improve or surpass this epic. |
+
+## on cores
+| Score | Meaning |
+| ----- | ------- |
+|   0   | Do you get this story? |
+|   2   | The core was too bad to support an eligible story. |
+|   4   | The core is common or the interpretation is ordinary but enough for the running of a eligible story. |
+|   6   | The core was creative or the interpretation was innovative. |
+|   9   | It's hard to improve or surpass this epic. |
+
+## on characters 
+| Score | Meaning |
+| ----- | ------- |
+|   0   |  Are there any characters in this story? |
+|   2   | The characters are too bad to support an eligible story. |
+|   4   | The characters are common, mundane, boring, or idiotic, but they are good enough to blend into the story as a whole. |
+|   6   | The characters are charismatic, loveable, memorable or suitable to the story. |
+|   9   | It's hard to improve or surpass this epic, and various fanfictions even derided from this work. |
+
+
+## on world 
+| Score | Meaning |
+| ----- | ------- |
+|   0   | Is it a storyline rather than a crap, a laughingstock, a nightmare or an concrete evidence that AI is learning to write like humanity? |
+|   2   | The world-building is illogic, inconceivable, or inadequately presented to act in accordance with the story. |
+|   4   | The world-building existing in this story is not good enough for me to appreciate, though it is indeed full-fledged.  |
+|   6   | The world-building of this work is engaging enough for me to scan albeit some possible loopholes. |
+|   9   | It's hard to improve or surpass this epic. |
