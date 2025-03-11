@@ -39,3 +39,12 @@ Some of the best of **detective fiction** also possess me with their plausible *
 + Works rated less than four didn't deserve my attention any more and I may block the writer accordingly.
 + Works rated no less than four deserved to be read at least once.
 + Works rated more than six deserved to be reread.
+
+## on plots
+| Score | Meaning |
+| ----- | ------- |
+|   0   | Is it a story rather than a crap, a laughingstock, or a nightmare? | 
+|   2   | Are there any ups and downs in this story? |
+|   4   | The conflict existing in this story is not good enough for me to appreciate, though it is indeed full-fledged.  |
+|   6   | The storyline of this work is engaging enough for me to resonate with despite some conspicuous flaws or ugly scenes. |
+|   9   | It's hard to improve or surpass. |
