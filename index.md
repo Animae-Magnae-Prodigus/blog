@@ -41,6 +41,7 @@ Some of the best of **detective fiction** also possess me with their plausible *
 + Works rated more than six deserved to be reread.
 
 ## on plots
+
 | Score | Meaning |
 | ----- | ------- |
 |   0   | Is it a storyline rather than a crap, a laughingstock, a nightmare or an concrete evidence that AI is learning to write like humanity? |
@@ -50,6 +51,7 @@ Some of the best of **detective fiction** also possess me with their plausible *
 |   9   | It's hard to improve or surpass this epic. |
 
 ## on cores
+
 | Score | Meaning |
 | ----- | ------- |
 |   0   | Do you get this story? |
@@ -59,6 +61,7 @@ Some of the best of **detective fiction** also possess me with their plausible *
 |   9   | It's hard to improve or surpass this epic. |
 
 ## on characters 
+
 | Score | Meaning |
 | ----- | ------- |
 |   0   |  Are there any characters in this story? |
@@ -69,6 +72,7 @@ Some of the best of **detective fiction** also possess me with their plausible *
 
 
 ## on world 
+
 | Score | Meaning |
 | ----- | ------- |
 |   0   | Is it a storyline rather than a crap, a laughingstock, a nightmare or an concrete evidence that AI is learning to write like humanity? |
