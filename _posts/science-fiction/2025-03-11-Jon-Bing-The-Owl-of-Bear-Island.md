@@ -4,11 +4,11 @@ tags: The-Big-Book-of-Science-Fiction Jeff-Vandermeer Ann-Vandermeer short-story
 ---
 
 
-# Plot: 2/9. The hero was possessed by an owl, who might be one of aliens invading the Earth in the Bear Island of Norwegian. Feeling alone without any external assistance, he resorted to a heuristic program to know more about the alien until finally it could hunt the alien.
+# Plot: 2/9. The hero was possessed by an owl, who might be one of the aliens invading the Earth in the Bear Island of Norwegian. Feeling isolated and without any external assistance, he resorted to a heuristic program to know more about the alien until finally it finally hunt the alien down.
 
-# Core: 2/9. Bing either obviously failed to render engaging plots with ups and downs or just lacked the ability of decently telling a complete story from being possessed to being liberated. 
+# Core: 2/9. Bing either obviously failed to craft engaging plots with ups and downs or just lacked the ability of telling a complete story from beginning to end decently.
 
 # Character: 1/9. 
 
-# World and Others: 2/9. Was there any usage in depicting a harangue of conflicts between Norwegian and the Soviet only to claim that the alien probably aim at the resources like the Soviet without conveying the actual intention of the alien and pushing the plot?
+# World and Others: 2/9. Was there any point in depicting a harangue of conflicts between Norway and the Soviet Union, only to claim that the alien probably aimed at the resources like the Soviet Union, without ever conveying its actual intention or merely advancing the plot?
 
