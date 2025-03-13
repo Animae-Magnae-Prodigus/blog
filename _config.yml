@@ -4,7 +4,7 @@ minima:
   skin: solarized
 # theme: minima
 # remote_theme: pages-themes/merlot@v0.2.0
-issue_repo: Animae-Magnae-Prodigus/animae-magnae-prodigus.github.io
+issue_repo: Animae-Magnae-Prodigus/animae-magnae-prodigus.com
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: A story a day keeps Boring Fairy away.
