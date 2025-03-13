@@ -33,6 +33,7 @@
 
       <div class="post-content">
         {{ content }}
+
       </div>
 <!---->
 <!--      <div class="tags">-->
@@ -47,6 +48,14 @@
 <!--      </div>-->
 
     </article>
+
+<section class="single">
+	<div class="wrap">
+		{% if page.comments_id %}
+			{% include comments.html %}
+		{% endif %}
+	</div>
+</section>
   </main>
 
   <footer>
