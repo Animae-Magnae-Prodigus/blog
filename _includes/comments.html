@@ -1,5 +1,5 @@
 <script>
-const GH_API_URL = 'https://api.github.com/repos/Animae-Magnae-Prodigus/blog/issues/{{ page.comments_id }}/comments?client_id={{ site.data.settings.gh_api.ci }}&client_secret={{ site.data.settings.gh_api.cs }}';
+const GH_API_URL = 'https://api.github.com/repos/Animae-Magnae-Prodigus/animae-magnae-prodigus.github.io/issues/{{ page.comments_id }}/comments?client_id={{ site.data.settings.gh_api.ci }}&client_secret={{ site.data.settings.gh_api.cs }}';
 
 let request = new XMLHttpRequest();
 request.open( 'GET', GH_API_URL, true );
