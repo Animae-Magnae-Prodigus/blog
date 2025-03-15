@@ -83,4 +83,4 @@ Some of the best of **detective fiction** also possess me with their plausible *
 
 ## advanced reading 
 + [my criteria of an eligible science fiction writer]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-03-11-science-fiction-writer %})
-+ [my agenda of reading science fiction hereafter]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-03-16-Confession %})
+<!--+ [my agenda of reading science fiction hereafter]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-03-15-Confession %})-->
