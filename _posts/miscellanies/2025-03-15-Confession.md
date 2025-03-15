@@ -1,5 +1,5 @@
 ---
-title: "confession of my criticism in the past and the decision of suspending the project of reviewing the Big Book of Science Fiction "
+title: "A confession of my criticism in the past and the decision of suspending the project of reviewing the Big Book of Science Fiction "
 tags: criticism
 ---
 
