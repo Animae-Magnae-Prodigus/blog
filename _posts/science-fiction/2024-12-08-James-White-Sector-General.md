@@ -14,10 +14,10 @@ After his treatment of Telfi, his heavily influenced mind felt reluctant to come
 
 On the road he felt cold and lonely, so he said hello to Monitors eccentrically and then laid himself against a glowing oven in the kitchen. Luckily, one of the Monitors felt his behaviour was strange and borrowed a heat suit to save him in time. 
 
-It turned out his abnormality was caused by his inexperience with the tape for the first time. He felt awful when he was reproached by O'Mara and worse when he was consoled by his sympathetic rescuer. Conway's innate prejudice irritated his rescuer, whose acerbic words, as well as O'Mara's scorching denouncement, made him reflect on his attitude towards Monitors. He wondered why there would be the arrival of several companies of Monitors in the near future.
+It turned out his abnormality was caused by his inexperience with the tape for the first time. He felt awful when he was reproached by O'Mara and worse when he was consoled by his sympathetic rescuer. Conway's innate prejudice irritated his rescuer, whose acerbic words, as well as O'Mara's scorching denouncement, made him reflect on his own attitude towards Monitors. He also wondered why there would be the arrival of several companies of Monitors in the near future.
 
 ## 2nd task 
-Conway found Bryson, the Chaplain, was also a Monitor. So he had to resort to Dr. Mannon for advice on his views of Monitors. However, the annunciator of evoking him disrupted his asking. He was assigned to give shots to Monitors with stimulants. (By the way, was it not a job of nurses?) He wondered what caused so many casualties.
+Conway found Bryson, the Chaplain, was also a Monitor. So he had to resort to Dr. Mannon for advice on his views of Monitors. However, the annunciator disrupted his asking, for he was assigned to give shots to Monitors with stimulants. (By the way, was it not a job of nurses?) He wondered what caused so many casualties.
 
 ## 3rd task 
 He saw lots of ships waiting for treatment, and patients streamed into the hospital incessantly. Williamson, a Monitor and trained nurse, helped him to treat and appease patients. 
@@ -35,11 +35,11 @@ Williamson with his broken arms, came to the room by kicking with his feet dogge
 
 Williamson then persuaded him that if Conway had been in AACL's place, he would have wanted to sacrifice himself for more people's lives. Conway then took Williamson's gun and shot at AACL. He was shocked at the fact that this gun was the type with explosive bullets and a continuous automatic firing system, because he just wanted to hamper AACL's motion and then treat it immediately. After witnessing his homicide against his principle, he was about to commit suicide. 
 
-Then Engineers came in and carried both to O'Mara who told him that AACL was not an intelligent creature and therefore Conway didn't break his principle.
+Then Engineers came in and carried both of the heroes to O'Mara who told Conway that AACL was not an intelligent creature and therefore Conway didn't break his principle.
 
 
 ## Aftermath
-After Conway's sound sleep, O'Mara told him that Williamson was fine. This time when Conway treated DBLF, he found himself somewhat agreeing with the Monitors' corrective psychiatry, and he couldn't tell if it was a moral degeneration or a symptom of growing up. He even thought Monitor Corps was too damned soft with some people in working on patients of his own species. 
+After Conway's sound sleep, O'Mara told him that Williamson was fine. This time when Conway treated DBLF, he found himself somewhat agreeing with the Monitors' corrective psychiatry, and he couldn't tell if it was a moral degeneration or individual development. He even thought Monitor Corps was too damned soft with some people in working on patients of his own species.
 
 He was taken off ward duty completely and transferred to a course of lectures in ship rescue. Out of worry, he consulted O'Mara whether it's okay to not see any patients for six weeks. O'Mara said a job was waiting for him, and therefore Conway had to take advantage of the time to learn useful stuff. Throughout these courses, Conway changed his previous negative opinions on O'Mara gradually.
 
