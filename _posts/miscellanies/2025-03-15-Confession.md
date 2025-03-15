@@ -1,16 +1,16 @@
 ---
-title: confession to my criticism and the decision of suspending the project of commenting the Big Book
+title: "confession to my criticism and the decision of suspending the project of commenting the Big Book"
 tags: criticism
 ---
 
 
-# 3 Reasons:
+3 Reasons:
 
-## The innate problem of the book
+# The innate problem of the book
 
 Some of the context was too bad for me to go on, because Vandermeers didn't read through all the works so as to cull the best of those comprehensive authors at home and abroad, especially those foreign authors, which accounted for the ultimate laughingstock of the quantity over the quality.
 
-## The change of value
+# The change of value
 I think the best of science fiction doesn't lie in the short stories, because the wonderful world building which was why I favor science-fiction over others could not be rendered without a complete degeneration of other perspectives in this form actually.
 
 As a result, I would like to next read the essence of science fiction that exists only in the form of tomes and only read the best, the awarded, the famous, my favorites hereafter.
