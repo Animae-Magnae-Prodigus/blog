@@ -18,4 +18,4 @@ As a result, I would like to next read the essence of science fiction that exist
 # The change of method to accomplish the same initial goals 
 I initiated to do this to improve my literary experience and literacy, but now I have found a better method:
 	
-Instead of admonishing the weaknesses of the work with acrimonious criticism, it would be more logical for my personal growth by finding the best features of these works, imitating them, and eventually absorbing their distinctive essence, since I don't want to be a nay-sayer till the end of my life where the subject I will complain turns out to be that I cannot bring up a self-satisfying work owing to my incapacity of becoming a yeah-sayer.
+Instead of bombard the weaknesses of works with acrimonious criticism, it would be more beneficial for my personal growth by finding the advantages of these works, imitating them, and eventually absorbing their distinctive essence, since I don't want to be a nay-sayer till the end of my life where the subject I will complain turns out to be that I cannot bring up a self-satisfying work owing to my incapacity of becoming a yeah-sayer.
