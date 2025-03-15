@@ -1,5 +1,5 @@
 ---
-title: "confession to my criticism and the decision of suspending the project of commenting the Big Book"
+title: "confession of my criticism in the past and the decision of suspending the project of reviewing the Big Book of Science Fiction "
 tags: criticism
 ---
 
@@ -11,9 +11,9 @@ tags: criticism
 Some of the context was too bad for me to go on, because Vandermeers didn't read through all the works so as to cull the best of those comprehensive authors at home and abroad, especially those foreign authors, which accounted for the ultimate laughingstock of the quantity over the quality.
 
 # The change of value
-I think the best of science fiction doesn't lie in the short stories, because the wonderful world building which is why I favor science-fiction over others could not be rendered without a complete degeneration of other perspectives in this form actually.
+I think the paradigm of science fiction doesn't lie in the form of short stories, because the wonderful world building which is why I favor science-fiction over others could not be rendered without a possible degeneration of other perspectives in this form actually.
 
-As a result, I would like to next read the essence of science fiction that exists only in the form of tomes and only read the best, the awarded, the famous, or just my favorites hereafter.
+As a result, I would like to read science fiction only in the form of tomes and only read the best, the awarded, the famous, or just my favorites hereafter.
 
 # The change of method to accomplish the same initial ambition
 I initiated to do this to improve my literary experience and literacy, but now I have found a better method:
