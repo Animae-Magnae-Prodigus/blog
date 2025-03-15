@@ -82,4 +82,5 @@ Some of the best of **detective fiction** also possess me with their plausible *
 |   9   | It's hard to improve or surpass this epic at least in the publishing time. |
 
 ## advanced reading 
-+ [my criteria of a eligible science fiction writer]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-03-11-science-fiction-writer %})
++ [my criteria of an eligible science fiction writer]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-03-11-science-fiction-writer %})
++ [my agenda of reading science fiction hereafter]({{ site.baseurl }}{% post_url _posts/miscellanies/025-03-16-Confession %})
