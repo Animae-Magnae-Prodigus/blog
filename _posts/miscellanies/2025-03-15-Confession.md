@@ -11,7 +11,7 @@ tags: criticism
 Some of the context was too bad for me to go on, because Vandermeers didn't read through all the works so as to cull the best of those comprehensive authors at home and abroad, especially those foreign authors, which accounted for the ultimate laughingstock of the quantity over the quality.
 
 # The change of value
-I think the paradigm of science fiction doesn't lie in the form of short stories, because the wonderful world building which is why I favor science-fiction over others could not be rendered without a possible degeneration of other perspectives in this form actually.
+I think the paradigm of science fiction doesn't lie in the form of short stories, because the wonderful world building which is why I favor science-fiction over other genres could not be rendered without a possible degeneration of other aspects in this form actually.
 
 As a result, I would like to read science fiction only in the form of tomes and only read the best, the awarded, the famous, or just my favorites hereafter.
 
