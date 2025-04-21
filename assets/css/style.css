@@ -1,6 +1,6 @@
 
 body {
-  font-size: 18px; /* Adjust as needed */
+  font-size: 27px; /* Adjust as needed */
   line-height: 1;
 }
 
@@ -114,12 +114,12 @@ h6::before {
 
 /* Increase font size for paragraphs */
 p {
-  font-size: 1.5em; /* Adjust as needed */
+  /*font-size: 1.5em; /* Adjust as needed */*/
 }
 
 
 li {
-  font-size: 1em; /* Adjust as needed */
+  /*font-size: 1em; /* Adjust as needed */*/
 }
 
 blockquote {
