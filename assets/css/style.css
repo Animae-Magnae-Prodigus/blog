@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* h1 styles */
 h1 {
-  font-size: 2.0em; /* Larger font size */
+  font-size: 1.6em; /* Larger font size */
 	padding-left: 40px
   color: #2c3e50; /* Dark color */
   /*text-transform: uppercase; /* Uppercase */*/
@@ -32,7 +32,7 @@ h1 {
 
 /* h2 styles */
 h2 {
-  font-size: 1.8em;
+  font-size: 1.4em;
   color: #16a085; /* Teal color */
   font-style: italic;
 }
@@ -48,7 +48,7 @@ h2::before {
 
 /* h3 styles */
 h3 {
-  font-size: 1.6em;
+  font-size: 1.3em;
   color: #e74c3c; /* Red color */
   text-decoration: underline; /* Underlined */
 }
@@ -64,7 +64,7 @@ h3::before {
 
 /* h4 styles */
 h4 {
-  font-size: 1.5em;
+  font-size: 1.2em;
   color: #f39c12; /* Yellow color */
   letter-spacing: 2px;
 }
@@ -80,7 +80,7 @@ h4::before {
 
 /* h5 styles */
 h5 {
-  font-size: 1.5em;
+  font-size: 1.1em;
   color: #9b59b6; /* Purple color */
   text-transform: capitalize;
 }
@@ -96,7 +96,7 @@ h5::before {
 
 /* h6 styles */
 h6 {
-  font-size: 1.5em;
+  font-size: 1.0em;
   color: #34495e; /* Grayish color */
   font-style: italic;
 }
@@ -123,7 +123,7 @@ li {
 }
 
 blockquote {
-  font-size: 1.1em;
+  font-size: 1.0em;
   color:#2c1414;
 background-color:#e3e3e3;
 	padding-left: 2em;
