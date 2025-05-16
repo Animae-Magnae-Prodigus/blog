@@ -1,22 +1,22 @@
 ---
-title: "Review 5/9 | Isaac Asimov - Tales of the black Widowers"
+title: "Review 5/9 | Isaac Asimov - More Tales of the Black Widowers"
 tags: mystery-fiction novel 
 ---
 
 
 # Plot: 5/9.
 ## When no man pursueth 4/9
-The guest said he was confused that his editor bought a story without publishing it.
+The guest said he was confused that his editor had bought a story without publishing it.
 
-Henry guessed that the editor's real purpose of buying the article was to hide it because a part of the article implicated his deceased wife's heart disease, which might trigger something in the husband's mind.
+Henry guessed that the editor's real purpose in buying the article was to suppress it, because part of the article implicated his deceased wife's heart disease, which might trigger something in the husband's mind.
 
-## Quicker than the eye 5/9
-The guest wondered how could a man pass a conspicuous object in the restaurant abundant with their close surveillance.
+## Quicker than the eye 6/9
+The guest wondered how a man could pass a conspicuous object in the restaurant abundant under their close surveillance.
 
-Henry thought that the target might camouflage himself with the customary action of tipping the doorman.
+Henry thought that the target might have camouflaged himself with the customary action of tipping the doorman.
 
 ## The iron gem 6/9
-Why did a man offer a considerable amount of money for a worthless heirloom by bidding a laughably low price at first, jumping to an incredible offer afterward, and threatening the owner after being rejected without actually disturbing the owner hereafter?
+Why did a man offer a considerable amount of money for a worthless heirloom—first bidding a laughably low price, then jumping to an incredible offer, and finally threatening the owner after being rejected— yet never actually disturbing the owner hereafter?
 
 Because these actions could effectively distract the number's attention from the real valuable heirloom—the stamp attached to the inconspicuous package which was probably stolen by the man at that time.
 
