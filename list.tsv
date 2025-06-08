@@ -1,17 +1,19 @@
 Author	Title	Tags	Directory
-James Blish	Star Trek 2	science fiction, short stories, anthology, novel	science-fiction
-James Blish	Star Trek 3	science fiction, short stories, anthology, novel	science-fiction
-James Blish	Star Trek 4	science fiction, short stories, anthology, novel	science-fiction
-James Blish	Star Trek 5	science fiction, short stories, anthology, novel	science-fiction
-James Blish	Star Trek 6	science fiction, short stories, anthology, novel	science-fiction
-James Blish	Star Trek 7	science fiction, short stories, anthology, novel	science-fiction
-James Blish	Star Trek 8	science fiction, short stories, anthology, novel	science-fiction
-James Blish	Star Trek 9	science fiction, short stories, anthology, novel	science-fiction
-James Blish	Star Trek 10	science fiction, short stories, anthology, novel	science-fiction
-James Blish	Star Trek 11	science fiction, short stories, anthology, novel	science-fiction
-James Blish	Star Trek 12	science fiction, short stories, anthology, novel	science-fiction
-James Blish	Star Trek 13	science fiction, short stories, anthology, novel	science-fiction
-
+Andy Weir	The Martian	Broadway Books, Novel, John-W-Campbell-Memorial-Award-for-Best-Science-Fiction-Novel-Finalist, science-fiction	science-fiction
+James Blish	Star Trek 2	science fiction, short stories, anthology, novel, James Blish(1921-1975)	science-fiction
+Andy Weir	Project Hail Mary	Ballantine Books/Del Rey Books, Novel, BBC-100-Most-Inspiring-Novels, Hugo-Award-for-Best-Novel-Finalist, science-fiction	science-fiction
+James Blish	Star Trek 3	science fiction, short stories, anthology, novel, James Blish(1921-1975)	science-fiction
+Andy Weir	Artemis	Andy Weir, novel, science-fiction 	science-fiction
+James Blish	Star Trek 4	science fiction, short stories, anthology, novel, James Blish(1921-1975)	science-fiction
+James Blish	Star Trek 5	science fiction, short stories, anthology, novel, James Blish(1921-1975)	science-fiction
+James Blish	Star Trek 6	science fiction, short stories, anthology, novel, James Blish(1921-1975)	science-fiction
+James Blish	Star Trek 7	science fiction, short stories, anthology, novel, James Blish(1921-1975)	science-fiction
+James Blish	Star Trek 8	science fiction, short stories, anthology, novel, James Blish(1921-1975)	science-fiction
+James Blish	Star Trek 9	science fiction, short stories, anthology, novel, James Blish(1921-1975)	science-fiction
+James Blish	Star Trek 10	science fiction, short stories, anthology, novel, James Blish(1921-1975)	science-fiction
+James Blish	Star Trek 11	science fiction, short stories, anthology, novel, James Blish(1921-1975)	science-fiction
+James Blish	Star Trek 12	science fiction, short stories, anthology, novel, James Blish(1921-1975)	science-fiction
+James Blish	Star Trek 13	science fiction, short stories, anthology, novel, James Blish(1921-1975)	science-fiction
 Dan Simmons	Hyperion	Doubleday, Novel, Hugo-Award-for-Best-Novel, science-fiction	science-fiction
 Isaac Asimov	The Gods Themselves	Galaxy Science Fiction, Novel, Hugo-Award-for-Best-Novel, science-fiction	science-fiction
 N. K. Jemisin	The Obelisk Gate	Orbit Books, Novel, Hugo-Award-for-Best-Novel, science-fiction	science-fiction
@@ -43,7 +45,7 @@ Larry Niven	Ringworld	Ballantine Books, Novel, Hugo-Award-for-Best-Novel, scienc
 Ursula K. Le Guin	The Dispossessed	Harper  Row, Novel, Hugo-Award-for-Best-Novel, science-fiction	science-fiction
 Robert A. Heinlein	The Moon Is a Harsh Mistressd	If, Novel, Hugo-Award-for-Best-Novel, science-fiction	science-fiction
 J. K. Rowling	Harry Potter and the Goblet of Fire	Bloomsbury Publishing, Novel, Hugo-Award-for-Best-Novel, science-fiction	science-fiction
-Cixin Liu (Chinese)	The Three-Body Problem	Chongqing Press (original)Tor Books (translation), Novel, Hugo-Award-for-Best-Novel, science-fiction	science-fiction
+Cixin Liu	The Three-Body Problem	Chongqing Press (original)Tor Books (translation), Novel, Hugo-Award-for-Best-Novel, science-fiction	science-fiction
 Connie Willis	Blackout/All Clear	Spectra Books, Novel, Hugo-Award-for-Best-Novel, science-fiction	science-fiction
 Vernor Vinge	A Deepness in the Sky	Tor Books, Novel, Hugo-Award-for-Best-Novel, science-fiction	science-fiction
 Frank Herbert	Dune	Chilton Company, Novel, Hugo-Award-for-Best-Novel, science-fiction	science-fiction
@@ -93,7 +95,6 @@ James Blish	A Case of Conscience	Ballantine Books, Novel, Hugo-Award-for-Best-No
 Vonda N. McIntyre	Dreamsnake	Houghton Mifflin, Novel, Hugo-Award-for-Best-Novel, science-fiction	science-fiction
 Lois McMaster Bujold	Barrayar	Analog Science Fact  Fiction, Novel, Hugo-Award-for-Best-Novel, science-fiction	science-fiction
 Arthur C. Clarke	Rendezvous with Rama	Galaxy Science Fiction, Novel, Hugo-Award-for-Best-Novel, science-fiction	science-fiction
-
 Paolo Bacigalupi	The Windup Girl	Night Shade Books, Novel, Nebula-Award-for-Best-Novel, science-fiction	science-fiction
 Ursula K. Le Guin	Powers	Harcourt, Novel, Nebula-Award-for-Best-Novel, science-fiction	science-fiction
 N. K. Jemisin	The Stone Sky	Orbit Books, Novel, Nebula-Award-for-Best-Novel, science-fiction	science-fiction
@@ -153,6 +154,745 @@ Jo Walton	Among Others	Tor Books, Novel, Nebula-Award-for-Best-Novel, science-fi
 Larry Niven	Ringworld	Ballantine Books, Novel, Nebula-Award-for-Best-Novel, science-fiction	science-fiction
 Jack McDevitt	Seeker	Ace Books, Novel, Nebula-Award-for-Best-Novel, science-fiction	science-fiction
 Frederik Pohl	Gateway	Galaxy Science Fiction, Novel, Nebula-Award-for-Best-Novel, science-fiction	science-fiction
+William Bayer	Peregrine	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+T. Jefferson Parker	Silent Joe	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Elly Griffiths	The Stranger Diaries	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Ellis Peters	Death and the Joyful Woman	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+C. J. Box	Blue Heaven	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Julie Smith	New Orleans Mourning	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+L. R. Wright	The Suspect	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Jess Walter	Citizen Vince	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Stephen King	Mr. Mercedes	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Raymond Chandler	The Long Goodbye	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Mo Hayder	Gone	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+J. J. Marric	Gideon's Fire	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Barbara Vine	A Dark-Adapted Eye	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Jason Goodwin	The Janissary Tree	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+James Lee Burke	Cimarron Rose	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Stanley Ellin	The Eighth Circle	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Robert Clark	Mr. White's Confession	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Maj Sjöwall and Per Wahlöö	The Laughing Policeman	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Aaron Elkins	Old Bones	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+James Lee Burke	Black Cherry Blues	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Charlotte Armstrong	A Dram of Poison	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+T. Jefferson Parker	California Girl	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Donald E. Westlake	God Save the Mark	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Arthur Maling	The Rheingold Route	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+John Hart	Down River	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Steve Hamilton	The Lock Artist	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Dick Francis	Whip Hand	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Lori Roy	Let Me Die in His Footsteps	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Joe R. Lansdale	The Bottoms	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Nicolas Freeling	King of the Rainy Country	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Adam Hall	The Quiller Memorandum	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Frederick Forsyth	The Day of the Jackal	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Dennis Lehane	Live by Night	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+James Lee Burke	Flags on the Bayou	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Jon Cleary	Peter's Pence	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Michael Crichton	A Case of Need	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Tony Hillerman	Dance Hall of the Dead	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Dick Francis	Forfeit	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Elmore Leonard	La Brava	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Brian Garfield	Hopscotch	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+William H. Hallahan	Catch Me: Kill Me	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+James Kestrel	Five Decembers	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Eric Ambler	The Light of Day	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+William Kent Krueger	Ordinary Grace	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Thomas H. Cook	The Chatham School Affair	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Charlotte Jay	Beat Not the Bones	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Dick Francis	Come to Grief	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Rick Boyer	Billingsgate Shoal	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Julian Symons	The Progress of a Crime	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Robert B. Parker	Promised Land	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+John Hart	The Last Child	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Deepa Anappara	Djinn Patrol on the Purple Line	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Noah Hawley	Before the Fall	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Walter Mosley	Down the River Unto the Sea	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+S. J. Rozan	Winter and Night	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Mary Willis Walker	The Red Scream	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Ian Rankin	Resurrection Men	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Warren Kiefer	The Lingala Code	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Margaret Millar	Beast in View	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Lawrence Block	A Dance at the Slaughterhouse	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Stuart M. Kaminsky	A Cold Red Sunrise	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Danya Kukafka	Notes on an Execution	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Ross Thomas	Briarpatch	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Ken Follett	Eye of the Needle	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Margaret Maron	Bootlegger's Daughter	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Jan Burke	Bones	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Ed Lacy	Room to Swing	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Celia Fremlin	The Hours Before Dawn	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Minette Walters	The Sculptress	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Attica Locke	Bluebird, Bluebird	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+John le Carré	The Spy Who Came in from the Cold	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
+Like a Sister	Kellye Garrett	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Razorblade Tears	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Blacktop Wasteland	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Murder List	Hank Phillippi Ryan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+November Road	Lou Berney	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Bluebird, Bluebird	Attica Locke	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+A Great Reckoning	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Killing Kind	Chris Holm	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+After I’m Gone	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Ordinary Grace	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Beautiful Mystery	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+A Trick of the Light	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Bury Your Dead	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Brutal Telling	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Brass Verdict	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+What the Dead Know	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+No Good Deeds	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Mercy Falls	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Blood Hollow	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Every Secret Thing	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+City of Bones	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Mystic River	Dennis Lehane	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+A Place of Execution	Val McDermid	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+In a Dry Season	Peter Robinson	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Blood Work	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+No Colder Place	S. J. Rozan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Poet	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Under the Beetle's Cellar	Mary Willis Walker	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+She Walks These Hills	Sharyn McCrumb	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Wolf in the Shadows	Marcia Muller	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Bootlegger’s Daughter	Margaret Maron	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Last Detective	Peter Lovesey	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+G Is for Gumshoe	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Sirens Sang of Murder	Sarah Caudwell	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Silence of the Lambs	Thomas Harris	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Skinwalkers	Tony Hillerman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+C Is for Corpse	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+B Is for Burglar	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Like a Sister	Kellye Garrett	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Razorblade Tears	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Blacktop Wasteland	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Murder List	Hank Phillippi Ryan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+November Road	Lou Berney	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Bluebird, Bluebird	Attica Locke	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+A Great Reckoning	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Killing Kind	Chris Holm	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+After I’m Gone	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Ordinary Grace	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Beautiful Mystery	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+A Trick of the Light	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Bury Your Dead	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Brutal Telling	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Brass Verdict	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+What the Dead Know	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+No Good Deeds	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Mercy Falls	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Blood Hollow	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Every Secret Thing	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+City of Bones	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Mystic River	Dennis Lehane	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+A Place of Execution	Val McDermid	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+In a Dry Season	Peter Robinson	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Blood Work	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+No Colder Place	S. J. Rozan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Poet	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Under the Beetle's Cellar	Mary Willis Walker	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+She Walks These Hills	Sharyn McCrumb	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Wolf in the Shadows	Marcia Muller	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Bootlegger’s Daughter	Margaret Maron	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Last Detective	Peter Lovesey	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+G Is for Gumshoe	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Sirens Sang of Murder	Sarah Caudwell	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Silence of the Lambs	Thomas Harris	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Skinwalkers	Tony Hillerman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+C Is for Corpse	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+B Is for Burglar	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Like a Sister	Kellye Garrett	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Razorblade Tears	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Blacktop Wasteland	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Murder List	Hank Phillippi Ryan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+November Road	Lou Berney	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Bluebird, Bluebird	Attica Locke	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+A Great Reckoning	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Killing Kind	Chris Holm	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+After I’m Gone	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Ordinary Grace	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Beautiful Mystery	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+A Trick of the Light	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Bury Your Dead	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Brutal Telling	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Brass Verdict	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+What the Dead Know	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+No Good Deeds	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Mercy Falls	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Blood Hollow	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Every Secret Thing	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+City of Bones	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Mystic River	Dennis Lehane	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+A Place of Execution	Val McDermid	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+In a Dry Season	Peter Robinson	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Blood Work	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+No Colder Place	S. J. Rozan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Poet	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Under the Beetle's Cellar	Mary Willis Walker	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+She Walks These Hills	Sharyn McCrumb	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Wolf in the Shadows	Marcia Muller	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Bootlegger’s Daughter	Margaret Maron	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Last Detective	Peter Lovesey	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+G Is for Gumshoe	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Sirens Sang of Murder	Sarah Caudwell	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Silence of the Lambs	Thomas Harris	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Skinwalkers	Tony Hillerman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+C Is for Corpse	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+B Is for Burglar	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Like a Sister	Kellye Garrett	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Razorblade Tears	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Blacktop Wasteland	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Murder List	Hank Phillippi Ryan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+November Road	Lou Berney	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Bluebird, Bluebird	Attica Locke	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+A Great Reckoning	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Killing Kind	Chris Holm	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+After I’m Gone	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Ordinary Grace	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Beautiful Mystery	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+A Trick of the Light	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Bury Your Dead	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Brutal Telling	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Brass Verdict	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+What the Dead Know	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+No Good Deeds	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Mercy Falls	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Blood Hollow	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Every Secret Thing	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+City of Bones	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Mystic River	Dennis Lehane	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+A Place of Execution	Val McDermid	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+In a Dry Season	Peter Robinson	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Blood Work	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+No Colder Place	S. J. Rozan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Poet	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Under the Beetle's Cellar	Mary Willis Walker	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+She Walks These Hills	Sharyn McCrumb	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Wolf in the Shadows	Marcia Muller	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Bootlegger’s Daughter	Margaret Maron	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Last Detective	Peter Lovesey	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+G Is for Gumshoe	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Sirens Sang of Murder	Sarah Caudwell	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Silence of the Lambs	Thomas Harris	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Skinwalkers	Tony Hillerman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+C Is for Corpse	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+B Is for Burglar	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Like a Sister	Kellye Garrett	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Razorblade Tears	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Blacktop Wasteland	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Murder List	Hank Phillippi Ryan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+November Road	Lou Berney	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Bluebird, Bluebird	Attica Locke	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+A Great Reckoning	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Killing Kind	Chris Holm	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+After I’m Gone	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Ordinary Grace	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Beautiful Mystery	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+A Trick of the Light	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Bury Your Dead	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Brutal Telling	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Brass Verdict	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+What the Dead Know	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+No Good Deeds	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Mercy Falls	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Blood Hollow	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Every Secret Thing	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+City of Bones	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Mystic River	Dennis Lehane	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+A Place of Execution	Val McDermid	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+In a Dry Season	Peter Robinson	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Blood Work	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+No Colder Place	S. J. Rozan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Poet	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Under the Beetle's Cellar	Mary Willis Walker	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+She Walks These Hills	Sharyn McCrumb	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Wolf in the Shadows	Marcia Muller	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Bootlegger’s Daughter	Margaret Maron	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Last Detective	Peter Lovesey	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+G Is for Gumshoe	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Sirens Sang of Murder	Sarah Caudwell	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+The Silence of the Lambs	Thomas Harris	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Skinwalkers	Tony Hillerman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+C Is for Corpse	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+B Is for Burglar	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+Anne Michaels	Fugitive Pieces	Identity, Canadian, BBC-100-Most-Inspiring-Novels, Novel, Fiction, Books-in-Canada-First-Novel-Award, Trillium-Book-Award, Orange-Prize-for-Fiction, Guardian-Fiction-Prize, Jewish-Quarterly-Wingate Prize	fiction
+Sylvia Plath	The Bell Jar	Identity, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+P. D. James	The Children of Men	Crime-Conflict, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Muriel Spark	The Prime of Miss Jean Brodie	Class-Society, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Kevin Barry	City of Bohane	Adventure, Irish, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Alan Moore	V for Vendetta	Politics,-Power-Protest, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Bapsi Sidhwa	Ice Candy Man	Crime-Conflict, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Vikram Seth	A Suitable Boy	Family-Friendship, Indian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+John Steinbeck	Cannery Row	Class-Society, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Edna O’Brien	The Country Girls 	Coming-of-Age, Irish, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+John Buchan	Mr Standfast	Adventure, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+C. S. Lewis	The Chronicles of Narnia (series)	Life,-Death-Other-Worlds, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Alan Sillitoe	Saturday Night and Sunday Morning	Class-Society, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Salman Rushdie	The Moor's Last Sigh	Rule-Breakers, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Chinua Achebe	Things Fall Apart	Identity, Nigerian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Chimamanda Ngozi Adichie	Half of a Yellow Sun	Identity, Nigerian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Patrick Hamilton	The Slaves of Solitude	Love,-Sex-Romance, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+William Maxwell	So Long, See You Tomorrow	Coming-of-Age, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+James Plunkett	Strumpet City	Politics,-Power-Protest, Irish, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Jane Austen	Pride and Prejudice	Love,-Sex-Romance, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Terry Pratchett	Discworld (series)	Life,-Death-Other-Worlds, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Tim Winton	Cloudstreet	Family-Friendship, Australian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Margaret Atwood	Oryx and Crake	Coming-of-Age, Canadian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Daphne du Maurier	Rebecca	Crime-Conflict, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Nell Dunn	Poor Cow	Class-Society, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Andrea Levy	Small Island	Identity, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Graham Greene	The Quiet American	Crime-Conflict, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Virginia Woolf	Orlando	Rule-Breakers, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Ken Follett	Eye of the Needle	Adventure, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Toni Morrison	Beloved	Identity, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Judy Blume	Forever...	Love,-Sex-Romance, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Jean Rhys	Wide Sargasso Sea	Class-Society, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Neil Gaiman	The Sandman	Life,-Death-Other-Worlds, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+George R. R. Martin	A Game of Thrones	Life,-Death-Other-Worlds, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+J. M. Coetzee	Disgrace	Class-Society, South-African, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+James Baldwin	Giovanni's Room	Love,-Sex-Romance, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Yaa Gyasi	Homegoing	Identity, Ghanaian-American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Noel Streatfeild	Ballet Shoes	Family-Friendship, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Charles Dickens	Our Mutual Friend	Class-Society, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+P. G. Wodehouse	Psmith, Journalist	Rule-Breakers, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Raymond Chandler	The Big Sleep	Adventure, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Ali Smith	How to Be Both	Rule-Breakers, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Alice Walker	The Color Purple	Politics,-Power-Protest, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Ernest Hemingway	For Whom the Bell Tolls	Adventure, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Herman Melville	Bartleby, the Scrivener	Rule-Breakers, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Audre Lorde	Zami: A New Spelling of My Name	Rule-Breakers, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Cormac McCarthy	The Road	Life,-Death-Other-Worlds, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Ursula K. Le Guin	Earthsea (trilogy)	Life,-Death-Other-Worlds, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Patrick O’Brian	The Jack Aubrey Novels (series)	Adventure, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Angela Carter	Nights at the Circus	Rule-Breakers, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Zora Neale Hurston	Their Eyes Were Watching God	Love,-Sex-Romance, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+J. K. Rowling	Harry Potter (series)	Coming-of-Age, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Harper Lee	To Kill a Mockingbird	Politics,-Power-Protest, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+George Orwell	Nineteen Eighty-Four	Rule-Breakers, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Mary Shelley	Frankenstein	Life,-Death-Other-Worlds, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Anne Brontë	The Tenant of Wildfell Hall	Family-Friendship, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+James Ellroy	American Tabloid	Crime-Conflict, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Malorie Blackman	Noughts  Crosses	Politics,-Power-Protest, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Elif Shafak	The Forty Rules of Love	Love,-Sex-Romance, Turkish, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+M. M. Kaye	The Far Pavilions	Love,-Sex-Romance, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Ben Okri	Astonishing the Gods	Life,-Death-Other-Worlds, Nigerian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Sebastian Barry	Days Without End	Identity, Irish, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Mohsin Hamid	The Reluctant Fundamentalist	Crime-Conflict, Pakistani, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Kamila Shamsie	Home Fire	Politics,-Power-Protest, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Carol Shields	Unless	Politics,-Power-Protest, Canadian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+R. K. Narayan	Swami and Friends	Coming-of-Age, Indian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Sue Townsend	The Secret Diary of Adrian Mole, Aged 13 ¾	Coming-of-Age, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Roald Dahl	The Witches	Family-Friendship, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Pat Barker	Regeneration	Crime-Conflict, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+William Golding	Lord of the Flies	Politics,-Power-Protest, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Armistead Maupin	Tales of the City	Family-Friendship, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+S. E. Hinton	The Outsiders	Coming-of-Age, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Frank Herbert	Dune	Life,-Death-Other-Worlds, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Claire Adam	Golden Child	Coming-of-Age, Trinidadian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+John Kennedy Toole	A Confederacy of Dunces	Rule-Breakers, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Aldous Huxley	Brave New World	Politics,-Power-Protest, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Patricia Highsmith	The Talented Mr. Ripley	Crime-Conflict, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+L. M. Montgomery	Emily of New Moon	Coming-of-Age, Canadian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Philip Pullman	His Dark Materials (trilogy)	Adventure, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Jeanette Winterson	The Passion	Love,-Sex-Romance, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Dodie Smith	I Capture the Castle	Family-Friendship, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Stephenie Meyer	Twilight (series)	Coming-of-Age, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Suzanne Collins	The Hunger Games	Adventure, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Jilly Cooper	Riders	Love,-Sex-Romance, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Craig Thompson	Habibi	Rule-Breakers, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Khaled Hosseini	A Thousand Splendid Suns	Politics,-Power-Protest, Afghan-American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Marilynne Robinson	Gilead	Life,-Death-Other-Worlds, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+George Eliot	Middlemarch	Family-Friendship, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Walter Scott	Ivanhoe	Adventure, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Stella Gibbons	Cold Comfort Farm	Family-Friendship, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Brian Moore	The Lonely Passion of Judith Hearne	Class-Society, British-Canadian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Annie Proulx	The Shipping News	Family-Friendship, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Kazuo Ishiguro	The Remains of the Day	Class-Society, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+J. R. R. Tolkien	The Lord of the Rings	Adventure, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Arundhati Roy	The God of Small Things	Identity, Indian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Zadie Smith	White Teeth	Identity, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Helen Fielding	Bridget Jones's Diary	Love,-Sex-Romance, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Omar El Akkad	American War	Crime-Conflict, Egyptian-Canadian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+V. S. Naipaul	A House for Mr Biswas	Class-Society, Trinidadian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+Arthur Conan Doyle	The Hound of the Baskervilles	Crime-Conflict, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
+	Loving	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Marguerite Duras	The Ravishing of Lol Stein	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Claude Lévi-Strauss	Tristes Tropiques	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+D.H. Lawrence	Lady Chatterley's Lover	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Infinite Jest	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	The Painted Bird	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	The Prime of Miss Jean Brodie	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Jacques Lacan	Écrits	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Luigi Pirandello	Six Characters in Search of an Author	Italian, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Jack Kerouac	On the Road	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Falconer	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Alain-Fournier	Le Grand Meaulnes	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Hannah Arendt	The Origins of TotalitarianismThe Burden of Our Time	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Naked Lunch	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Vercors	Le Silence de la mer	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	The Sound and the Fury	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Light in August	Times-All-Time-100-Novels, Novel, Fiction	fiction
+H.G. Wells	The War of the Worlds	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	A Dance to the Music of Time	Times-All-Time-100-Novels, Novel, Fiction	fiction
+John Dos Passos	Manhattan Transfer	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	The Sun Also Rises	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	The Berlin Stories	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	The Assistant	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	The Power and the Glory	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Lord of the Flies	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Robert Musil	The Man Without Qualities	German, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Ismail Kadare	The General of the Dead Army	Albanian, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Agatha Christie	The Murder of Roger Ackroyd	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+René Goscinny and Albert Uderzo	Asterix the Gaul	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	White Noise	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Neuromancer	Times-All-Time-100-Novels, Novel, Fiction	fiction
+J.M.G. Le Clézio	The Interrogation	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Roland Barthes	Writing Degree Zero	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Anne Frank	The Diary of a Young Girl	Dutch, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Things Fall Apart	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Antonin Artaud	The Theatre and Its Double	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Pale Fire	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Henry Miller	The Rosy Crucifixion	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Blood Meridian	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Arthur Conan Doyle	The Hound of the Baskervilles	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Jules Renard	Journal, 1887–1910	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Jacques Prévert	Paroles	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Marguerite Yourcenar	The AbyssZeno of Bruges	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Nathalie Sarraute	Tropisms	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	The Day of the Locust	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Jean-Paul Sartre	Being and Nothingness	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	The Big Sleep	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Snow Crash	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Midnight’s Children	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Georges Bernanos	Under the Sun of Satan	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Franz Kafka	The Trial	German, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Selma Lagerlöf	The Wonderful Adventures of Nils	Swedish, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	The Bridge of San Luis Rey	Times-All-Time-100-Novels, Novel, Fiction	fiction
+J.D. Salinger	The Catcher in the Rye	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Julien Gracq	The Opposing Shore	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Saint-John Perse	Amers	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Paul Claudel	The Satin Slipper	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+James Hadley Chase	No Orchids For Miss Blandish	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Are You There God? It’s Me, Margaret	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	The Death of the Heart	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	The Lion, The Witch and the Wardrobe	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Dog Soldiers	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Rainer Maria Rilke	The Notebooks of Malte Laurids Brigge	German, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Jean Giono	The Horseman on the Roof	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Invisible Man	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Ernest Hemingway	For Whom the Bell Tolls	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Herzog	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Hugo Pratt	The Ballad of the Salty Sea	Italian, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Call It Sleep	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Boris Vian	Froth on the Daydream	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Housekeeping	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	The Recognitions	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Edgar P. Jacobs	Blake and Mortimer	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Gabriel García Márquez	One Hundred Years of Solitude	Spanish, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Stefan Zweig	Confusion of Feelings	German, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	The Golden Notebook	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	A House for Mr. Biswas	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Lucky Jim	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	1984	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	A Passage to India	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	I, Claudius	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Alberto Moravia	Contempt/A Ghost at Noon	Italian, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+John Steinbeck	The Grapes of Wrath	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Blaise Cendrars	Moravagine	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Virginia Woolf	A Room of One's Own	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	An American Tragedy	Times-All-Time-100-Novels, Novel, Fiction	fiction
+George Orwell	Nineteen Eighty-Four	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Georges Simenon	The Strange Case of Peter the Lett	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Michel Foucault	The Order of Things	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	White Teeth	Times-All-Time-100-Novels, Novel, Fiction	fiction
+André Malraux	Man's Fate	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	One Flew Over the Cuckoo’s Nest	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	All the King’s Men	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Vladimir Nabokov	Lolita	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Deliverance	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Dino Buzzati	The Tartar Steppe	Italian, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Raymond Queneau	Zazie in the Metro	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+André Franquin	GastonGomer Goof	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	The Confessions of Nat Turner	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Death Comes for the Archbishop	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Michel Tournier	Friday	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	The Heart is A Lonely Hunter	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	A Clockwork Orange	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Margaret Mitchell	Gone with the Wind	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	The Crying of Lot 49	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Jean Genet	Our Lady of the Flowers	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+William Styron	Sophie's Choice	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	The French Lieutenant’s Woman	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Revolutionary Road	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Wide Sargasso Sea	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	A Handful of Dust	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	At Swim-Two-Birds	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	The Lord of the Rings	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	To Kill a Mockingbird	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Gone With the Wind	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Under the Volcano	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Raymond Chandler	The Big Sleep	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Bertolt Brecht	The Resistible Rise of Arturo Ui	German, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	The Heart of the Matter	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Their Eyes Were Watching God	Times-All-Time-100-Novels, Novel, Fiction	fiction
+J.R.R. Tolkien	The Lord of the Rings	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	The Moviegoer	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Colette	The Tendrils of the Vine	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	The Adventures of Augie March	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Albert Cohen	Belle du Seigneur	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Lolita	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Slaughterhouse Five	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Antoine de Saint-Exupéry	The Little Prince	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Georges Perec	Life: A User's Manual	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Hergé	The Blue Lotus	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Native Son	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Gravity’s Rainbow	Times-All-Time-100-Novels, Novel, Fiction	fiction
+André Gide	The Counterfeiters	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	To the Lighthouse	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	The Grapes of Wrath	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Possession	Times-All-Time-100-Novels, Novel, Fiction	fiction
+André Breton	Nadja	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	American Pastoral	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	The Great Gatsby	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Rabbit, Run	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Malcolm Lowry	Under the Volcano	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Portnoy’s Complaint	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Umberto Eco	The Name of the Rose	Italian, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Federico García Lorca	Gypsy Ballads	Spanish, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	The Sheltering Sky	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Mikhail Bulgakov	The Master and Margarita	Russian, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+René Char	Furor and Mystery	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Money	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Louis Aragon	Aurélien	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	The Catcher in the Rye	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Michel Butor	Second Thoughts	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Thomas Mann	The Magic Mountain	German, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+F. Scott Fitzgerald	The Great Gatsby	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Milan Kundera	The Joke	Czech, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Primo Levi	If This Is a Man Se questo è un uomo, Survival in Auschwitz	Italian, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	The Man Who Loved Children	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Under the Net	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	The Sportswriter	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	The Blind Assassin	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	The Sot-Weed Factor	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Catch-22	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Samuel Beckett	Waiting for Godot	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+William Faulkner	The Sound and the Fury	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Appointment in Samarra	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Joseph Conrad	Lord Jim	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Never Let Me Go	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Albert Camus	The StrangerThe Outsider	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Guillaume Apollinaire	Alcools	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	A Death in the Family	Times-All-Time-100-Novels, Novel, Fiction	fiction
+François Mauriac	Thérèse Desqueyroux	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Ray Bradbury	The Martian Chronicles	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Tropic of Cancer	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Brideshead Revisited	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Simone de Beauvoir	The Second Sex	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Eugène Ionesco	The Bald Soprano	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Play It As It Lays	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Go Tell it on the Mountain	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Paul Éluard	Capital of Pain	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Louis-Ferdinand Céline	Journey to the End of the Night	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Heinrich Böll	The Lost Honour of Katharina Blum	German, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Salman Rushdie	Midnight's Children	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Ragtime	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Red Harvest	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Aleksandr Solzhenitsyn	The Gulag Archipelago	Russian, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Jorge Luis Borges	Ficciones	Spanish, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Ubik	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Aldous Huxley	Brave New World	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Mrs. Dalloway	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Atonement	Times-All-Time-100-Novels, Novel, Fiction	fiction
+	Animal Farm	Times-All-Time-100-Novels, Novel, Fiction	fiction
+James Joyce	Ulysses	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	Beloved	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Françoise Sagan	Bonjour Tristesse	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+Jack London	Martin Eden	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	The Spy Who Came in From the Cold	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Marcel Proust	In Search of Lost TimeRemembrance of Things Past	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	The Corrections	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Sigmund Freud	Three Essays on the Theory of Sexuality	German, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
+	On the Road	Times-All-Time-100-Novels, Novel, Fiction	fiction
+Laura Lippman	Butchers Hill	Avon, Winner, Agatha-Award, Novel, Fiction	fiction
+Sujata Massey	The Salaryman's Wife	HarperCollins, Winner, Agatha-Award, Novel, Fiction	fiction
+Jim Huang (editor)	They Died in Vain: Overlooked, Underappreciated, and Forgotten Mystery Novels	Crum-Creek-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Earlene Fowler	Mariner's Compass	Berkley-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Barbara D'Amato	The Doctor, the Murder, the Mystery	Noble-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Julia Spencer-Fleming	In the Bleak Midwinter	Minotaur-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Rhys Bowen	In Farleigh Field	Winner, Agatha-Award, Novel, Fiction	fiction
+Nancy Pickard	The Virgin of Small Plains	Random-House, Winner, Agatha-Award, Novel, Fiction	fiction
+Nancy Pickard	I.O.U.	Pocket-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Elizabeth Daniels Squire	The Dog Who Remembered Too Much	Malice-Domestic-4-(Pocket-Books), Winner, Agatha-Award, Novel, Fiction	fiction
+Willeta L. Heising	Detecting Men	Purple-Moon-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Elizabeth Foxwell	No Man’s Land	Blood-On-Their-Hands-(Berkley-Prime-Crime), Winner, Agatha-Award, Novel, Fiction	fiction
+Dorothy Cannell	The Family Jewels	Malice-Domestic-3-(Pocket-Books), Winner, Agatha-Award, Novel, Fiction	fiction
+Elizabeth Peters	Naked Once More	Warner, Winner, Agatha-Award, Novel, Fiction	fiction
+Sharyn McCrumb	A Wee Doch And Doris	Mistletoe-Mysteries-(Mysterious-Press), Winner, Agatha-Award, Novel, Fiction	fiction
+Dianne Freeman fr	A Ladies Guide to Etiquette and Murder	Winner, Agatha-Award, Novel, Fiction	fiction
+Art Taylor	The Care and Feeding of House Plants	Ellery-Queen's-Mystery-Magazine,-March/April-2013, Winner, Agatha-Award, Novel, Fiction	fiction
+Catriona McPherson	Dandy Gilver and an Unsuitable Day for Murder	Dandy-Gilver, Winner, Agatha-Award, Novel, Fiction	fiction
+Barb Goffman	Dear Emily Etiquette	Ellery-Queen's-Mystery-Magazine,-September/October-2020, Winner, Agatha-Award, Novel, Fiction	fiction
+Cynthia Kuhn	The Semester of Our Discontent	Winner, Agatha-Award, Novel, Fiction	fiction
+Harley Jane Kozak	Dating Dead Men	Doubleday, Winner, Agatha-Award, Novel, Fiction	fiction
+Anne George	Murder on a Girl's Night Out	Avon, Winner, Agatha-Award, Novel, Fiction	fiction
+Chris Grabenstein	The Crossroads	Winner, Agatha-Award, Novel, Fiction	fiction
+Dana Cameron	The Night Things Changed	Wolfsbane-Mistletoe-(Penguin-Group), Winner, Agatha-Award, Novel, Fiction	fiction
+Leslie Budewitz	All God's Sparrows	Alfred-Hitchcock's-Mystery-Magazine,-May/June-2018, Winner, Agatha-Award, Novel, Fiction	fiction
+Carolyn Wheat	Accidents Will Happen	Malice-Domestic-5-(Pocket-Books), Winner, Agatha-Award, Novel, Fiction	fiction
+Sarah Masters Buckey	A Light In The Cellar	American-Girl, Winner, Agatha-Award, Novel, Fiction	fiction
+Jill Churchill	Grime and Punishment	Avon, Winner, Agatha-Award, Novel, Fiction	fiction
+Penny Warner	The Haunted Lighthouse (The Code Busters Club)	EgmontUSA, Winner, Agatha-Award, Novel, Fiction	fiction
+Cindy Callaghan	Potion Problems (Just Add Magic)	Winner, Agatha-Award, Novel, Fiction	fiction
+Kate Ross	The Devil In Music	Viking-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Katherine Hall Page	The Would-Be-Widower	Malice-Domestic-X-(Avon-Books), Winner, Agatha-Award, Novel, Fiction	fiction
+Laura Durham fr	Better Off Wed	HarperCollins, Winner, Agatha-Award, Novel, Fiction	fiction
+Rhys Bowen	Naughty in Nice	Royal-Spyness, Winner, Agatha-Award, Novel, Fiction	fiction
+Rhys Bowen	Murphy's Law	St.-Martin's-Minotaur, Winner, Agatha-Award, Novel, Fiction	fiction
+Nancy Pickard	Out of Africa	Mom,-Apple-Pie,-and-Murder-(Berkley-Publishing-Group), Winner, Agatha-Award, Novel, Fiction	fiction
+Mattias Bostrom	From Holmes to Sherlock: The Story of the Men and Women Who Created an Icon	Winner, Agatha-Award, Novel, Fiction	fiction
+Hank Phillippi Ryan	Prime Time	Harlequin, Winner, Agatha-Award, Novel, Fiction	fiction
+Frances Schoonmaker	The Last Crystal	Auctus-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Nancy Springer	Enola Holmes and the Elegant Escapade	Wednesday-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Korina Moss	Cheddar Off Dead	Winner, Agatha-Award, Novel, Fiction	fiction
+Alzina Stone Dale	Mystery Readers Walking Guide-Chicago	Passport-Books,-NTC-Publishing-Group, Winner, Agatha-Award, Novel, Fiction	fiction
+Penny Warner	The Mummy's Curse (The Code Busters Club)	EgmontUSA, Winner, Agatha-Award, Novel, Fiction	fiction
+Erica Neubauer	Murder at the Mena House	Winner, Agatha-Award, Novel, Fiction	fiction
+G. M. Malliet	Death of a Cozy Writer	Midnight-Ink, Winner, Agatha-Award, Novel, Fiction	fiction
+Margaret Maron	Three-Day Town	Winner, Agatha-Award, Novel, Fiction	fiction
+M.D. Lake	Tea for Two	Funnybones-(Penguin-Group), Winner, Agatha-Award, Novel, Fiction	fiction
+Carolyn G. Hart	Something Wicked	Bantam, Winner, Agatha-Award, Novel, Fiction	fiction
+Jan Burke	The Man in the Civil Suit	Malice-Domestic-9-(Avon-Books), Winner, Agatha-Award, Novel, Fiction	fiction
+Richie Narvaez	Holly Hernandez and the Death of Disco	Piñata-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Margaret Maron	Deborah's Judgment	A-Woman's-Eye-(Delacourte-Press), Winner, Agatha-Award, Novel, Fiction	fiction
+Louise Penny	The Beautiful Mystery	Winner, Agatha-Award, Novel, Fiction	fiction
+Willetta L. Heising	Detecting Women 2	Purple-Moon-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Elizabeth Peters and  Kristen Whitbread (editors) with  Dennis Forbes (design)	Amelia Peabody's Egypt: A Compendium	William-Morrow-Company, Winner, Agatha-Award, Novel, Fiction	fiction
+Leslie Budewitz	Books, Crooks and Counselors: How to Write Accurately About Criminal Law and Courtroom Procedure	Winner, Agatha-Award, Novel, Fiction	fiction
+Sujata Massey	The Widows of Malabar Hill	Perveen-Mistry, Winner, Agatha-Award, Novel, Fiction	fiction
+Christina Lane	Phantom Lady: Hollywood Producer Joan Harrison, the Forgotten Woman Behind Hitchcock	Winner, Agatha-Award, Novel, Fiction	fiction
+Nevada Barr	Track of the Cat	Putnam, Winner, Agatha-Award, Novel, Fiction	fiction
+Melanie Rehak	Girl Sleuth: Nancy Drew and the Women Who Created Her	Harcourt, Winner, Agatha-Award, Novel, Fiction	fiction
+Ellen Byron	Cajun Kiss of Death	Winner, Agatha-Award, Novel, Fiction	fiction
+Leslie Budewitz	Death Al Dente	Winner, Agatha-Award, Novel, Fiction	fiction
+Alan Orloff	I Play One on TV	Down-Out-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Jean Swanson and Dean James	By a Woman's Hand	Berkley-Publishing-Group, Winner, Agatha-Award, Novel, Fiction	fiction
+Hank Phillippi Ryan	On the House	Level-Best-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Mia P. Manansala	Arsenic and Adobo	Winner, Agatha-Award, Novel, Fiction	fiction
+Jacqueline Winspear	Birds of a Feather	Soho-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Donna Andrews	A Rat's Tale	Ellery-Queen-Mystery-Magazine, Winner, Agatha-Award, Novel, Fiction	fiction
+Art Taylor	On the Road with Del and Louise	Winner, Agatha-Award, Novel, Fiction	fiction
+Joan Hess	Too Much To Bare	Sisters-in-Crime-2-(Berkley-Publishing-Group), Winner, Agatha-Award, Novel, Fiction	fiction
+Anjili Babbar	Finders: Justice, Faith and Identity in Irish Crime Fiction	Winner, Agatha-Award, Novel, Fiction	fiction
+Aaron Elkins  and Charlotte Elkins	Nice Gorilla	Malice-Domestic-1-(Pocket-Books), Winner, Agatha-Award, Novel, Fiction	fiction
+Chris Grabenstein	The Hanging Hill	Random-House, Winner, Agatha-Award, Novel, Fiction	fiction
+Daniel Stashower	The Hour of Peril: The Secret Plot to Murder Lincoln Before the Civil War	Winner, Agatha-Award, Novel, Fiction	fiction
+Carolyn Hart	Letter From Home	Berkley-Prime-Crime, Winner, Agatha-Award, Novel, Fiction	fiction
+Louise Penny	All the Devils Are Here	Winner, Agatha-Award, Novel, Fiction	fiction
+Martin Edwards	The Golden Age of Murder: The Mystery of the Writers Who Invented the Modern Detective Story	Winner, Agatha-Award, Novel, Fiction	fiction
+Lori Rader-Day	Death at Greenway	Winner, Agatha-Award, Novel, Fiction	fiction
+Mary Willis Walker	Zero at the Bone	St.-Martin's-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Louise Penny	Glass Houses	Winner, Agatha-Award, Novel, Fiction	fiction
+Avery Aames fr; ja	The Long Quiche Goodbye	Winner, Agatha-Award, Novel, Fiction	fiction
+Jeanne M. Dams	The Body in the Transept	Walker, Winner, Agatha-Award, Novel, Fiction	fiction
+Kathy Lynn Emerson	How to Write Killer Historical Mysteries	Perseverance-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Diane Vallere	Promophobia: Taking the Mystery Out of Promoting Crime Fiction	Winner, Agatha-Award, Novel, Fiction	fiction
+Art Taylor	The Odds Are Against Us	Ellery-Queen's-Mystery-Magazine,-Nov.-2014, Winner, Agatha-Award, Novel, Fiction	fiction
+K. B. Jackson	The Sasquatch of Hawthorne Elementary	Winner, Agatha-Award, Novel, Fiction	fiction
+Penny Warner	The Secret of the Puzzle Box(The Code Busters Club)	Darby-Creek, Winner, Agatha-Award, Novel, Fiction	fiction
+Barb Goffman	Beauty and the Beyotch	Sherlock-Holmes-Mystery-Magazine,-Issue-29, Winner, Agatha-Award, Novel, Fiction	fiction
+Katherine Hall Page	The Body in the Belfry	St.-Martin's-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Barb Goffman	A Year Without Santa Claus?	Alfred-Hitchcock's-Mystery-Magazine,-Jan./Feb.-2015, Winner, Agatha-Award, Novel, Fiction	fiction
+Dru Ann Love  and Kristopher Zgorski	Ticket to Ride	Happiness-Is-a-Warm-Gun:-Crime-Fiction-Inspired-by-the-Songs-of-The-Beatles, Winner, Agatha-Award, Novel, Fiction	fiction
+Edith Maxwell	Charity’s Burden	Quaker-Midwife, Winner, Agatha-Award, Novel, Fiction	fiction
+Katherine Hall Page	The Body in the Snowdrift	William-Morrow-Company, Winner, Agatha-Award, Novel, Fiction	fiction
+Marcia Talley	Too Many Cooks	Much-Ado-About-Murder,-edited-by-Anne-Perry-(Berkley-Prime-Crime), Winner, Agatha-Award, Novel, Fiction	fiction
+John Curran	Agatha Christie's Secret Notebooks: 50 Years of Mysteries in the Making	Winner, Agatha-Award, Novel, Fiction	fiction
+Hank Phillippi Ryan	Truth Be Told	Winner, Agatha-Award, Novel, Fiction	fiction
+Elaine Viets	Wedding Knife	Chesapeake-Crimes,-edited-by-Donna-Andrews-(Quiet-Storm-Publishing), Winner, Agatha-Award, Novel, Fiction	fiction
+Ellen Byron	Mardi Gras Murder	Winner, Agatha-Award, Novel, Fiction	fiction
+Alzina Stone Dale	Mystery Reader's Walking Guide to Washington D.C.	Passport-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Blue Balliett	Chasing Vermeer	Scholastic-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Sarah Smith	The Other Side of Dark	Atheneum-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Sara J. Henry fr	Learning to Swim	Winner, Agatha-Award, Novel, Fiction	fiction
+Jim Huang (editor)	Crum Creek Press	Winner, Agatha-Award, Novel, Fiction	fiction
+Cindy Callaghan	Sydney Mackenzie Knocks 'Em Dead	Aladdin, Winner, Agatha-Award, Novel, Fiction	fiction
+Jane Cleland	Mastering Plot Twists	Winner, Agatha-Award, Novel, Fiction	fiction
+Shawn Reilly Simmons	The Last Word	Malice-Domestic-14:-Mystery-Most-Edible, Winner, Agatha-Award, Novel, Fiction	fiction
+Nancy Means Wright	Pea Soup Poisonings	Hilliard-Harris, Winner, Agatha-Award, Novel, Fiction	fiction
+Elizabeth George	A Great Deliverance	Bantam-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Rosemary Stevens fr	Death on a Silver Tray	Berkley-Prime-Crime, Winner, Agatha-Award, Novel, Fiction	fiction
+Amanda Flower	Because I Could Not Stop for Death	Emily-Dickinson, Winner, Agatha-Award, Novel, Fiction	fiction
+Sharyn McCrumb	If I'd Killed Him When I Met Him	Ballantine-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Mary Jane Maffini	So Much in Common	Ellery-Queen's-Mystery-Magazine,-Sept./Oct.-2010, Winner, Agatha-Award, Novel, Fiction	fiction
+Barbara D'Amato	Of Course You Know That Chocolate Is A Vegetable	Ellery-Queen's-Mystery-Magazine,-November-1998, Winner, Agatha-Award, Novel, Fiction	fiction
+Jeff Abbott	Do Unto Others	Ballantine, Winner, Agatha-Award, Novel, Fiction	fiction
+Dana Cameron	Mischief in Mesopotamia	Ellery-Queen's-Mystery-Magazine,-Nov.-2012, Winner, Agatha-Award, Novel, Fiction	fiction
+Terrie Farley Moran	Well Read, Then Dead	Winner, Agatha-Award, Novel, Fiction	fiction
+Daniel Stashower	Teller of Tales: the Life of Arthur Conan Doyle	Henry-Holt-Company, Winner, Agatha-Award, Novel, Fiction	fiction
+Amanda Flower	Andi Unstoppable	Zonderkidz, Winner, Agatha-Award, Novel, Fiction	fiction
+Margaret Maron	Up Jumps The Devil	Mysterious-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Charles Todd	A Question of Honor	Bess-Crawford, Winner, Agatha-Award, Novel, Fiction	fiction
+Margaret Maron	Long Upon the Land	Winner, Agatha-Award, Novel, Fiction	fiction
+Jane K. Cleland	Mastering Suspense, Structure, and Plot: How to Write Gripping Stories that Keep Readers on the Edge of Their Seats	Winner, Agatha-Award, Novel, Fiction	fiction
+Donna Andrews	You've Got Murder	Berkley-Prime-Crime, Winner, Agatha-Award, Novel, Fiction	fiction
+Shari Randall	Curses, Boiled Again	Winner, Agatha-Award, Novel, Fiction	fiction
+Sarah Strohmeyer	Bubbles Unbound	Dutton, Winner, Agatha-Award, Novel, Fiction	fiction
+Mo Moulton	The Mutual Admiration Society: How Dorothy L. Sayers and her Oxford Circle Remade the World for Women	Winner, Agatha-Award, Novel, Fiction	fiction
+Carl Hiaasen	Flush	Alfred-A.-Knopf, Winner, Agatha-Award, Novel, Fiction	fiction
+Sandra Parshall fr	The Heat of the Moon	Poisoned-Pen-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Louise Penny	A Great Reckoning	Winner, Agatha-Award, Novel, Fiction	fiction
+Margaret Maron	The Dog That Didn't Bark	Ellery-Queen's-Mystery-Magazine,-December-2002, Winner, Agatha-Award, Novel, Fiction	fiction
+Chris Grabenstein	The Black Heart Crypt	Random-House, Winner, Agatha-Award, Novel, Fiction	fiction
+Chris Grabenstein	Escape from Mr. Lemoncello's Library	Random-House, Winner, Agatha-Award, Novel, Fiction	fiction
+John Connolly	Books to Die For: The World's Greatest Mystery Writers on the World's Greatest Mystery Novels	Winner, Agatha-Award, Novel, Fiction	fiction
+Tara Laskowski	The Weekend Retreat	Winner, Agatha-Award, Novel, Fiction	fiction
+Rhys Bowen	Queen of Hearts	Royal-Spyness, Winner, Agatha-Award, Novel, Fiction	fiction
+Margaret Maron	Storm Track	Mysterious-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Carolyn Hart	Dead Man's Island	Bantam-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Barbara Neely	Blanche on the Lam	St.-Martin's-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Robin Hathaway	The Doctor Digs a Grave	Minotaur-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Hank Phillippi Ryan	The Wrong Girl	Winner, Agatha-Award, Novel, Fiction	fiction
+Margaret Maron	Bootlegger's Daughter	Mysterious-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Louise Penny	A World of Curiosities	Winner, Agatha-Award, Novel, Fiction	fiction
+Peter Abrahams	Down the Rabbit Hole	HarperCollins, Winner, Agatha-Award, Novel, Fiction	fiction
+Ann Cleeves	The Long Call	Winner, Agatha-Award, Novel, Fiction	fiction
+Nancy Pickard	Bum Steer	Pocket-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Jon Lellenberg, Daniel Stashower, and Charles Foley	Arthur Conan Doyle: A Life in Letters	Penguin-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Louise Penny	A Brutal Telling	Minotaur-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Lee Child and Laurie R. King (editor)	How to Write a Mystery: A Handbook from Mystery Writers of America	Winner, Agatha-Award, Novel, Fiction	fiction
+Dana Cameron	Disarming	Ellery-Queen's-Mystery-Magazine,-June-2011, Winner, Agatha-Award, Novel, Fiction	fiction
+Toni Kelner	Sleeping with the Plush	Alfred-Hitchcock's-Mystery-Magazine, Winner, Agatha-Award, Novel, Fiction	fiction
+Donna Andrews	Murder with Peacocks	Thomas-Dunne-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Jack French	Private Eye-Lashes: Radio’s Lady Detectives	Bear-Manor-Media, Winner, Agatha-Award, Novel, Fiction	fiction
+Sujata Massey	The Mistress of Bhatia House	Winner, Agatha-Award, Novel, Fiction	fiction
+Daphne Silver	Crime and Parchment	Winner, Agatha-Award, Novel, Fiction	fiction
+Gigi Pandian	The Library Ghost of Tanglewood Inn	Winner, Agatha-Award, Novel, Fiction	fiction
+Jacqueline Winspear	Maisie Dobbs	Soho-Press-Inc., Winner, Agatha-Award, Novel, Fiction	fiction
+Kathleen Karr	The 7th Knot	Marshall-Cavendish, Winner, Agatha-Award, Novel, Fiction	fiction
+Laurie R. King	Dreaming Spies	Mary-Russell, Winner, Agatha-Award, Novel, Fiction	fiction
+Tara Laskowski fr	One Night Gone	Winner, Agatha-Award, Novel, Fiction	fiction
+Kellye Garrett	Hollywood Homicide	Winner, Agatha-Award, Novel, Fiction	fiction
+Catriona McPherson	The Reek of Red Herrings	Dandy-Gilver, Winner, Agatha-Award, Novel, Fiction	fiction
+Susan M. Boyer	Lowcountry Boil	Winner, Agatha-Award, Novel, Fiction	fiction
+Louise Penny	A Fatal Grace (Dead Cold in Canada)	St.-Martin's-Minotaur, Winner, Agatha-Award, Novel, Fiction	fiction
+Tara Laskowski fr	The Case of the Vanishing Professor	Alfred-Hitchcock's-Mystery-Magazine,-May/June-2018, Winner, Agatha-Award, Novel, Fiction	fiction
+M.D. Lake	Kim's Game	Malice-Domestic-2-(Pocket-Books), Winner, Agatha-Award, Novel, Fiction	fiction
+Tony Hillerman	Seldom Disappointed: A Memoir	HarperCollins, Winner, Agatha-Award, Novel, Fiction	fiction
+Art Taylor	Parallel Play	Chesapeake-Crimes:-Storm-Warning-(Wildside-Press), Winner, Agatha-Award, Novel, Fiction	fiction
+Sharyn McCrumb	She Walks These Hills	Scribner, Winner, Agatha-Award, Novel, Fiction	fiction
+Shawn Reilly Simmons	Bay of Reckoning	Murder-on-the-Beach-(Destination-Murders), Winner, Agatha-Award, Novel, Fiction	fiction
+Chris Roerden	Don't Murder Your Mystery	Bella-Rosa-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Daniel J. Hale and Matthew LaBrot	Red Card (The Zeke Armstrong Mysteries)	Top-Publications, Winner, Agatha-Award, Novel, Fiction	fiction
+Elena Santangelo	Dame Agatha's Shorts	Bella-Rosa-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Hank Phillippi Ryan (editor)	Writes of Passage: Adventures on the Writer's Journey	Winner, Agatha-Award, Novel, Fiction	fiction
+Alan Bradley	The Sweetness at the Bottom of the Pie	Delacorte-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Louise Penny	The Cruelest Month	Minotaur-Books, Winner, Agatha-Award, Novel, Fiction	fiction
+Penny Warner	Mystery Of The Haunted Caves (Troop 13 Mystery series)	Meadowbrook-Press, Winner, Agatha-Award, Novel, Fiction	fiction
+Marcia Talley	Driven to Distraction	Chesapeake-Crimes-II-(Quiet-Storm-Publishing), Winner, Agatha-Award, Novel, Fiction	fiction
+Robert Barnard	More Final Than Divorce	Ellery-Queen's-Mystery-Magazine, Winner, Agatha-Award, Novel, Fiction	fiction
+Louise Penny	Bury Your Dead	Winner, Agatha-Award, Novel, Fiction	fiction
+Rhys Bowen	The Last Mrs. Summers	Royal-Spyness, WInner, Agatha-Award, Novel, Fiction	fiction
 
 	Poor Little Warrior!	short stories, short story, science fiction, 	science-fiction
 	Answer	short stories, short story, science fiction, 	science-fiction
@@ -1260,9 +2000,6 @@ Kathleen Ann Goonan	In War Times	Tor Books, Novel, John-W.-Campbell-Memorial-Awa
 Isaac Asimov	The Gods Themselves	1972, science fiction, novel, 	science-fiction
 Cherie Priest	Boneshaker	2009, science fiction, novel, 	science-fiction
 Alastair Reynolds	Revelation Space	2000, science fiction, novel, 	science-fiction
-Andy Weir	Artemis	Andy Weir, novel, science-fiction 	science-fiction
-Andy Weir	Project Hail Mary	Ballantine Books/Del Rey Books, Novel, BBC-100-Most-Inspiring-Novels, Hugo-Award-for-Best-Novel-Finalist, science-fiction	science-fiction
-Andy Weir	The Martian	Broadway Books, Novel, John-W-Campbell-Memorial-Award-for-Best-Science-Fiction-Novel-Finalist, science-fiction	science-fiction
 Richard McKenna	The Secret Place	Orbit 1 (G. P. Putnam's Sons), Short-Story, Nebula-Award-for-Best-Short-Story, science-fiction	science-fiction
 Kate Wilhelm	The Planners	Orbit 3 (G. P. Putnam's Sons), Short-Story, Nebula-Award-for-Best-Short-Story, science-fiction	science-fiction
 Robert Silverberg	Passengers	Orbit 4 (G. P. Putnam's Sons), Short-Story, Nebula-Award-for-Best-Short-Story, science-fiction	science-fiction
@@ -1626,555 +2363,6 @@ David Brin	Startide Rising 	Locus-Award-For-Best-Science-Fiction, Novel, Fiction
 Ursula K. Le Guin	The Telling 	Locus-Award-For-Best-Science-Fiction, Novel, Fiction	fiction
 Isaac Asimov	More Tales of the Black Widowers	mystery fiction, novel, 1974, short-story collections   	mystery-fiction
 
-Anne Michaels	Fugitive Pieces	Identity, Canadian, BBC-100-Most-Inspiring-Novels, Novel, Fiction, Books-in-Canada-First-Novel-Award, Trillium-Book-Award, Orange-Prize-for-Fiction, Guardian-Fiction-Prize, Jewish-Quarterly-Wingate Prize	fiction
-Sylvia Plath	The Bell Jar	Identity, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Laura Lippman	Butchers Hill	Avon, Winner, Agatha-Award, Novel, Fiction	fiction
-Sujata Massey	The Salaryman's Wife	HarperCollins, Winner, Agatha-Award, Novel, Fiction	fiction
-	Loving	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Marguerite Duras	The Ravishing of Lol Stein	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Claude Lévi-Strauss	Tristes Tropiques	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-D.H. Lawrence	Lady Chatterley's Lover	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-P. D. James	The Children of Men	Crime-Conflict, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Muriel Spark	The Prime of Miss Jean Brodie	Class-Society, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-William Bayer	Peregrine	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-	Infinite Jest	Times-All-Time-100-Novels, Novel, Fiction	fiction
-	The Painted Bird	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Kevin Barry	City of Bohane	Adventure, Irish, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Jim Huang (editor)	They Died in Vain: Overlooked, Underappreciated, and Forgotten Mystery Novels	Crum-Creek-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-Alan Moore	V for Vendetta	Politics,-Power-Protest, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-	The Prime of Miss Jean Brodie	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Jacques Lacan	Écrits	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-T. Jefferson Parker	Silent Joe	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Earlene Fowler	Mariner's Compass	Berkley-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-Bapsi Sidhwa	Ice Candy Man	Crime-Conflict, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Luigi Pirandello	Six Characters in Search of an Author	Italian, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Elly Griffiths	The Stranger Diaries	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Jack Kerouac	On the Road	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Ellis Peters	Death and the Joyful Woman	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Vikram Seth	A Suitable Boy	Family-Friendship, Indian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Barbara D'Amato	The Doctor, the Murder, the Mystery	Noble-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-	Falconer	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Julia Spencer-Fleming	In the Bleak Midwinter	Minotaur-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-Alain-Fournier	Le Grand Meaulnes	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Rhys Bowen	In Farleigh Field	Winner, Agatha-Award, Novel, Fiction	fiction
-Nancy Pickard	The Virgin of Small Plains	Random-House, Winner, Agatha-Award, Novel, Fiction	fiction
-John Steinbeck	Cannery Row	Class-Society, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Nancy Pickard	I.O.U.	Pocket-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-Edna O’Brien	The Country Girls 	Coming-of-Age, Irish, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Elizabeth Daniels Squire	The Dog Who Remembered Too Much	Malice-Domestic-4-(Pocket-Books), Winner, Agatha-Award, Novel, Fiction	fiction
-John Buchan	Mr Standfast	Adventure, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Hannah Arendt	The Origins of TotalitarianismThe Burden of Our Time	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-C. S. Lewis	The Chronicles of Narnia (series)	Life,-Death-Other-Worlds, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Willeta L. Heising	Detecting Men	Purple-Moon-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-Elizabeth Foxwell	No Man’s Land	Blood-On-Their-Hands-(Berkley-Prime-Crime), Winner, Agatha-Award, Novel, Fiction	fiction
-Dorothy Cannell	The Family Jewels	Malice-Domestic-3-(Pocket-Books), Winner, Agatha-Award, Novel, Fiction	fiction
-	Naked Lunch	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Vercors	Le Silence de la mer	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-C. J. Box	Blue Heaven	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Elizabeth Peters	Naked Once More	Warner, Winner, Agatha-Award, Novel, Fiction	fiction
-Sharyn McCrumb	A Wee Doch And Doris	Mistletoe-Mysteries-(Mysterious-Press), Winner, Agatha-Award, Novel, Fiction	fiction
-Dianne Freeman fr	A Ladies Guide to Etiquette and Murder	Winner, Agatha-Award, Novel, Fiction	fiction
-	The Sound and the Fury	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Art Taylor	The Care and Feeding of House Plants	Ellery-Queen's-Mystery-Magazine,-March/April-2013, Winner, Agatha-Award, Novel, Fiction	fiction
-	Light in August	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Alan Sillitoe	Saturday Night and Sunday Morning	Class-Society, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-H.G. Wells	The War of the Worlds	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Catriona McPherson	Dandy Gilver and an Unsuitable Day for Murder	Dandy-Gilver, Winner, Agatha-Award, Novel, Fiction	fiction
-Julie Smith	New Orleans Mourning	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-L. R. Wright	The Suspect	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Jess Walter	Citizen Vince	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-	A Dance to the Music of Time	Times-All-Time-100-Novels, Novel, Fiction	fiction
-John Dos Passos	Manhattan Transfer	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Salman Rushdie	The Moor's Last Sigh	Rule-Breakers, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-	The Sun Also Rises	Times-All-Time-100-Novels, Novel, Fiction	fiction
-	The Berlin Stories	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Chinua Achebe	Things Fall Apart	Identity, Nigerian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-	The Assistant	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Stephen King	Mr. Mercedes	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-	The Power and the Glory	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Chimamanda Ngozi Adichie	Half of a Yellow Sun	Identity, Nigerian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-	Lord of the Flies	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Robert Musil	The Man Without Qualities	German, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Ismail Kadare	The General of the Dead Army	Albanian, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Agatha Christie	The Murder of Roger Ackroyd	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-René Goscinny and Albert Uderzo	Asterix the Gaul	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Barb Goffman	Dear Emily Etiquette	Ellery-Queen's-Mystery-Magazine,-September/October-2020, Winner, Agatha-Award, Novel, Fiction	fiction
-Patrick Hamilton	The Slaves of Solitude	Love,-Sex-Romance, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Raymond Chandler	The Long Goodbye	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Cynthia Kuhn	The Semester of Our Discontent	Winner, Agatha-Award, Novel, Fiction	fiction
-	White Noise	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Harley Jane Kozak	Dating Dead Men	Doubleday, Winner, Agatha-Award, Novel, Fiction	fiction
-Mo Hayder	Gone	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-William Maxwell	So Long, See You Tomorrow	Coming-of-Age, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-J. J. Marric	Gideon's Fire	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-	Neuromancer	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Anne George	Murder on a Girl's Night Out	Avon, Winner, Agatha-Award, Novel, Fiction	fiction
-J.M.G. Le Clézio	The Interrogation	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-James Plunkett	Strumpet City	Politics,-Power-Protest, Irish, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Roland Barthes	Writing Degree Zero	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Barbara Vine	A Dark-Adapted Eye	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Jane Austen	Pride and Prejudice	Love,-Sex-Romance, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Jason Goodwin	The Janissary Tree	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-James Lee Burke	Cimarron Rose	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Terry Pratchett	Discworld (series)	Life,-Death-Other-Worlds, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Anne Frank	The Diary of a Young Girl	Dutch, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-	Things Fall Apart	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Chris Grabenstein	The Crossroads	Winner, Agatha-Award, Novel, Fiction	fiction
-Antonin Artaud	The Theatre and Its Double	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-	Pale Fire	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Dana Cameron	The Night Things Changed	Wolfsbane-Mistletoe-(Penguin-Group), Winner, Agatha-Award, Novel, Fiction	fiction
-Tim Winton	Cloudstreet	Family-Friendship, Australian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Leslie Budewitz	All God's Sparrows	Alfred-Hitchcock's-Mystery-Magazine,-May/June-2018, Winner, Agatha-Award, Novel, Fiction	fiction
-Henry Miller	The Rosy Crucifixion	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-	Blood Meridian	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Carolyn Wheat	Accidents Will Happen	Malice-Domestic-5-(Pocket-Books), Winner, Agatha-Award, Novel, Fiction	fiction
-Sarah Masters Buckey	A Light In The Cellar	American-Girl, Winner, Agatha-Award, Novel, Fiction	fiction
-Jill Churchill	Grime and Punishment	Avon, Winner, Agatha-Award, Novel, Fiction	fiction
-Stanley Ellin	The Eighth Circle	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Penny Warner	The Haunted Lighthouse (The Code Busters Club)	EgmontUSA, Winner, Agatha-Award, Novel, Fiction	fiction
-Cindy Callaghan	Potion Problems (Just Add Magic)	Winner, Agatha-Award, Novel, Fiction	fiction
-Kate Ross	The Devil In Music	Viking-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-Katherine Hall Page	The Would-Be-Widower	Malice-Domestic-X-(Avon-Books), Winner, Agatha-Award, Novel, Fiction	fiction
-Laura Durham fr	Better Off Wed	HarperCollins, Winner, Agatha-Award, Novel, Fiction	fiction
-Margaret Atwood	Oryx and Crake	Coming-of-Age, Canadian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Rhys Bowen	Naughty in Nice	Royal-Spyness, Winner, Agatha-Award, Novel, Fiction	fiction
-Robert Clark	Mr. White's Confession	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Daphne du Maurier	Rebecca	Crime-Conflict, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Arthur Conan Doyle	The Hound of the Baskervilles	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Maj Sjöwall and Per Wahlöö	The Laughing Policeman	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Jules Renard	Journal, 1887–1910	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Jacques Prévert	Paroles	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Rhys Bowen	Murphy's Law	St.-Martin's-Minotaur, Winner, Agatha-Award, Novel, Fiction	fiction
-Nancy Pickard	Out of Africa	Mom,-Apple-Pie,-and-Murder-(Berkley-Publishing-Group), Winner, Agatha-Award, Novel, Fiction	fiction
-Marguerite Yourcenar	The AbyssZeno of Bruges	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Nell Dunn	Poor Cow	Class-Society, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Mattias Bostrom	From Holmes to Sherlock: The Story of the Men and Women Who Created an Icon	Winner, Agatha-Award, Novel, Fiction	fiction
-Nathalie Sarraute	Tropisms	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-	The Day of the Locust	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Hank Phillippi Ryan	Prime Time	Harlequin, Winner, Agatha-Award, Novel, Fiction	fiction
-Andrea Levy	Small Island	Identity, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Frances Schoonmaker	The Last Crystal	Auctus-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-Aaron Elkins	Old Bones	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Nancy Springer	Enola Holmes and the Elegant Escapade	Wednesday-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-Korina Moss	Cheddar Off Dead	Winner, Agatha-Award, Novel, Fiction	fiction
-Jean-Paul Sartre	Being and Nothingness	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-	The Big Sleep	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Alzina Stone Dale	Mystery Readers Walking Guide-Chicago	Passport-Books,-NTC-Publishing-Group, Winner, Agatha-Award, Novel, Fiction	fiction
-Penny Warner	The Mummy's Curse (The Code Busters Club)	EgmontUSA, Winner, Agatha-Award, Novel, Fiction	fiction
-James Lee Burke	Black Cherry Blues	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-	Snow Crash	Times-All-Time-100-Novels, Novel, Fiction	fiction
-	Midnight’s Children	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Charlotte Armstrong	A Dram of Poison	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Graham Greene	The Quiet American	Crime-Conflict, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Georges Bernanos	Under the Sun of Satan	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Virginia Woolf	Orlando	Rule-Breakers, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Ken Follett	Eye of the Needle	Adventure, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Erica Neubauer	Murder at the Mena House	Winner, Agatha-Award, Novel, Fiction	fiction
-Franz Kafka	The Trial	German, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-G. M. Malliet	Death of a Cozy Writer	Midnight-Ink, Winner, Agatha-Award, Novel, Fiction	fiction
-Margaret Maron	Three-Day Town	Winner, Agatha-Award, Novel, Fiction	fiction
-Selma Lagerlöf	The Wonderful Adventures of Nils	Swedish, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-	The Bridge of San Luis Rey	Times-All-Time-100-Novels, Novel, Fiction	fiction
-J.D. Salinger	The Catcher in the Rye	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-M.D. Lake	Tea for Two	Funnybones-(Penguin-Group), Winner, Agatha-Award, Novel, Fiction	fiction
-Julien Gracq	The Opposing Shore	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-T. Jefferson Parker	California Girl	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Toni Morrison	Beloved	Identity, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Judy Blume	Forever...	Love,-Sex-Romance, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Saint-John Perse	Amers	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Donald E. Westlake	God Save the Mark	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Arthur Maling	The Rheingold Route	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Carolyn G. Hart	Something Wicked	Bantam, Winner, Agatha-Award, Novel, Fiction	fiction
-Jan Burke	The Man in the Civil Suit	Malice-Domestic-9-(Avon-Books), Winner, Agatha-Award, Novel, Fiction	fiction
-Richie Narvaez	Holly Hernandez and the Death of Disco	Piñata-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-Margaret Maron	Deborah's Judgment	A-Woman's-Eye-(Delacourte-Press), Winner, Agatha-Award, Novel, Fiction	fiction
-Paul Claudel	The Satin Slipper	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Jean Rhys	Wide Sargasso Sea	Class-Society, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Louise Penny	The Beautiful Mystery	Winner, Agatha-Award, Novel, Fiction	fiction
-James Hadley Chase	No Orchids For Miss Blandish	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Neil Gaiman	The Sandman	Life,-Death-Other-Worlds, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-John Hart	Down River	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-	Are You There God? It’s Me, Margaret	Times-All-Time-100-Novels, Novel, Fiction	fiction
-	The Death of the Heart	Times-All-Time-100-Novels, Novel, Fiction	fiction
-George R. R. Martin	A Game of Thrones	Life,-Death-Other-Worlds, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-	The Lion, The Witch and the Wardrobe	Times-All-Time-100-Novels, Novel, Fiction	fiction
-	Dog Soldiers	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Rainer Maria Rilke	The Notebooks of Malte Laurids Brigge	German, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Jean Giono	The Horseman on the Roof	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Steve Hamilton	The Lock Artist	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-J. M. Coetzee	Disgrace	Class-Society, South-African, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Willetta L. Heising	Detecting Women 2	Purple-Moon-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-	Invisible Man	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Dick Francis	Whip Hand	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Elizabeth Peters and  Kristen Whitbread (editors) with  Dennis Forbes (design)	Amelia Peabody's Egypt: A Compendium	William-Morrow-Company, Winner, Agatha-Award, Novel, Fiction	fiction
-Leslie Budewitz	Books, Crooks and Counselors: How to Write Accurately About Criminal Law and Courtroom Procedure	Winner, Agatha-Award, Novel, Fiction	fiction
-Ernest Hemingway	For Whom the Bell Tolls	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-	Herzog	Times-All-Time-100-Novels, Novel, Fiction	fiction
-James Baldwin	Giovanni's Room	Love,-Sex-Romance, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Yaa Gyasi	Homegoing	Identity, Ghanaian-American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Hugo Pratt	The Ballad of the Salty Sea	Italian, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Noel Streatfeild	Ballet Shoes	Family-Friendship, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Lori Roy	Let Me Die in His Footsteps	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Joe R. Lansdale	The Bottoms	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Sujata Massey	The Widows of Malabar Hill	Perveen-Mistry, Winner, Agatha-Award, Novel, Fiction	fiction
-	Call It Sleep	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Christina Lane	Phantom Lady: Hollywood Producer Joan Harrison, the Forgotten Woman Behind Hitchcock	Winner, Agatha-Award, Novel, Fiction	fiction
-Boris Vian	Froth on the Daydream	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Charles Dickens	Our Mutual Friend	Class-Society, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-P. G. Wodehouse	Psmith, Journalist	Rule-Breakers, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-
-Nevada Barr	Track of the Cat	Putnam, Winner, Agatha-Award, Novel, Fiction	fiction
-Melanie Rehak	Girl Sleuth: Nancy Drew and the Women Who Created Her	Harcourt, Winner, Agatha-Award, Novel, Fiction	fiction
-Nicolas Freeling	King of the Rainy Country	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-	Housekeeping	Times-All-Time-100-Novels, Novel, Fiction	fiction
-	The Recognitions	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Ellen Byron	Cajun Kiss of Death	Winner, Agatha-Award, Novel, Fiction	fiction
-Adam Hall	The Quiller Memorandum	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Leslie Budewitz	Death Al Dente	Winner, Agatha-Award, Novel, Fiction	fiction
-Frederick Forsyth	The Day of the Jackal	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Dennis Lehane	Live by Night	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Edgar P. Jacobs	Blake and Mortimer	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Raymond Chandler	The Big Sleep	Adventure, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Ali Smith	How to Be Both	Rule-Breakers, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Alan Orloff	I Play One on TV	Down-Out-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-Gabriel García Márquez	One Hundred Years of Solitude	Spanish, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Alice Walker	The Color Purple	Politics,-Power-Protest, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Jean Swanson and Dean James	By a Woman's Hand	Berkley-Publishing-Group, Winner, Agatha-Award, Novel, Fiction	fiction
-Hank Phillippi Ryan	On the House	Level-Best-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-Ernest Hemingway	For Whom the Bell Tolls	Adventure, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Stefan Zweig	Confusion of Feelings	German, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Mia P. Manansala	Arsenic and Adobo	Winner, Agatha-Award, Novel, Fiction	fiction
-	The Golden Notebook	Times-All-Time-100-Novels, Novel, Fiction	fiction
-James Lee Burke	Flags on the Bayou	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Herman Melville	Bartleby, the Scrivener	Rule-Breakers, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Jacqueline Winspear	Birds of a Feather	Soho-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-Audre Lorde	Zami: A New Spelling of My Name	Rule-Breakers, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Donna Andrews	A Rat's Tale	Ellery-Queen-Mystery-Magazine, Winner, Agatha-Award, Novel, Fiction	fiction
-Art Taylor	On the Road with Del and Louise	Winner, Agatha-Award, Novel, Fiction	fiction
-	A House for Mr. Biswas	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Joan Hess	Too Much To Bare	Sisters-in-Crime-2-(Berkley-Publishing-Group), Winner, Agatha-Award, Novel, Fiction	fiction
-	Lucky Jim	Times-All-Time-100-Novels, Novel, Fiction	fiction
-	1984	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Anjili Babbar	Finders: Justice, Faith and Identity in Irish Crime Fiction	Winner, Agatha-Award, Novel, Fiction	fiction
-Aaron Elkins  and Charlotte Elkins	Nice Gorilla	Malice-Domestic-1-(Pocket-Books), Winner, Agatha-Award, Novel, Fiction	fiction
-Chris Grabenstein	The Hanging Hill	Random-House, Winner, Agatha-Award, Novel, Fiction	fiction
-Daniel Stashower	The Hour of Peril: The Secret Plot to Murder Lincoln Before the Civil War	Winner, Agatha-Award, Novel, Fiction	fiction
-	A Passage to India	Times-All-Time-100-Novels, Novel, Fiction	fiction
-	I, Claudius	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Carolyn Hart	Letter From Home	Berkley-Prime-Crime, Winner, Agatha-Award, Novel, Fiction	fiction
-Louise Penny	All the Devils Are Here	Winner, Agatha-Award, Novel, Fiction	fiction
-Martin Edwards	The Golden Age of Murder: The Mystery of the Writers Who Invented the Modern Detective Story	Winner, Agatha-Award, Novel, Fiction	fiction
-Alberto Moravia	Contempt/A Ghost at Noon	Italian, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-John Steinbeck	The Grapes of Wrath	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Blaise Cendrars	Moravagine	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Virginia Woolf	A Room of One's Own	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Cormac McCarthy	The Road	Life,-Death-Other-Worlds, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-	An American Tragedy	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Lori Rader-Day	Death at Greenway	Winner, Agatha-Award, Novel, Fiction	fiction
-Ursula K. Le Guin	Earthsea (trilogy)	Life,-Death-Other-Worlds, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Jon Cleary	Peter's Pence	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-George Orwell	Nineteen Eighty-Four	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Mary Willis Walker	Zero at the Bone	St.-Martin's-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-Louise Penny	Glass Houses	Winner, Agatha-Award, Novel, Fiction	fiction
-Georges Simenon	The Strange Case of Peter the Lett	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Michel Foucault	The Order of Things	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Patrick O’Brian	The Jack Aubrey Novels (series)	Adventure, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Michael Crichton	A Case of Need	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-	White Teeth	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Tony Hillerman	Dance Hall of the Dead	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Avery Aames fr; ja	The Long Quiche Goodbye	Winner, Agatha-Award, Novel, Fiction	fiction
-André Malraux	Man's Fate	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Jeanne M. Dams	The Body in the Transept	Walker, Winner, Agatha-Award, Novel, Fiction	fiction
-Kathy Lynn Emerson	How to Write Killer Historical Mysteries	Perseverance-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-	One Flew Over the Cuckoo’s Nest	Times-All-Time-100-Novels, Novel, Fiction	fiction
-	All the King’s Men	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Diane Vallere	Promophobia: Taking the Mystery Out of Promoting Crime Fiction	Winner, Agatha-Award, Novel, Fiction	fiction
-Vladimir Nabokov	Lolita	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-	Deliverance	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Dino Buzzati	The Tartar Steppe	Italian, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Raymond Queneau	Zazie in the Metro	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-André Franquin	GastonGomer Goof	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-	The Confessions of Nat Turner	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Angela Carter	Nights at the Circus	Rule-Breakers, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Art Taylor	The Odds Are Against Us	Ellery-Queen's-Mystery-Magazine,-Nov.-2014, Winner, Agatha-Award, Novel, Fiction	fiction
-Zora Neale Hurston	Their Eyes Were Watching God	Love,-Sex-Romance, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-	Death Comes for the Archbishop	Times-All-Time-100-Novels, Novel, Fiction	fiction
-J. K. Rowling	Harry Potter (series)	Coming-of-Age, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Michel Tournier	Friday	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Harper Lee	To Kill a Mockingbird	Politics,-Power-Protest, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-George Orwell	Nineteen Eighty-Four	Rule-Breakers, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-	The Heart is A Lonely Hunter	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Dick Francis	Forfeit	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-K. B. Jackson	The Sasquatch of Hawthorne Elementary	Winner, Agatha-Award, Novel, Fiction	fiction
-	A Clockwork Orange	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Penny Warner	The Secret of the Puzzle Box(The Code Busters Club)	Darby-Creek, Winner, Agatha-Award, Novel, Fiction	fiction
-Mary Shelley	Frankenstein	Life,-Death-Other-Worlds, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Anne Brontë	The Tenant of Wildfell Hall	Family-Friendship, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Barb Goffman	Beauty and the Beyotch	Sherlock-Holmes-Mystery-Magazine,-Issue-29, Winner, Agatha-Award, Novel, Fiction	fiction
-Katherine Hall Page	The Body in the Belfry	St.-Martin's-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-Barb Goffman	A Year Without Santa Claus?	Alfred-Hitchcock's-Mystery-Magazine,-Jan./Feb.-2015, Winner, Agatha-Award, Novel, Fiction	fiction
-Margaret Mitchell	Gone with the Wind	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Dru Ann Love  and Kristopher Zgorski	Ticket to Ride	Happiness-Is-a-Warm-Gun:-Crime-Fiction-Inspired-by-the-Songs-of-The-Beatles, Winner, Agatha-Award, Novel, Fiction	fiction
-James Ellroy	American Tabloid	Crime-Conflict, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Edith Maxwell	Charity’s Burden	Quaker-Midwife, Winner, Agatha-Award, Novel, Fiction	fiction
-	The Crying of Lot 49	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Malorie Blackman	Noughts  Crosses	Politics,-Power-Protest, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Elif Shafak	The Forty Rules of Love	Love,-Sex-Romance, Turkish, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Katherine Hall Page	The Body in the Snowdrift	William-Morrow-Company, Winner, Agatha-Award, Novel, Fiction	fiction
-Marcia Talley	Too Many Cooks	Much-Ado-About-Murder,-edited-by-Anne-Perry-(Berkley-Prime-Crime), Winner, Agatha-Award, Novel, Fiction	fiction
-John Curran	Agatha Christie's Secret Notebooks: 50 Years of Mysteries in the Making	Winner, Agatha-Award, Novel, Fiction	fiction
-Hank Phillippi Ryan	Truth Be Told	Winner, Agatha-Award, Novel, Fiction	fiction
-Jean Genet	Our Lady of the Flowers	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-William Styron	Sophie's Choice	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Elaine Viets	Wedding Knife	Chesapeake-Crimes,-edited-by-Donna-Andrews-(Quiet-Storm-Publishing), Winner, Agatha-Award, Novel, Fiction	fiction
-Ellen Byron	Mardi Gras Murder	Winner, Agatha-Award, Novel, Fiction	fiction
-M. M. Kaye	The Far Pavilions	Love,-Sex-Romance, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Alzina Stone Dale	Mystery Reader's Walking Guide to Washington D.C.	Passport-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-	The French Lieutenant’s Woman	Times-All-Time-100-Novels, Novel, Fiction	fiction
-	Revolutionary Road	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Blue Balliett	Chasing Vermeer	Scholastic-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-	Wide Sargasso Sea	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Sarah Smith	The Other Side of Dark	Atheneum-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-	A Handful of Dust	Times-All-Time-100-Novels, Novel, Fiction	fiction
-	At Swim-Two-Birds	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Elmore Leonard	La Brava	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-	The Lord of the Rings	Times-All-Time-100-Novels, Novel, Fiction	fiction
-	To Kill a Mockingbird	Times-All-Time-100-Novels, Novel, Fiction	fiction
-	Gone With the Wind	Times-All-Time-100-Novels, Novel, Fiction	fiction
-	Under the Volcano	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Sara J. Henry fr	Learning to Swim	Winner, Agatha-Award, Novel, Fiction	fiction
-Brian Garfield	Hopscotch	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Raymond Chandler	The Big Sleep	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Jim Huang (editor)	Crum Creek Press	Winner, Agatha-Award, Novel, Fiction	fiction
-William H. Hallahan	Catch Me: Kill Me	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Bertolt Brecht	The Resistible Rise of Arturo Ui	German, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-	The Heart of the Matter	Times-All-Time-100-Novels, Novel, Fiction	fiction
-	Their Eyes Were Watching God	Times-All-Time-100-Novels, Novel, Fiction	fiction
-James Kestrel	Five Decembers	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Ben Okri	Astonishing the Gods	Life,-Death-Other-Worlds, Nigerian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Sebastian Barry	Days Without End	Identity, Irish, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Cindy Callaghan	Sydney Mackenzie Knocks 'Em Dead	Aladdin, Winner, Agatha-Award, Novel, Fiction	fiction
-Jane Cleland	Mastering Plot Twists	Winner, Agatha-Award, Novel, Fiction	fiction
-Shawn Reilly Simmons	The Last Word	Malice-Domestic-14:-Mystery-Most-Edible, Winner, Agatha-Award, Novel, Fiction	fiction
-J.R.R. Tolkien	The Lord of the Rings	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-	The Moviegoer	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Colette	The Tendrils of the Vine	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-	The Adventures of Augie March	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Albert Cohen	Belle du Seigneur	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Nancy Means Wright	Pea Soup Poisonings	Hilliard-Harris, Winner, Agatha-Award, Novel, Fiction	fiction
-Eric Ambler	The Light of Day	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-	Lolita	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Elizabeth George	A Great Deliverance	Bantam-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-	Slaughterhouse Five	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Antoine de Saint-Exupéry	The Little Prince	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Rosemary Stevens fr	Death on a Silver Tray	Berkley-Prime-Crime, Winner, Agatha-Award, Novel, Fiction	fiction
-Amanda Flower	Because I Could Not Stop for Death	Emily-Dickinson, Winner, Agatha-Award, Novel, Fiction	fiction
-Georges Perec	Life: A User's Manual	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Sharyn McCrumb	If I'd Killed Him When I Met Him	Ballantine-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-William Kent Krueger	Ordinary Grace	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Mary Jane Maffini	So Much in Common	Ellery-Queen's-Mystery-Magazine,-Sept./Oct.-2010, Winner, Agatha-Award, Novel, Fiction	fiction
-Mohsin Hamid	The Reluctant Fundamentalist	Crime-Conflict, Pakistani, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Hergé	The Blue Lotus	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Kamila Shamsie	Home Fire	Politics,-Power-Protest, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Barbara D'Amato	Of Course You Know That Chocolate Is A Vegetable	Ellery-Queen's-Mystery-Magazine,-November-1998, Winner, Agatha-Award, Novel, Fiction	fiction
-	Native Son	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Carol Shields	Unless	Politics,-Power-Protest, Canadian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Jeff Abbott	Do Unto Others	Ballantine, Winner, Agatha-Award, Novel, Fiction	fiction
-Dana Cameron	Mischief in Mesopotamia	Ellery-Queen's-Mystery-Magazine,-Nov.-2012, Winner, Agatha-Award, Novel, Fiction	fiction
-	Gravity’s Rainbow	Times-All-Time-100-Novels, Novel, Fiction	fiction
-R. K. Narayan	Swami and Friends	Coming-of-Age, Indian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Sue Townsend	The Secret Diary of Adrian Mole, Aged 13 ¾	Coming-of-Age, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-André Gide	The Counterfeiters	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Terrie Farley Moran	Well Read, Then Dead	Winner, Agatha-Award, Novel, Fiction	fiction
-Thomas H. Cook	The Chatham School Affair	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Roald Dahl	The Witches	Family-Friendship, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Daniel Stashower	Teller of Tales: the Life of Arthur Conan Doyle	Henry-Holt-Company, Winner, Agatha-Award, Novel, Fiction	fiction
-Amanda Flower	Andi Unstoppable	Zonderkidz, Winner, Agatha-Award, Novel, Fiction	fiction
-	To the Lighthouse	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Margaret Maron	Up Jumps The Devil	Mysterious-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-Charles Todd	A Question of Honor	Bess-Crawford, Winner, Agatha-Award, Novel, Fiction	fiction
-Margaret Maron	Long Upon the Land	Winner, Agatha-Award, Novel, Fiction	fiction
-Pat Barker	Regeneration	Crime-Conflict, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-	The Grapes of Wrath	Times-All-Time-100-Novels, Novel, Fiction	fiction
-	Possession	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Jane K. Cleland	Mastering Suspense, Structure, and Plot: How to Write Gripping Stories that Keep Readers on the Edge of Their Seats	Winner, Agatha-Award, Novel, Fiction	fiction
-André Breton	Nadja	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Donna Andrews	You've Got Murder	Berkley-Prime-Crime, Winner, Agatha-Award, Novel, Fiction	fiction
-	American Pastoral	Times-All-Time-100-Novels, Novel, Fiction	fiction
-William Golding	Lord of the Flies	Politics,-Power-Protest, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Charlotte Jay	Beat Not the Bones	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Armistead Maupin	Tales of the City	Family-Friendship, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Shari Randall	Curses, Boiled Again	Winner, Agatha-Award, Novel, Fiction	fiction
-S. E. Hinton	The Outsiders	Coming-of-Age, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Sarah Strohmeyer	Bubbles Unbound	Dutton, Winner, Agatha-Award, Novel, Fiction	fiction
-	The Great Gatsby	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Frank Herbert	Dune	Life,-Death-Other-Worlds, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-	Rabbit, Run	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Claire Adam	Golden Child	Coming-of-Age, Trinidadian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Mo Moulton	The Mutual Admiration Society: How Dorothy L. Sayers and her Oxford Circle Remade the World for Women	Winner, Agatha-Award, Novel, Fiction	fiction
-Carl Hiaasen	Flush	Alfred-A.-Knopf, Winner, Agatha-Award, Novel, Fiction	fiction
-Sandra Parshall fr	The Heat of the Moon	Poisoned-Pen-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-Louise Penny	A Great Reckoning	Winner, Agatha-Award, Novel, Fiction	fiction
-Malcolm Lowry	Under the Volcano	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Dick Francis	Come to Grief	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-	Portnoy’s Complaint	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Margaret Maron	The Dog That Didn't Bark	Ellery-Queen's-Mystery-Magazine,-December-2002, Winner, Agatha-Award, Novel, Fiction	fiction
-John Kennedy Toole	A Confederacy of Dunces	Rule-Breakers, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Umberto Eco	The Name of the Rose	Italian, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Federico García Lorca	Gypsy Ballads	Spanish, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Rick Boyer	Billingsgate Shoal	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Julian Symons	The Progress of a Crime	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Aldous Huxley	Brave New World	Politics,-Power-Protest, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Patricia Highsmith	The Talented Mr. Ripley	Crime-Conflict, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Robert B. Parker	Promised Land	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Chris Grabenstein	The Black Heart Crypt	Random-House, Winner, Agatha-Award, Novel, Fiction	fiction
-Chris Grabenstein	Escape from Mr. Lemoncello's Library	Random-House, Winner, Agatha-Award, Novel, Fiction	fiction
-John Hart	The Last Child	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-	The Sheltering Sky	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Mikhail Bulgakov	The Master and Margarita	Russian, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-René Char	Furor and Mystery	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-	Money	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Louis Aragon	Aurélien	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-L. M. Montgomery	Emily of New Moon	Coming-of-Age, Canadian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-John Connolly	Books to Die For: The World's Greatest Mystery Writers on the World's Greatest Mystery Novels	Winner, Agatha-Award, Novel, Fiction	fiction
-Philip Pullman	His Dark Materials (trilogy)	Adventure, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-	The Catcher in the Rye	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Deepa Anappara	Djinn Patrol on the Purple Line	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Tara Laskowski	The Weekend Retreat	Winner, Agatha-Award, Novel, Fiction	fiction
-Michel Butor	Second Thoughts	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Rhys Bowen	Queen of Hearts	Royal-Spyness, Winner, Agatha-Award, Novel, Fiction	fiction
-Noah Hawley	Before the Fall	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Margaret Maron	Storm Track	Mysterious-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-Thomas Mann	The Magic Mountain	German, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-F. Scott Fitzgerald	The Great Gatsby	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Milan Kundera	The Joke	Czech, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Carolyn Hart	Dead Man's Island	Bantam-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-Primo Levi	If This Is a Man Se questo è un uomo, Survival in Auschwitz	Italian, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-	The Man Who Loved Children	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Barbara Neely	Blanche on the Lam	St.-Martin's-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-Walter Mosley	Down the River Unto the Sea	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-S. J. Rozan	Winter and Night	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-	Under the Net	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Jeanette Winterson	The Passion	Love,-Sex-Romance, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Robin Hathaway	The Doctor Digs a Grave	Minotaur-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-Hank Phillippi Ryan	The Wrong Girl	Winner, Agatha-Award, Novel, Fiction	fiction
-Margaret Maron	Bootlegger's Daughter	Mysterious-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-Louise Penny	A World of Curiosities	Winner, Agatha-Award, Novel, Fiction	fiction
-Peter Abrahams	Down the Rabbit Hole	HarperCollins, Winner, Agatha-Award, Novel, Fiction	fiction
-	The Sportswriter	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Ann Cleeves	The Long Call	Winner, Agatha-Award, Novel, Fiction	fiction
-	The Blind Assassin	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Dodie Smith	I Capture the Castle	Family-Friendship, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Nancy Pickard	Bum Steer	Pocket-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-Jon Lellenberg, Daniel Stashower, and Charles Foley	Arthur Conan Doyle: A Life in Letters	Penguin-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-Louise Penny	A Brutal Telling	Minotaur-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-Lee Child and Laurie R. King (editor)	How to Write a Mystery: A Handbook from Mystery Writers of America	Winner, Agatha-Award, Novel, Fiction	fiction
-	The Sot-Weed Factor	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Stephenie Meyer	Twilight (series)	Coming-of-Age, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-	Catch-22	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Suzanne Collins	The Hunger Games	Adventure, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Dana Cameron	Disarming	Ellery-Queen's-Mystery-Magazine,-June-2011, Winner, Agatha-Award, Novel, Fiction	fiction
-Toni Kelner	Sleeping with the Plush	Alfred-Hitchcock's-Mystery-Magazine, Winner, Agatha-Award, Novel, Fiction	fiction
-Donna Andrews	Murder with Peacocks	Thomas-Dunne-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-Jack French	Private Eye-Lashes: Radio’s Lady Detectives	Bear-Manor-Media, Winner, Agatha-Award, Novel, Fiction	fiction
-Jilly Cooper	Riders	Love,-Sex-Romance, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Craig Thompson	Habibi	Rule-Breakers, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Samuel Beckett	Waiting for Godot	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-William Faulkner	The Sound and the Fury	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Khaled Hosseini	A Thousand Splendid Suns	Politics,-Power-Protest, Afghan-American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-	Appointment in Samarra	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Joseph Conrad	Lord Jim	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Sujata Massey	The Mistress of Bhatia House	Winner, Agatha-Award, Novel, Fiction	fiction
-	Never Let Me Go	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Daphne Silver	Crime and Parchment	Winner, Agatha-Award, Novel, Fiction	fiction
-Marilynne Robinson	Gilead	Life,-Death-Other-Worlds, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Albert Camus	The StrangerThe Outsider	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Mary Willis Walker	The Red Scream	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Ian Rankin	Resurrection Men	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Guillaume Apollinaire	Alcools	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-George Eliot	Middlemarch	Family-Friendship, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Warren Kiefer	The Lingala Code	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Gigi Pandian	The Library Ghost of Tanglewood Inn	Winner, Agatha-Award, Novel, Fiction	fiction
-	A Death in the Family	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Jacqueline Winspear	Maisie Dobbs	Soho-Press-Inc., Winner, Agatha-Award, Novel, Fiction	fiction
-François Mauriac	Thérèse Desqueyroux	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Walter Scott	Ivanhoe	Adventure, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Ray Bradbury	The Martian Chronicles	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Stella Gibbons	Cold Comfort Farm	Family-Friendship, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-	Tropic of Cancer	Times-All-Time-100-Novels, Novel, Fiction	fiction
-	Brideshead Revisited	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Kathleen Karr	The 7th Knot	Marshall-Cavendish, Winner, Agatha-Award, Novel, Fiction	fiction
-Laurie R. King	Dreaming Spies	Mary-Russell, Winner, Agatha-Award, Novel, Fiction	fiction
-Tara Laskowski fr	One Night Gone	Winner, Agatha-Award, Novel, Fiction	fiction
-Kellye Garrett	Hollywood Homicide	Winner, Agatha-Award, Novel, Fiction	fiction
-Brian Moore	The Lonely Passion of Judith Hearne	Class-Society, British-Canadian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Simone de Beauvoir	The Second Sex	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Catriona McPherson	The Reek of Red Herrings	Dandy-Gilver, Winner, Agatha-Award, Novel, Fiction	fiction
-Eugène Ionesco	The Bald Soprano	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-	Play It As It Lays	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Margaret Millar	Beast in View	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Susan M. Boyer	Lowcountry Boil	Winner, Agatha-Award, Novel, Fiction	fiction
-Lawrence Block	A Dance at the Slaughterhouse	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Annie Proulx	The Shipping News	Family-Friendship, American, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-	Go Tell it on the Mountain	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Stuart M. Kaminsky	A Cold Red Sunrise	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Kazuo Ishiguro	The Remains of the Day	Class-Society, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Paul Éluard	Capital of Pain	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Louise Penny	A Fatal Grace (Dead Cold in Canada)	St.-Martin's-Minotaur, Winner, Agatha-Award, Novel, Fiction	fiction
-Louis-Ferdinand Céline	Journey to the End of the Night	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Tara Laskowski fr	The Case of the Vanishing Professor	Alfred-Hitchcock's-Mystery-Magazine,-May/June-2018, Winner, Agatha-Award, Novel, Fiction	fiction
-Heinrich Böll	The Lost Honour of Katharina Blum	German, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-M.D. Lake	Kim's Game	Malice-Domestic-2-(Pocket-Books), Winner, Agatha-Award, Novel, Fiction	fiction
-Danya Kukafka	Notes on an Execution	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Tony Hillerman	Seldom Disappointed: A Memoir	HarperCollins, Winner, Agatha-Award, Novel, Fiction	fiction
-Art Taylor	Parallel Play	Chesapeake-Crimes:-Storm-Warning-(Wildside-Press), Winner, Agatha-Award, Novel, Fiction	fiction
-Salman Rushdie	Midnight's Children	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-J. R. R. Tolkien	The Lord of the Rings	Adventure, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Ross Thomas	Briarpatch	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Arundhati Roy	The God of Small Things	Identity, Indian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Sharyn McCrumb	She Walks These Hills	Scribner, Winner, Agatha-Award, Novel, Fiction	fiction
-Shawn Reilly Simmons	Bay of Reckoning	Murder-on-the-Beach-(Destination-Murders), Winner, Agatha-Award, Novel, Fiction	fiction
-	Ragtime	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Ken Follett	Eye of the Needle	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Margaret Maron	Bootlegger's Daughter	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Jan Burke	Bones	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-	Red Harvest	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Chris Roerden	Don't Murder Your Mystery	Bella-Rosa-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-Daniel J. Hale and Matthew LaBrot	Red Card (The Zeke Armstrong Mysteries)	Top-Publications, Winner, Agatha-Award, Novel, Fiction	fiction
-Zadie Smith	White Teeth	Identity, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Aleksandr Solzhenitsyn	The Gulag Archipelago	Russian, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Elena Santangelo	Dame Agatha's Shorts	Bella-Rosa-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-Jorge Luis Borges	Ficciones	Spanish, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-	Ubik	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Helen Fielding	Bridget Jones's Diary	Love,-Sex-Romance, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Aldous Huxley	Brave New World	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-	Mrs. Dalloway	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Hank Phillippi Ryan (editor)	Writes of Passage: Adventures on the Writer's Journey	Winner, Agatha-Award, Novel, Fiction	fiction
-Omar El Akkad	American War	Crime-Conflict, Egyptian-Canadian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Alan Bradley	The Sweetness at the Bottom of the Pie	Delacorte-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-Louise Penny	The Cruelest Month	Minotaur-Books, Winner, Agatha-Award, Novel, Fiction	fiction
-Ed Lacy	Room to Swing	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-	Atonement	Times-All-Time-100-Novels, Novel, Fiction	fiction
-	Animal Farm	Times-All-Time-100-Novels, Novel, Fiction	fiction
-James Joyce	Ulysses	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-	Beloved	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Penny Warner	Mystery Of The Haunted Caves (Troop 13 Mystery series)	Meadowbrook-Press, Winner, Agatha-Award, Novel, Fiction	fiction
-Françoise Sagan	Bonjour Tristesse	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Jack London	Martin Eden	English, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Marcia Talley	Driven to Distraction	Chesapeake-Crimes-II-(Quiet-Storm-Publishing), Winner, Agatha-Award, Novel, Fiction	fiction
-V. S. Naipaul	A House for Mr Biswas	Class-Society, Trinidadian, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-	The Spy Who Came in From the Cold	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Robert Barnard	More Final Than Divorce	Ellery-Queen's-Mystery-Magazine, Winner, Agatha-Award, Novel, Fiction	fiction
-Celia Fremlin	The Hours Before Dawn	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-Marcel Proust	In Search of Lost TimeRemembrance of Things Past	French, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Minette Walters	The Sculptress	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-	The Corrections	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Sigmund Freud	Three Essays on the Theory of Sexuality	German, Le-Mondes-100-Books-of-the-Century, Novel, Fiction	fiction
-Attica Locke	Bluebird, Bluebird	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
-	On the Road	Times-All-Time-100-Novels, Novel, Fiction	fiction
-Arthur Conan Doyle	The Hound of the Baskervilles	Crime-Conflict, British, BBC-100-Most-Inspiring-Novels, Novel, Fiction	fiction
-Louise Penny	Bury Your Dead	Winner, Agatha-Award, Novel, Fiction	fiction
-John le Carré	The Spy Who Came in from the Cold	Winner, Edgar-Allan-Peo-Award-For-Best-Novel, Novel, Fiction	fiction
 
 
 
@@ -2185,83 +2373,8 @@ John le Carré	The Spy Who Came in from the Cold	Winner, Edgar-Allan-Peo-Award-F
 
 
 
-Like a Sister	Kellye Garrett	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Razorblade Tears	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Blacktop Wasteland	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Murder List	Hank Phillippi Ryan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-November Road	Lou Berney	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Bluebird, Bluebird	Attica Locke	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-A Great Reckoning	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Killing Kind	Chris Holm	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-After I’m Gone	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Ordinary Grace	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Beautiful Mystery	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-A Trick of the Light	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Bury Your Dead	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Brutal Telling	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Brass Verdict	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-What the Dead Know	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-No Good Deeds	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Mercy Falls	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Blood Hollow	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Every Secret Thing	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-City of Bones	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Mystic River	Dennis Lehane	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-A Place of Execution	Val McDermid	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-In a Dry Season	Peter Robinson	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Blood Work	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-No Colder Place	S. J. Rozan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Poet	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Under the Beetle's Cellar	Mary Willis Walker	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-She Walks These Hills	Sharyn McCrumb	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Wolf in the Shadows	Marcia Muller	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Bootlegger’s Daughter	Margaret Maron	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Last Detective	Peter Lovesey	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-G Is for Gumshoe	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Sirens Sang of Murder	Sarah Caudwell	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Silence of the Lambs	Thomas Harris	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Skinwalkers	Tony Hillerman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-C Is for Corpse	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-B Is for Burglar	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 
-Like a Sister	Kellye Garrett	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Razorblade Tears	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Blacktop Wasteland	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Murder List	Hank Phillippi Ryan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-November Road	Lou Berney	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Bluebird, Bluebird	Attica Locke	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-A Great Reckoning	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Killing Kind	Chris Holm	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-After I’m Gone	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Ordinary Grace	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Beautiful Mystery	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-A Trick of the Light	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Bury Your Dead	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Brutal Telling	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Brass Verdict	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-What the Dead Know	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-No Good Deeds	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Mercy Falls	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Blood Hollow	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Every Secret Thing	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-City of Bones	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Mystic River	Dennis Lehane	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-A Place of Execution	Val McDermid	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-In a Dry Season	Peter Robinson	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Blood Work	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-No Colder Place	S. J. Rozan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Poet	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Under the Beetle's Cellar	Mary Willis Walker	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-She Walks These Hills	Sharyn McCrumb	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Wolf in the Shadows	Marcia Muller	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Bootlegger’s Daughter	Margaret Maron	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Last Detective	Peter Lovesey	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-G Is for Gumshoe	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Sirens Sang of Murder	Sarah Caudwell	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Silence of the Lambs	Thomas Harris	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Skinwalkers	Tony Hillerman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-C Is for Corpse	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-B Is for Burglar	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
+
 
 Nancy Springer	Enola Holmes and the Mark of the Mongoose	Finalist, Agatha-Award, Novel, Fiction	fiction
 Taryn Sounders	The Mystery of the Radcliffe Riddle	Finalist, Agatha-Award, Novel, Fiction	fiction
@@ -2498,7 +2611,6 @@ Catriona McPherson	The Turning Tide	Dandy-Gilver, Finalist, Agatha-Award, Novel,
 Edith Maxwell	Taken Too Soon	Quaker-Midwife, Finalist, Agatha-Award, Novel, Fiction	fiction
 Dianne Freeman	A Lady's Guide to Mischief and Murder	Countess-of-Harleigh, Finalist, Agatha-Award, Novel, Fiction	fiction
 Susanna Calkins	The Fate of a Flapper	Speakeasy-Murders, Finalist, Agatha-Award, Novel, Fiction	fiction
-Rhys Bowen	The Last Mrs. Summers	Royal-Spyness, WInner, Agatha-Award, Novel, Fiction	fiction
 Gabriel Valjan	The Naming Game	Company-Files, Finalist, Agatha-Award, Novel, Fiction	fiction
 L. A. Chandlar	The Pearl Dagger	Art-Deco-Mystery, Finalist, Agatha-Award, Novel, Fiction	fiction
 Susanna Calkins	Murder Knocks Twice	Speakeasy-Murders, Finalist, Agatha-Award, Novel, Fiction	fiction
@@ -2908,144 +3020,116 @@ The Maid	Nita Prose	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	ficti
 A World of Curiosities	Louise Penny	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Bullet That Missed	Richard Osman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Devil Takes You Home	Gabino Iglesias	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Like a Sister	Kellye Garrett	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Clark and Division	Naomi Hirahara	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 These Toxic Things	Rachel Howzell Hall	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Collective	Alison Gaylin	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Runner	Tracy Clark	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Razorblade Tears	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The First To Lie	Hank Phillippi Ryan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 And Now She’s Gone	Rachel Howzell Hall	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Little Secrets	Jennifer Hillier	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 What You Don’t See	Tracy Clark	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Blacktop Wasteland	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Miami Midnight	Alex Segura	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Lady in the Lake	Laura Lippman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 They All Fall Down	Rachel Howzell Hall	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Your House Will Pay	Steph Cha	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Murder List	Hank Phillippi Ryan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Blackout	Alex Segura	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Sunburn	Laura Lippman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Jar of Hearts	Jennifer Hillier	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Give Me Your Hand	Megan Abbott	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-November Road	Lou Berney	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Force	Don Winslow	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Glass Houses	Louise Penny	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Magpie Murders	Anthony Horowitz	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Late Show	Michael Connelly	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Bluebird, Bluebird	Attica Locke	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Wilde Lake	Laura Lippman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Red Right Hand	Chris Holm	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Where It Hurts	Reed Farrel Coleman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 You Will Know Me	Megan Abbott	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-A Great Reckoning	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 What You See	Hank Phillippi Ryan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Nature of the Beast	Louise Penny	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Child Garden	Catriona McPherson	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Night Tremors	Matt Coyle	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Killing Kind	Chris Holm	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Truth Be Told	Hank Phillippi Ryan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Long Way Home	Louise Penny	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Secret Place	Tana French	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Lamentation	Joe Clifford	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-After I’m Gone	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Through the Evil Days	Julia Spencer-Fleming	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Wrong Girl	Hank Phillippi Ryan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 A Cold and Lonely Place	Sara J. Henry	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Suspect	Robert Crais	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Ordinary Grace	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Other Woman	Hank Phillippi Ryan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Gone Girl	Gillian Flynn	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Trinity Game	Sean Chercover	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Dare Me	Megan Abbott	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Beautiful Mystery	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 One Was a Soldier	Julia Spencer-Fleming	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Drop	Michael Connelly	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Hurt Machine	Reed Farrel Coleman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The End of Everything	Megan Abbott	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-A Trick of the Light	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 I’d Know You Anywhere	Laura Lippman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Lock Artist	Steve Hamilton	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Faithful Place	Tana French	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Crooked Letter, Crooked Letter	Tom Franklin	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Bury Your Dead	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Shanghai Moon	S. J. Rozan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Girl Who Played with Fire	Stieg Larsson	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Mystic Arts of Erasing All Signs of Death	Charlie Huston	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Last Child	John Hart	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Brutal Telling	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Cruelest Month	Louise Penny	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Girl with the Dragon Tattoo	Stieg Larsson	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Red Knife	William Kent Krueger	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Trigger City	Sean Chercover	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Brass Verdict	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Thunder Bay	William Kent Krueger	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Watchman	Robert Crais	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Bad Luck and Trouble	Lee Child	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Tin Roof Blowdown	James Lee Burke	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-What the Dead Know	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 All Mortal Flesh	Julia Spencer-Fleming	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Virgin of Small Plains	Nancy Pickard	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Dead Hour	Denise Mina	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Kidnapped	Jan Burke	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-No Good Deeds	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 To the Power of Three	Laura Lippman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Red Leaves	Thomas H. Cook	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Lincoln Lawyer	Michael Connelly	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Bloodlines	Jan Burke	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Mercy Falls	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Out of the Deep I Cry	Julia Spencer-Fleming	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 California Girl	T. Jefferson Parker	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 By a Spider’s Thread	Laura Lippman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Madman's Tale	John Katzenbach	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Killing of the Tinkers	Ken Bruen	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Blood Hollow	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Close to Home	Peter Robinson	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Shutter Island	Dennis Lehane	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Blood Is the Sky	Steve Hamilton	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Delicate Storm	Giles Blunt	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Every Secret Thing	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Winter and Night	S. J. Rozan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Hell to Pay	George Pelecanos	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 North of Nowhere	Steve Hamilton	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Murder in the Sentier	Cara Black	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-City of Bones	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Reflecting the Sky	S. J. Rozan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Devil Went Down to Austin	Rick Riordan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Tell No One	Harlan Coben	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Flight	Jan Burke	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Mystic River	Dennis Lehane	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Legacy of the Dead	Charles Todd	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 He Shall Thunder in the Sky	Elizabeth Peters	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Listen to the Silence	Marcia Muller	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Bottoms	Joe R. Lansdale	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Deep South	Nevada Barr	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-A Place of Execution	Val McDermid	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 High Five	Janet Evanovich	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 L.A. Requiem	Robert Crais	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Bones	Jan Burke	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 River of Darkness	Rennie Airth	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-In a Dry Season	Peter Robinson	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Framework for Death	Aileen Schumacher	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Gone, Baby, Gone	Dennis Lehane	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 On Beulah Height	Reginald Hill	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Blind Descent	Nevada Barr	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Blood Work	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Eye of the Cricket	James Sallis	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Club Dumas	Arturo Perez-Reverte	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Deception Pass	Earl Emerson	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Devil’s Food	Anthony Bruno	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-No Colder Place	S. J. Rozan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Multiple Wounds	Alan Russell	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Hearts and Bones	Margaret Lawrence	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Lethal Genes	Linda Grant	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Firestorm	Nevada Barr	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Poet	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Blue Lonesome	Bill Pronzini	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 True Crime	Andrew Klavan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Hard Christmas	Barbara D’Amato	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Last Coyote	Michael Connelly	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Under the Beetle's Cellar	Mary Willis Walker	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Just a Corpse at Twilight	Janwillem van de Wetering	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Not Till the Red Fog Rises	Derek Raymond	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Black Betty	Walter Mosley	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
@@ -3058,7 +3142,6 @@ K Is for Killer	Sue Grafton	Finalist, Anthony-Award-For-Best-Novel, Novel, Ficti
 One for the Money	Janet Evanovich	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Kolymsky Heights	Lionel Davidson	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Concrete Blonde	Michael Connelly	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-She Walks These Hills	Sharyn McCrumb	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Consider the Crows	Charlene Weir	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Sculptress	Minette Walters	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 To Live and Die in Dixie	Kathy Hogan Trocheck	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
@@ -3068,27 +3151,22 @@ Sacred Clowns	Tony Hillerman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fict
 O Little Town of Maggody	Joan Hess	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Morons and Madmen	Earl Emerson	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Black Ice	Michael Connelly	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Wolf in the Shadows	Marcia Muller	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Hangman’s Beautiful Daughter	Sharyn McCrumb	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Southern Ghost	Carolyn G. Hart	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Booked To Die	John Dunning	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Lullaby Town	Robert Crais	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Bootlegger’s Daughter	Margaret Maron	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 A Single Stone	Marilyn Wallace	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 I.O.U.	Nancy Pickard	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Hour of the Hunter	J. A. Jance	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Love Nor Money	Linda Grant	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Rogue Wave	Susan Dunlap	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Last Detective	Peter Lovesey	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 New Orleans Mourning	Julie Smith	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 If Ever I Return, Pretty Peggy-O	Sharyn McCrumb	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Good Fight	Lia Matera	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 A Ticket to the Boneyard	Lawrence Block	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-G Is for Gumshoe	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Corpus Christmas	Margaret Maron	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 A Little Class on Murder	Carolyn G. Hart	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Pious Deception	Susan Dunlap	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Sirens Sang of Murder	Sarah Caudwell	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Pepper Pike	Les Roberts	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Shackles	Bill Pronzini	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Dead Crazy	Nancy Pickard	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
@@ -3096,22 +3174,18 @@ Blood Shot	Sara Paretsky	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	
 Thief of Time	Tony Hillerman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 E Is for Evidence	Sue Grafton	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Widow’s Club	Dorothy Cannell	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Silence of the Lambs	Thomas Harris	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Marriage is Murder	Nancy Pickard	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Trojan Gold	Elizabeth Peters	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Old Bones	Aaron Elkins	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 A Trouble of Fools	Linda Barnes	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Skinwalkers	Tony Hillerman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Life’s Work	Jonathan Valin	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 No Body	Nancy Pickard	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Tropical Heat	John Lutz	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 When the Sacred Ginmill Closes	Lawrence Block	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-C Is for Corpse	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Killing Orders	Sara Paretsky	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Plain Old Man	Charlotte MacLeod	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Lonely Silver Rain	John D. MacDonald	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Shortest Way to Hades	Sarah Caudwell	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-B Is for Burglar	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 
 
 Martha Wells	Witch King 	Locus-Award-For-Best-Fantasy-Novel, Novel, Fiction	fiction
@@ -3162,188 +3236,122 @@ Patricia A. McKillip	Harpist in the Wind 	Locus-Award-For-Best-Fantasy-Novel, No
 J. R. R. Tolkien	The Silmarillion 	Locus-Award-For-Best-Fantasy-Novel, Novel, Fiction	fiction
 
 
-Like a Sister	Kellye Garrett	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Razorblade Tears	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Blacktop Wasteland	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Murder List	Hank Phillippi Ryan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-November Road	Lou Berney	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Bluebird, Bluebird	Attica Locke	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-A Great Reckoning	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Killing Kind	Chris Holm	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-After I’m Gone	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Ordinary Grace	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Beautiful Mystery	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-A Trick of the Light	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Bury Your Dead	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Brutal Telling	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Brass Verdict	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-What the Dead Know	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-No Good Deeds	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Mercy Falls	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Blood Hollow	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Every Secret Thing	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-City of Bones	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Mystic River	Dennis Lehane	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-A Place of Execution	Val McDermid	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-In a Dry Season	Peter Robinson	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Blood Work	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-No Colder Place	S. J. Rozan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Poet	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Under the Beetle's Cellar	Mary Willis Walker	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-She Walks These Hills	Sharyn McCrumb	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Wolf in the Shadows	Marcia Muller	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Bootlegger’s Daughter	Margaret Maron	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Last Detective	Peter Lovesey	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-G Is for Gumshoe	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Sirens Sang of Murder	Sarah Caudwell	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Silence of the Lambs	Thomas Harris	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Skinwalkers	Tony Hillerman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-C Is for Corpse	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-B Is for Burglar	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 
 Secret Identity	Alex Segura	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Maid	Nita Prose	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 A World of Curiosities	Louise Penny	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Bullet That Missed	Richard Osman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Devil Takes You Home	Gabino Iglesias	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Like a Sister	Kellye Garrett	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Clark and Division	Naomi Hirahara	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 These Toxic Things	Rachel Howzell Hall	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Collective	Alison Gaylin	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Runner	Tracy Clark	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Razorblade Tears	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The First To Lie	Hank Phillippi Ryan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 And Now She’s Gone	Rachel Howzell Hall	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Little Secrets	Jennifer Hillier	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 What You Don’t See	Tracy Clark	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Blacktop Wasteland	S. A. Cosby	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Miami Midnight	Alex Segura	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Lady in the Lake	Laura Lippman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 They All Fall Down	Rachel Howzell Hall	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Your House Will Pay	Steph Cha	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Murder List	Hank Phillippi Ryan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Blackout	Alex Segura	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Sunburn	Laura Lippman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Jar of Hearts	Jennifer Hillier	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Give Me Your Hand	Megan Abbott	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-November Road	Lou Berney	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Force	Don Winslow	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Glass Houses	Louise Penny	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Magpie Murders	Anthony Horowitz	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Late Show	Michael Connelly	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Bluebird, Bluebird	Attica Locke	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Wilde Lake	Laura Lippman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Red Right Hand	Chris Holm	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Where It Hurts	Reed Farrel Coleman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 You Will Know Me	Megan Abbott	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-A Great Reckoning	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 What You See	Hank Phillippi Ryan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Nature of the Beast	Louise Penny	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Child Garden	Catriona McPherson	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Night Tremors	Matt Coyle	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Killing Kind	Chris Holm	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Truth Be Told	Hank Phillippi Ryan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Long Way Home	Louise Penny	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Secret Place	Tana French	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Lamentation	Joe Clifford	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-After I’m Gone	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Through the Evil Days	Julia Spencer-Fleming	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Wrong Girl	Hank Phillippi Ryan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 A Cold and Lonely Place	Sara J. Henry	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Suspect	Robert Crais	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Ordinary Grace	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Other Woman	Hank Phillippi Ryan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Gone Girl	Gillian Flynn	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Trinity Game	Sean Chercover	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Dare Me	Megan Abbott	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Beautiful Mystery	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 One Was a Soldier	Julia Spencer-Fleming	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Drop	Michael Connelly	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Hurt Machine	Reed Farrel Coleman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The End of Everything	Megan Abbott	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-A Trick of the Light	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 I’d Know You Anywhere	Laura Lippman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Lock Artist	Steve Hamilton	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Faithful Place	Tana French	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Crooked Letter, Crooked Letter	Tom Franklin	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Bury Your Dead	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Shanghai Moon	S. J. Rozan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Girl Who Played with Fire	Stieg Larsson	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Mystic Arts of Erasing All Signs of Death	Charlie Huston	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Last Child	John Hart	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Brutal Telling	Louise Penny	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Cruelest Month	Louise Penny	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Girl with the Dragon Tattoo	Stieg Larsson	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Red Knife	William Kent Krueger	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Trigger City	Sean Chercover	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Brass Verdict	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Thunder Bay	William Kent Krueger	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Watchman	Robert Crais	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Bad Luck and Trouble	Lee Child	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Tin Roof Blowdown	James Lee Burke	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-What the Dead Know	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 All Mortal Flesh	Julia Spencer-Fleming	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Virgin of Small Plains	Nancy Pickard	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Dead Hour	Denise Mina	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Kidnapped	Jan Burke	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-No Good Deeds	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 To the Power of Three	Laura Lippman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Red Leaves	Thomas H. Cook	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Lincoln Lawyer	Michael Connelly	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Bloodlines	Jan Burke	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Mercy Falls	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Out of the Deep I Cry	Julia Spencer-Fleming	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 California Girl	T. Jefferson Parker	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 By a Spider’s Thread	Laura Lippman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Madman's Tale	John Katzenbach	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Killing of the Tinkers	Ken Bruen	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Blood Hollow	William Kent Krueger	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Close to Home	Peter Robinson	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Shutter Island	Dennis Lehane	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Blood Is the Sky	Steve Hamilton	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Delicate Storm	Giles Blunt	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Every Secret Thing	Laura Lippman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Winter and Night	S. J. Rozan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Hell to Pay	George Pelecanos	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 North of Nowhere	Steve Hamilton	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Murder in the Sentier	Cara Black	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-City of Bones	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Reflecting the Sky	S. J. Rozan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Devil Went Down to Austin	Rick Riordan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Tell No One	Harlan Coben	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Flight	Jan Burke	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Mystic River	Dennis Lehane	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Legacy of the Dead	Charles Todd	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 He Shall Thunder in the Sky	Elizabeth Peters	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Listen to the Silence	Marcia Muller	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Bottoms	Joe R. Lansdale	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Deep South	Nevada Barr	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-A Place of Execution	Val McDermid	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 High Five	Janet Evanovich	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 L.A. Requiem	Robert Crais	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Bones	Jan Burke	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 River of Darkness	Rennie Airth	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-In a Dry Season	Peter Robinson	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Framework for Death	Aileen Schumacher	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Gone, Baby, Gone	Dennis Lehane	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 On Beulah Height	Reginald Hill	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Blind Descent	Nevada Barr	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Blood Work	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Eye of the Cricket	James Sallis	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Club Dumas	Arturo Perez-Reverte	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Deception Pass	Earl Emerson	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Devil’s Food	Anthony Bruno	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-No Colder Place	S. J. Rozan	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Multiple Wounds	Alan Russell	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Hearts and Bones	Margaret Lawrence	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Lethal Genes	Linda Grant	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Firestorm	Nevada Barr	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Poet	Michael Connelly	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Blue Lonesome	Bill Pronzini	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 True Crime	Andrew Klavan	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Hard Christmas	Barbara D’Amato	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Last Coyote	Michael Connelly	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Under the Beetle's Cellar	Mary Willis Walker	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Just a Corpse at Twilight	Janwillem van de Wetering	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Not Till the Red Fog Rises	Derek Raymond	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Black Betty	Walter Mosley	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
@@ -3356,7 +3364,6 @@ K Is for Killer	Sue Grafton	Finalist, Anthony-Award-For-Best-Novel, Novel, Ficti
 One for the Money	Janet Evanovich	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Kolymsky Heights	Lionel Davidson	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Concrete Blonde	Michael Connelly	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-She Walks These Hills	Sharyn McCrumb	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Consider the Crows	Charlene Weir	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Sculptress	Minette Walters	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 To Live and Die in Dixie	Kathy Hogan Trocheck	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
@@ -3366,27 +3373,22 @@ Sacred Clowns	Tony Hillerman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fict
 O Little Town of Maggody	Joan Hess	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Morons and Madmen	Earl Emerson	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Black Ice	Michael Connelly	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Wolf in the Shadows	Marcia Muller	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Hangman’s Beautiful Daughter	Sharyn McCrumb	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Southern Ghost	Carolyn G. Hart	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Booked To Die	John Dunning	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Lullaby Town	Robert Crais	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Bootlegger’s Daughter	Margaret Maron	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 A Single Stone	Marilyn Wallace	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 I.O.U.	Nancy Pickard	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Hour of the Hunter	J. A. Jance	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Love Nor Money	Linda Grant	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Rogue Wave	Susan Dunlap	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Last Detective	Peter Lovesey	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 New Orleans Mourning	Julie Smith	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 If Ever I Return, Pretty Peggy-O	Sharyn McCrumb	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Good Fight	Lia Matera	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 A Ticket to the Boneyard	Lawrence Block	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-G Is for Gumshoe	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Corpus Christmas	Margaret Maron	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 A Little Class on Murder	Carolyn G. Hart	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Pious Deception	Susan Dunlap	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Sirens Sang of Murder	Sarah Caudwell	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Pepper Pike	Les Roberts	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Shackles	Bill Pronzini	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Dead Crazy	Nancy Pickard	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
@@ -3394,22 +3396,18 @@ Blood Shot	Sara Paretsky	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	
 Thief of Time	Tony Hillerman	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 E Is for Evidence	Sue Grafton	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Widow’s Club	Dorothy Cannell	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-The Silence of the Lambs	Thomas Harris	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Marriage is Murder	Nancy Pickard	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Trojan Gold	Elizabeth Peters	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Old Bones	Aaron Elkins	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 A Trouble of Fools	Linda Barnes	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-Skinwalkers	Tony Hillerman	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Life’s Work	Jonathan Valin	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 No Body	Nancy Pickard	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Tropical Heat	John Lutz	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 When the Sacred Ginmill Closes	Lawrence Block	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-C Is for Corpse	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 Killing Orders	Sara Paretsky	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Plain Old Man	Charlotte MacLeod	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Lonely Silver Rain	John D. MacDonald	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 The Shortest Way to Hades	Sarah Caudwell	Finalist, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
-B Is for Burglar	Sue Grafton	Winner, Anthony-Award-For-Best-Novel, Novel, Fiction	fiction
 
 
 

@@ -11,7 +11,7 @@ Those eight years in SF were the first time I could be really real. —Alice She
 
 Oxford philosopher Mary Warnock believed that the cultivation of imagination should be the chief aim of education.
 
-# Eric Russell: Sole Solution [3/9.]({{ site.baseurl }}{% post_url 2025-06-08-Eric-Russell-Sole-Solution %})
+# Eric Russell: Sole Solution [2/9.]({{ site.baseurl }}{% post_url 2025-06-08-Eric-Russell-Sole-Solution %})
 
 # Ward Moore: Lot [3/9.]({{ site.baseurl }}{% post_url 2025-06-08-Ward-Moore-Lot %})
 

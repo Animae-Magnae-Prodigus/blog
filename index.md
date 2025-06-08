@@ -35,6 +35,7 @@ Some of the best of **detective fiction** also possess me with their plausible *
 |   7   |  Excellent |
 |   8   |  Master |
 |   9   |  Epic   |
+|   ?   |  not finished |
 
 + Works rated less than four didn't deserve my attention any more and I may block the writer accordingly.
 + Works rated no less than four deserved to be read at least once.
@@ -84,3 +85,4 @@ Some of the best of **detective fiction** also possess me with their plausible *
 ## advanced reading 
 + [my criteria of an eligible science fiction writer]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-03-11-science-fiction-writer %})
 + [my agenda of reading fiction hereafter]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-03-15-Confession %})
++ [the reason I read short stories even if sometimes I encounter the type I disliked]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-06-08-About-Short-Stories %})
