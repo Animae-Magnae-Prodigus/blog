@@ -7,14 +7,17 @@ tags: anthology short-stories 2007 science-fiction Penguin
 # Plot: 0/9.
 
 ## Introduction
-> Alice Sheldon," those eight years in SF bd.1T
+Those eight years in SF were the first time I could be really real. —Alice Sheldon (to a friend)
 
-## Sole Solution 3/9. This article was so predictable for me that I anticipated the ending immediately in the beginning because I once read Asimov's the last question.
-And clearly I am not a fan of this kind of laughable anthropomorphic origin of the universe, since this article, compared to Asimov's, showed nothing peculiar about the science or the speculation other than a hackneyed opening extracted from a classic only lasting several millennia, infinitesimal compared to the enormous age of the real universe.
+> For whatever the reasons, we are discontented with the world-as-is. The stories selected here indicate our dissatisfaction with our station in life, our presidents, the assumptions our parents made for us, the nigh insane quest for happiness which may yet ruin our civilization, or indeed a thousand other aspects of life. We are the Steppenwolves of our culture.
 
-## Lot
+Oxford philosopher Mary Warnock believed that the cultivation of imagination should be the chief aim of education.
 
-## Skirmish
+## Eric Russell: Sole Solution [3/9.]({{ site.baseurl }}{% post_url 2025-06-08-Eric-Russell-Sole-Solution %})
+
+## Ward Moore: Lot [3/9.]({{ site.baseurl }}{% post_url 2025-06-08-Ward-Moore-Lot %})
+
+## Clifford Simak : Skirmish 0/9.
 
 ## And I Awoke and Found Me Here on the Cold Hill's Side
 
