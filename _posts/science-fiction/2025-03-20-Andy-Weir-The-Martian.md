@@ -130,22 +130,24 @@ Why didn't the protagonist calculate the heat scientifically, evaluate the poten
 
 The fact that he was not a chemist was absolutely not a rightful excuse to avoid learning the necessary chemistry in advance instead of just performing a dangerous experiment himself rashly, considering how adequate the time and resources he enjoyed! Or if not capable enough to learn a new subject in such a short time, he could have spent half a month in getting and repairing the Pathfinder at first so as to receive the instruction from Earth.
 
-In reality, he would definitely have died of this procedure, which made me feel more unrealistic than the unlikely Martian sandstorm, let alone the exhaling oxygen that fortunately exploded when the hydrogen was nearly exhausted.
+In reality, this procedure would undoubtedly have killed him, which made me feel more unrealistic than the unlikely Martian catastrophic sandstorm, let alone the exhaling oxygen that fortunately exploded when the hydrogen was nearly exhausted.
 
 ## Fire
-I doubt NASA didn't provide the lighters  for reliable and professional astronauts just in case.
+I doubt NASA would fail to provide the lighters for well-trained astronauts just in case.
 
 ## [Food](#c13)
-NASA was afraid of the sole means of communication and therefore asked the protagonist to learn the Morse code just in case. However, they felt astonishingly okay with the protagonist's sole solution of dealing with the crucial problem on famine by postponing the original plan of sending supplies before Sol 400 to the Sol 856. I don't understand any logic here if it existed.
+NASA was afraid of relying on the sole means of communication and therefore asked the protagonist to learn the Morse code just in case. Yet they felt astonishingly okay with the protagonist's sole solution of dealing with the crucial problem of famine by postponing the original plan of sending supplies before Sol 400 to Sol 856. I don't understand any logic here, if it indeed existed.
 
 ## [Salvation](#c16)
-It's absolutely impossible for a director of China National Space Administration to contact NASA's administrator on his initiative without an approval from his government first. Andy Weir certainly didn't understand the Chinese politics or did some research about it, so he portrayed them just according to his fantastic imagination.
+It's absolutely implausible for a director of China National Space Administration to contact NASA's administrator on his initiative without an approval from his government at first. Andy Weir obviously didn't understand Chinese politics, nor did he appear to have done any research about it, so instead, he portrayed them just by his whimsical and distorting imagination.
 
 ## [Electricity](#c17)
-It's not a good habit to cool down the drill or set electric appliances aside without cutting down the power. This accident arose from the protagonist's lack of the consciousness in safely interacting with the electricity. The protagonist should have been thankful in not electrocuting himself accidentally.
+It's not a good habit to cool down the drill or set electric appliances aside without cutting down the power. This accident arose from the protagonist's lack of the consciousness about the basic electrical safety. The protagonist should have been thankful for at least not electrocuting himself accidentally.
 
 ## [Tent](#c20)
-Clearly modifying the tent was not a necessity even though it could provide a good workspace to alleviate some workload in the future. In reality, chances were that his handiwork might not sustain the daily usage or the bizarrely frequent sandstorms because of the lack of NASA's serious testing. Merely several inspections did not suffice and it was definitely safer to use the original version without modification. However, it may be a good idea to create a spare tent from the materials of an useless Hab.
+Clearly modifying the tent was not a necessity, even though it could provide a good workspace to alleviate some workload in the future. In reality, chances were that his handiwork might not sustain the diurnal use or the bizarrely frequent sandstorms, given the lack of NASA-grade testing. Merely several inspections did not suffice and it would been definitely safer to stick with the original version.
+
+However, it might be a practical idea to create a spare tent from the materials of a useless Hab.
 
 ## [Lights](#c24)
-I doubt NASA didn't provide any lamps or lights for some extreme emergencies requiring astronauts going out at pitch-dark nights.
+I find it hard to believe NASA wouldn't provide any lamps or lights for emergencies requiring astronauts venturing outside during pitch-dark nights.
