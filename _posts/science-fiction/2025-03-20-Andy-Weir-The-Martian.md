@@ -75,7 +75,7 @@ He set his hair alight using the static electricity to patch a hairline fracture
 
 After a sound sleep in the collapsed Hab, he reconstructed it. Though his farm was annihilated irrevocably, and his current food storage couldn't support him beyond Sol 584, which meant NASA's previous rescue scheme of retrieve him at around Sol 856 must be aborted.
 
-## Chapter 15: Sol 122-Sol?. Food: A futile launch
+## Chapter 15: Sol 122-Sol?. Food: A futile launch {#c15}
 In order to save the protagonist's life in time, they borrowed a booster from another project and launched it without proper inspection and further testing of the payload, which accounted for the final Waterloo.
 
 ## Chapter 16: Sol? The Hermes mutiny {#c16}
@@ -124,6 +124,9 @@ In addition, the most impressive person barring the protagonist would be the res
 
 # World and Others: 7/9. One of the biggest problems in writing a replica of the real world is its inherent mundaneness or triviality—and this is precisely why being comedians or humourists is such a challenging job. The problem was fully demonstrated in this book, despite Weir's laborious effort in remedying the limitation of the constant first person narration with his clumsy, nerdy jokes.
 Here, in addition, are some flaws, issues or inconsistencies I disliked:
+
+## [Communication](#c15)
+He could have asked for the launch of an immediate replenishment by laying stones for the satellites right after his wake-up and could have brought forward NASA's preparation and avoided the Waterloo.
 
 ## [Water](#c4)
 Why didn't the protagonist calculate the heat scientifically, evaluate the potential high risks and prepare precautions just before conducting such a dangerous fire experiment in the one and only Hab?
