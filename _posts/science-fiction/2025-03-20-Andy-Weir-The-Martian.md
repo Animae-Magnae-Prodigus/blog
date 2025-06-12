@@ -1,50 +1,53 @@
 ---
-title: "Review 6/9 | Andy Weir - The Martian"
+title: "Review 7/9 | Andy Weir - The Martian"
 tags: Andy-Weir novel science-fiction
 ---
 
 
-# Plot: 8/9. The typical pattern of the narrative of this book was basically like that: The protagonist faced the problem and came up with several plans along with reasonable speculations, which he then tested or executed them in extremely unnecessary, redundant, and tedious details. Sometimes it went wrong and incurred a new problem, so as to repeat this pattern... Chapters involving the narratives from the third person perspective were more tolerable.
+# Plot: 8/9. The typical narrative pattern of this book was basically as follows: The protagonist encountered the problem and came up with several plans along with reasonable speculations, which he then tested, executed and reported in extremely unnecessary, redundant, and tedious detail. Sometimes something went wrong and incurred a new problem, thus this pattern was reoccurring... Chapters containing the third-person perspective were more tolerable.
 
 ## Chapter 1: Sol 6. Begin
-The narrator was stranded on Mars alone since his teammates thought him dead and therefore returned to the Earth in no time.
+The protagonist was stranded on Mars alone as his teammates thought him dead during a dangerous sandstorm and therefore returned to the Earth in no time.
 
-## Chapter 2: Sol 7-Sol 22. List out the inventory:
+## Chapter 2: Sol 7-Sol 22. Inventory
 + Food:
-	+ 400-Day rations with enough nutrients
-	+ The narrator occupied himself in growing potatoes that may extend his life 90 days or so.
+	+ rations lasting 400 days
+	+ abundant nutrients 
+	+ The narrator occupied himself in growing potatoes that might extend his life 90 days or so.
 + Water:
-	+ A running reclaimer without backup
-	+ Most of 300 liters of stored water was planned to cultivate the potato.
+	+ A reclaimer without backup
+	+ Most of 300 liters of stored water was allotted to the potato.
 + Gas: An oxygenator with a short-term spare
-+ Energy: 200M^2^ solar cells
++ Energy: 200 square meters of solar cells
 + Communication: The broken radio array was unredeemable.
-+ Transportation: Two rovers and five suits with 1500 hours' worth of CO~2~ filters
-+ Salvation: The possible landing of Ares 4 four years later
++ Transportation: Two rovers and five suits with 1500 hours' worth of carbon dioxide filters
++ Salvation: The landing of Ares 4 four years later
 
 ## Chapter 3: Sol 25-Sol 30. Food
-He extended the arable farmland by using rovers' pop-tents and other vacancies in the Hab so that he might survive despite the long-term starvation.
+He extended the arable farmland by using rovers' pop-tents and the floor of the Hab, in hopes of fighting against the long-term food shortage.
 
 ## Chapter 4: Sol 32-Sol 37. Water {#c4}
-He hooked the fuel plant of MAV up to Hab's oxygenator for the oxygen, and ran the hydrazine, the fuel of MDV, over a catalyst for the hydrogen. He used a wooden cross to ignite oxygen, a spacesuit to store water and several plastic bags to build up a chimney of controlling hydrogen.
+He hooked the fuel plant of MAV up to Hab's oxygenator for the oxygen, and ran the hydrazine, the fuel of MDV, over a catalyst for the hydrogen. He used a wooden cross to ignite oxygen, a spacesuit to store water and several plastic bags to build up a chimney for controlling hydrogen.
 
-However, during the experiment, he was unnoticed of the existence of the other oxygen tank, and therefore the tricky overflow of hydrogen in the atmosphere of Hab.
+However, during the experiment, he was unaware of the other oxygen tank, which led up the tricky overflow of hydrogen in the atmosphere of Hab.
 
 ## Chapter 5: Sol 38-Sol 41. Water
-He hibernated his bacteria by lowering the room temperature and bamboozled the atmospheric regulator into extracting all the oxygen in the room so as to burn off the remaining hydrogen bit by bit. Despite the minor explosion caused by the oxygen he exhaled, he managed to get rid of the overflowed hydrogen.
+He put his bacteria into hibernation by lowering the room temperature and bamboozled the atmospheric regulator into extracting all the oxygen in the room so as to burn off the remaining hydrogen bit by bit. Despite a minor explosion caused by the oxygen he exhaled, he managed to get rid of the excess hydrogen.
 
 ## Chapter 6: Sol ?. NASA found him alive.
-Venkat, the director of this project, persuaded NASA's administrator, Teddy, to investigate the condition of the protagonist's cadaver for the sake of more grants from Congress after Teddy's two-month procrastination for fear of the subsequent PR issue. However, NASA found the protagonist still alive and therefore informed the public of this news.
+Venkat, the director of this project, managed to persuade NASA's administrator, Teddy, to investigate the protagonist's presumed corpse for the sake of more grants from Congress, which Teddy intentionally procrastinated for two months for fear of the potential PR issue.
 
-Although they promised to try their best to save the protagonist in public, yet NASA could not communicate with the protagonist owing to the broken communication array, Teddy didn't agree to risk the other astronauts' life for the protagonist and he even commanded to conceal this thing from the returning astronauts.
+However, NASA found the protagonist still alive and therefore informed the public.
+
+Although they promised to try their best to save the protagonist in public, yet since NASA could not communicate with the protagonist owing to the broken communication array, Teddy didn't agree to risk the other astronauts' lives and commanded to conceal this news from the returning astronauts.
 
 ## Chapter 7: Sol 63-Sol 68. Energy and transportation
-In order to reach Ares 4, 3200km away from the camp, on his own, he transformed one of the rovers by equipping it with the battery of the other and solar plates for energy. After a failed experiment, he decided to have recourse to the dangerous RTG (radioisotope thermoelectric generator) for cheap heat.
+In order to reach Ares 4, 3200km away from the camp, he transformed one of the rovers by equipping it with the battery of the other one and connected it with solar plates. After a failed experiment, he decided to have recourse to the dangerous RTG (radioisotope thermoelectric generator) for cheap heat.
 
 ## Chapter 8: Sol?
-Kapoor, the director of Mars operation for NASA, was interviewed by CNN and announced that they were monitoring Mark closely and would try their best to bring him home. They finally figured out the propose of Mark's latest sojourn was to find the dilapidated Pathfinder and build connection with the Earth.
+Kapoor, the director of Mars Operations for NASA, was interviewed by CNN and announced that they were monitoring Mark closely and would try their best to bring him home. They finally figured out the purpose of Mark's latest journey was to find out the dilapidated Pathfinder and re-establish communication with the Earth.
 
-(The suspense of this chapter and reactions from the Earth were so great that it is a pity to find the next chapter again abounded with the harangue of our protagonist.)
+(The suspense of this chapter and the Earth's reactions were so great that it was a pity that the next chapter once again abounded with the harangue of our protagonist.)
 
 ## Chapter 9: Sol 79-Sol 83. Communication
 The protagonist found the Pathfinder after a seven-day exploration and managed to load it up to the car with a handmade slope.
@@ -91,7 +94,7 @@ For the sake of saving more energy, he dumped the water reclaimer, turned off th
 ## Chapter 19: Sol? Food for the Hermes
 Hermes succeeded in capturing the probe smoothly and thus the worst scenario of cannibalism wouldn't come true.
 
-## Chapter 20: Sol 376-Sol 390. Preparation for the odyssey #2 {#20}
+## Chapter 20: Sol 376-Sol 390. Preparation for the odyssey #2 {#c20}
 He fabricated a more comfortable tent with raisin and cut canvas from the Hab.
 
 ## Chapter 21: Sol 431-Sol 449. Run a test and head off to Schiaparelli {#c21}
@@ -113,10 +116,10 @@ NASA, with whom he finally could communicate through the brand-new equipment onb
 ## Chapter 26: Sol 549 or Mission Day 687. The end
 The launch missed so badly that the team had to use the attitude adjuster to close the intercept distance and bombard the VAL to minify the relative velocity. In the end, the protagonist successfully came back to his team.
 
-# Core: 6/9. In a word, it is a good space Robinson science fiction which, however, personally I do not want to read again in light of the excessive amount of the protagonist's repetitive monologues. The book would be better if it narrated all the events instead of only imminent troubles from the third person perspective.
+# Core: 6/9. In a word, it is a good space Robinson science fiction which, however, personally I do not want to read again in light of the excessive amount of the protagonist's repetitive monologues. He had a annoying habit of depicting the same thing at least twice—in the process of both speculation and the execution. The book would be better if it narrated all the events instead of only imminent troubles from the third person perspective.
 The building of character, the interspersed humor, and the narrative skill especially concerned with the suspense had a great room for improvement so as to flavor the tedious data and the obtrusive explanation of abstruse operations with more entertainment and readability.
 
-# Character: 7/9. The protagonist was a talented problem-solver facing a series of extreme circumstances about life and death with an optimistic philosophy of "work the problem". However much I love the resourcefulness of the protagonist in face of various conundrums, it was unbearable for me to appreciate this guy's monologue all the time.
+# Character: 6/9. The protagonist was a talented problem-solver facing a series of extreme circumstances about life and death with an optimistic philosophy of "work the problem". However much I love the resourcefulness of the protagonist in face of various conundrums, it was unbearable for me to appreciate this guy's monologue all the time.
 Though the most impressive person barring the protagonist would be the responsible and smart commander who risked her life in finding a lost teammate at the first and possessed the ingenuity and the audacity to blow their ship in the end.
 > "Oh," Louis said, "well if you won't let us then— wait... Wait a minute... I'm looking at my shoulder patch and it turned out I'm the commander. Sit tight. We are coming to get you."
 
@@ -142,8 +145,8 @@ It's absolutely impossible for a director of China National Space Administration
 ## [Electricity](#c17)
 It's not a good habit to cool down the drill or set electric appliances aside without cutting down the power. This accident arose from the protagonist's lack of the consciousness in safely interacting with the electricity. The protagonist should have been thankful in not electrocuting himself accidentally.
 
-## [Tent](#20)
+## [Tent](#c20)
 Clearly modifying the tent was not a necessity even though it could provide a good workspace to alleviate some workload in the future. In reality, chances were that his handiwork might not sustain the daily usage or the bizarrely frequent sandstorms because of the lack of NASA's serious testing. Merely several inspections did not suffice and it was definitely safer to use the original version without modification. However, it may be a good idea to create a spare tent from the materials of an useless Hab.
 
 ## [Lights](#c24)
-I doubt NASA didn't provide any lamps or lights for some extreme emergencies requiring astronauts going out at dark night.
+I doubt NASA didn't provide any lamps or lights for some extreme emergencies requiring astronauts going out at pitch-dark nights.
