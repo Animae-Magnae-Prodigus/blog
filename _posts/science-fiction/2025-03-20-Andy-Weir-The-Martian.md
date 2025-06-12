@@ -125,8 +125,8 @@ In addition, the most impressive person barring the protagonist would be the res
 # World and Others: 7/9. One of the biggest problems in writing a replica of the real world is its inherent mundaneness or triviality—and this is precisely why being comedians or humourists is such a challenging job. The problem was fully demonstrated in this book, despite Weir's laborious effort in remedying the limitation of the constant first person narration with his clumsy, nerdy jokes.
 Here, in addition, are some flaws, issues or inconsistencies I disliked:
 
-## [Communication](#c15)
-He could have asked for the launch of an immediate replenishment by laying stones for the satellites right after his wake-up and could have brought forward NASA's preparation and avoided the Waterloo.
+## [Communication or food](#c15)
+He should have requested an immediate replenishment by laying stones for the satellites right after regaining consciousness, which might have brought forward NASA's preparation for the probe, thus avoiding the dramatic Waterloo.
 
 ## [Water](#c4)
 Why didn't the protagonist calculate the heat scientifically, evaluate the potential high risks and prepare precautions just before conducting such a dangerous fire experiment in the one and only Hab?
