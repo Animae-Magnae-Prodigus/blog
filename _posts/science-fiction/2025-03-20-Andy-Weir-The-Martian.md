@@ -67,7 +67,7 @@ On their way to the MAV, flying debris struck the protagonist and carried him aw
 
 Four months later, when they heard the breaking news of his survival, Lewis couldn't help blaming herself for abandoning Watney behind.
 
-## Chapter 13: Sol 144-Sol 119. Food: The avulsion of the airlock {#c13}
+## Chapter 13: Sol 114-Sol 119. Food: The avulsion of the airlock {#c13}
 The canvas of the airlock tore unexpectedly, so the Hab's atmosphere breached and throw it forty metres away including an unsuspecting protagonist still inside.
 
 ## Chapter 14: Sol 119-Sol 122. Food: The avulsion of the airlock
@@ -131,7 +131,7 @@ He should have requested an immediate replenishment by laying stones for the sat
 ## [Water](#c4)
 Why didn't the protagonist calculate the heat scientifically, evaluate the potential high risks and prepare precautions just before conducting such a dangerous fire experiment in the one and only Hab?
 
-The fact that he was not a chemist was absolutely not a rightful excuse to avoid learning the necessary chemistry in advance instead of just performing a dangerous experiment himself rashly, considering how adequate the time and resources he enjoyed! Or if not capable enough to learn a new subject in such a short time, he could have spent half a month in getting and repairing the Pathfinder at first so as to receive the instruction from Earth.
+The fact that he was not a chemist was absolutely not a rightful excuse to avoid learning the necessary chemistry in advance instead of just performing a dangerous experiment himself rashly, considering how adequate the time and resources he enjoyed! Or if he was not capable of learning a new subject in such a short time, he could have spent half a month in retrieving and repairing the Pathfinder at first so as to ask for professional help.
 
 In reality, this procedure would undoubtedly have killed him, which made me feel more unrealistic than the unlikely Martian catastrophic sandstorm, let alone the exhaling oxygen that fortunately exploded when the hydrogen was nearly exhausted.
 
