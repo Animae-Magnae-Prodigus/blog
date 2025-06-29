@@ -12,11 +12,12 @@ tags: The-Magazine-of-Fantasy-Science-Fiction Novel Hugo-Award-for-Best-Novel196
 6. In the ceremony, Hasan was possessed by a god who only favoured murderers or killers. So the protagonist sounded out whether he himself was Hasan's target by offering a duel. Hason declined, because he had once witnessed how the protagonist knocked a boxer down with only bare hands, and therefore swore only to fight him from a distance afterwards. Hasan claimed he had possibly been hired to kill the alien rather than the protagonist, which was still contradictory to the protagonist's responsibility as a tour guide.
 7. As they arrived in Cairo, Myshtigo told the protagonist he intended to write a travelogue for this journey. Myshtigo didn't agree with Santos's political views, noting that the current generation exiled from Earth to Myshtigo's planet didn't miss their original home, let alone return.
 8. The tourists found the great pyramid of Cheops was currently being dismantled under the authorisation of the protagonist to deal with the local material shortage. The protagonist even planned to film the entire demolition and run it backwards so as to simulate the construction of the pyramid and earn some money. All the other tourists especially Myshtigo were appalled at such sacrilege against the monument.
-> "They are desecrating a monument to the past glories of the human race!"
-> "Nothing is cheaper than past glories."
 
-> "You are a mad man!"
-> "No. The absence of a monument can, in its own way, be something of a monument also."
+	> "They are desecrating a monument to the past glories of the human race!"
+	> "Nothing is cheaper than past glories."
+
+	> "You are a mad man!"
+	> "No. The absence of a monument can, in its own way, be something of a monument also."
 
 9. The protagonist thought the grenade was not suitable to handle the dangerous boadile and offered Myshtigo a pistol, which the alien rejected, but wondered how many legs this creature had.
 10. The protagonist went berserk and ran amok upon hearing the bad news that his wife might be wiped out by a sudden earthquake. After he attacked the other tourists, Hasan sent off his wrestling Rolem with the power five times as much again as the ordinary to subdue the demented protagonist. The protagonist beat it down and regained senses before losing consciousness.
