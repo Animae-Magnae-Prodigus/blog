@@ -8,7 +8,7 @@ tags: 1965 novelette Nebula-Award-for-Best-Novelette Nebula-Award-for-Best-Novel
 
 
 # Core: 2/9. How could Zelazny manage to turn a dangerous fishing thriller on an alien planet into a tedious novelette with the magic of narcotizing me thrice during the reading? 
-By the way, Zelazny's short story always seemed to fully demonstrate his disadvantages, such as limited comprehension about science, hackneyed alien world, boring dialogues, and poor plot lacking arresting suspense or intelligent solution.
+By the way, Zelazny's short story always seemed to fully demonstrate his disadvantages, such as limited comprehension about science, hackneyed alien world, boring dialogues, and poor plot lacking arresting suspense or intelligent solution, and worst of all, long-winded ostentatious writing style. I just wonder how he overcame these shortcomings in his later works and attained the worldwide fame.
 
 
 
