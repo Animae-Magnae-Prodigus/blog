@@ -8,15 +8,15 @@ tags: 1965 novelette Nebula-Award-for-Best-Novelette Nebula-Award-for-Best-Novel
 
 
 # Core: 2/9. How could Zelazny manage to turn a dangerous fishing thriller on an alien planet into a tedious novelette with the magic of narcotizing me thrice during the reading? 
-By the way, Zelazny's short story always seemed to fully demonstrate his disadvantages, such as low comprehension about science, hackneyed alien world, boring relationships and poor plot without any attractive suspense or intelligent solution.
+By the way, Zelazny's short story always seemed to fully demonstrate his disadvantages, such as limited comprehension about science, hackneyed alien world, boring dialogues, and poor plot lacking arresting suspense or intelligent solution.
 
 
 
-# Character: 2/9. Nobody here was memorable enough.
+# Character: 2/9. Nobody here was even remotely memorable.
 
 
 
-# World and Others: 1/9. It would not render any difference if the story happened on Earth.
+# World and Others: 1/9. It would not have made any difference if the story had taken place on Earth.
 
 
 
