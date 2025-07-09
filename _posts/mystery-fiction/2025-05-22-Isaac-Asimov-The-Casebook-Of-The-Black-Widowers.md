@@ -1,5 +1,5 @@
 ---
-title: "Review 0/9 | Isaac Asimov - The Casebook Of The Black Widowers"
+title: "Review ?/9 | Isaac Asimov - The Casebook Of The Black Widowers"
 tags: mystery-fiction novel 1980
 ---
 

@@ -50,6 +50,7 @@ Some of the best of **detective fiction** also possess me with their plausible *
 |   4   | The conflict existing in this story is not good enough for me to appreciate, though it is indeed full-fledged.  |
 |   6   | The storyline of this work is engaging enough for me to resonate despite some conspicuous flaws or ugly scenes. |
 |   9   | It's hard to improve or surpass this epic at least in the publishing time. |
+|   ?   |  not finished |
 
 ## on cores
 
@@ -58,8 +59,9 @@ Some of the best of **detective fiction** also possess me with their plausible *
 |   0   | Do you get this story? |
 |   2   | The core was too bad to support an eligible story. |
 |   4   | The core is common or the interpretation is ordinary but enough for the running of a eligible story. |
-|   6   | The core was creative or the interpretation was innovative. |
+|   6   | The core was creative or the interpretation was innovative, but there exist some conspicuous imperfections in its implementation or execution. |
 |   9   | It's hard to improve or surpass this epic at least in the publishing time. |
+|   ?   |  not finished |
 
 ## on characters 
 
@@ -70,6 +72,7 @@ Some of the best of **detective fiction** also possess me with their plausible *
 |   4   | The characters are common, mundane, boring, or idiotic, but they are good enough to blend into the story as a whole. |
 |   6   | The characters are admirable, loveable, memorable or suitable to the story. |
 |   9   | It's hard to improve or surpass this epic, and it even attracts people to create fanfictions. |
+|   ?   |  not finished |
 
 
 ## on world 
@@ -81,6 +84,7 @@ Some of the best of **detective fiction** also possess me with their plausible *
 |   4   | The world-building existing in this story is not good enough for me to appreciate, though it is indeed full-fledged.  |
 |   6   | The world-building of this work is engaging enough for me to scan albeit some possible loopholes. |
 |   9   | It's hard to improve or surpass this epic at least in the publishing time. |
+|   ?   |  not finished |
 
 ## advanced reading 
 + [my criteria of an eligible science fiction writer]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-03-11-science-fiction-writer %})
