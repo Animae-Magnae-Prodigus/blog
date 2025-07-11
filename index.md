@@ -37,9 +37,9 @@ Some of the best of **detective fiction** also possess me with their plausible *
 |   9   |  Epic   |
 |   ?   |  not finished |
 
-+ Works rated less than four didn't deserve my attention any more and I may block the writer accordingly.
++ Works rated less than four didn't deserve my attention any more. I may block their writers, if they wrote so much works of this kind or their work had some elements I abhorred extremely such as sexism or immaturity in writing skill.
 + Works rated no less than four deserved to be read at least once.
-+ Works rated more than six deserved to be reread.
++ Works rated at least six deserved to be reread and reviewed thoroughly.
 
 ## on plots
 
