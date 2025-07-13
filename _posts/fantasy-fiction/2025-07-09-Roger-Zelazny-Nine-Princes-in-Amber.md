@@ -32,7 +32,7 @@ Eric, fully aware of the assault, thwarted their forces constantly on their way 
 
 By the way, why was Florimel unable to contact Eric when the protagonist could find Florimel's card with Eric's portrait in her library?
 
-Why did not the protagonist rescue the brother and his father in need just through his card? Or why didn't he investigate his father's disappearance that might have influenced Eric's conspiracy?
+Why did not the protagonist rescue the brother and his father in need just through his card? Or why didn't he investigate his father's disappearance that might have involved Eric's conspiracy?
 
 Why did Eric let the protagonist survive thrice? After the first failed homicide, why did Eric put the protagonist in the hospital?
 
