@@ -9,7 +9,7 @@ import re,sys
 
 dialect = "excel-tab"
 
-listtsv = "hugo.tsv"
+listtsv = "HN.tsv"
 # read the listtsv
 if not sys.argv[-1].endswith("tsv"):
     listtsvFileName = listtsv
