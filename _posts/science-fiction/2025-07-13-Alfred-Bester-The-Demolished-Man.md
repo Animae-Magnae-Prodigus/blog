@@ -1,9 +1,9 @@
 ---
-title: "Review 3/9 | Alfred Bester - The Demolished Man"
+title: "Review 4/9 | Alfred Bester - The Demolished Man"
 tags: 1952 1952-1953 Hugo-Award-for-Best-Novel Hugo-Award-for-Best-Novel1953 science-fiction science-fiction novel Galaxy-Science-Fiction Hugo-Award-for-Best-Novel1952
 ---
 
-# Plot: 4/9. The plot was predictable and uninteresting, probably because its plain narrative style reminiscent of the scripts of childish superhero comics, which was clearly influenced by Bester's job at DC Comics from 1942. A good writer should be able to tirelessly tease readers' anticipation and constantly manipulate readers' emotions throughout the storyline, but Bester failed from the beginning with this kind of writing style.
+# Plot: 4/9. The plot was predictable and uninteresting, probably because its plain narrative style reminiscent of the scripts of childish superhero comics such as intermediate transitions between scenes, thorough depictions on the sides of both evil and good, excessively dramatic actions, and shallow characteristics, which was clearly influenced by Bester's job at DC Comics from 1942. From my perspective, a good science-fictionist should be able to tirelessly tease readers' anticipation and constantly manipulate readers' emotions throughout the storyline, but Bester failed from the beginning with this kind of writing style.
 The antagonist always suffered from unsolvable nightmares concerning a man without face. Finally he decided to kill D'Courtney, because this business rival refused his proposal for merger. 
 
 + He hired an Esper called Tate to run interference for him and scout the best killing opportunity by reading another Esper.
@@ -39,6 +39,8 @@ Or otherwise it would be outdated and devalued once they were proven wrong.
 Apart from the antique futuristic speculations, it is a bit hilarious for me to know about the setting that Espers fully capable of delving into the subconscious could be simply bamboozled by humming a song consciously.
 
 Why didn't others in the book do this to avoid peeping? Also, if occupying minds with unrelated things is enough to block detection, how did the subconscious peeping actually work?
+
+Moreover, I found it unbelievable that the antagonist, a head of a big company, failed to comprehend some basic facts in his world such as the count of Espers within his company and the Esper Pledge. Bester should have transferred this kind of worldview with more delicate methods.
 
 
 
