@@ -3,8 +3,7 @@ title: "4/9 | Martha Wells - All Systems Red (The Murderbot Diaries #1)"
 tags: Novella Science-Fiction Space Murderbot Cyborg Company Corporation Survey Security Contract Adventure
 ---
 
-# Core: 2/9. Slightly Bad.
-A cyborg who had hacked its governor module fell in love with human through entertainment feeds.
+# Core: 4/9. A cyborg who had hacked its governor module fell in love with human through entertainment feeds.
 
 In other words, Murderbot just one day became conscious and then hacked its governor module.
 
@@ -51,6 +50,3 @@ Mensah permanently bought Murderbot when they came back and told to Murderbot th
 
 Moreover, I always feel the description of scenes is dry and drab. Maybe because it's a first-person perspective of a bot without education module who prefers watching serials to communicating through verbal words.
 
-
-# Overall: 4/9.
-I think it worth reading once.

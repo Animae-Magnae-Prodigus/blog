@@ -3,12 +3,11 @@ title: "Review 4/9 | Martha Wells - Rouge Protocol (The Murderbot Diaries #3)"
 tags: Novella Science-Fiction Space Murderbot Cyborg Adventure
 ---
 
-# Core: 1/9. Terrible.
-Sorry but the title of this book seems to have nothing to do with the context of the book. Is it because of Miki's unusual rebellion against its owner? But Murderbot explained later that it's also predetermined by its owner. The author didn't tell anything about it. Did she forget it?
+# Core: 2/9. Sorry but the title of this book seems to have nothing to do with the context of the book at all. Is it because of Miki's unusual rebellion against its owner? But Murderbot explained later that it's also predetermined by its owner. The author didn't tell anything about it. Did she forget it?
 
-Also, I'm no longer attracted by Murderbot who appears more like human now, and the book seems to lack novel or interesting scientific elements.
+Also, I'm no longer attracted by Murderbot who appeared more like human now, and the book seems to lack novel or interesting scientific elements.
 
-# Character: 4/9. Slightly good.
+# Character: 4/9.
 Miki: An innocent pet robot or gull who loved its owner, Abene, and believed in any human or robot who claims to protect Abene. It presumed Murderbot as its first bot friend and sacrificed itself to help Murderbot defeat the combat bot.
 
 Abene: The leader of the investigation team who treated Miki so benevolently and tenderly that it made Murderbot jealous.
