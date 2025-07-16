@@ -8,6 +8,6 @@ Unless writers overcome these abominable idiosyncrasies or just show me their ot
 # for idiot plots or idiotic protagonists
 Creating these things only shows the low intelligence of writers.
 
-+ [John Wiswell]({{ site.baseurl }}{% science-fiction/2025-07-15-John-Wiswell-Someone-You-Can-Build-a-Nest-in.md %})
++ [John Wiswell]({{ site.baseurl }}{% ../science-fiction/2025-07-15-John-Wiswell-Someone-You-Can-Build-a-Nest-in %})
 
 # for sexism 
