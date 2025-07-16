@@ -90,5 +90,3 @@ Some of the best of **detective fiction** also possess me with their plausible *
 + [my criteria of an eligible science fiction writer]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-03-11-science-fiction-writer %})
 + [my agenda of reading fiction hereafter]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-03-15-Confession %})
 + [the reason I read short stories even if sometimes I encounter the type I disliked]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-06-08-About-Short-Stories %})
-<!-- + [blacklist of writers]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-07-16-blacklist.md %}) -->
-<!-- + [whitelist of writers]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-07-16-whitelist.md %}) -->
