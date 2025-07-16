@@ -1,6 +1,8 @@
 ---
 title: "Blacklist of Writers"
+tags:
 ---
+
 Unless writers overcome these abominable idiosyncrasies or just show me their other writing abilities that could cover their disadvantages, I would neglect not only their further work, but also their other activities.
 
 # for idiot plots or idiotic protagonists
