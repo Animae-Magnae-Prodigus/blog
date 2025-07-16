@@ -48,7 +48,7 @@ That is also why other writing aspects such as brilliant side characters often p
 
 
 
-# World and Others: 3/9. This magical, medieval world created by John Wiswell was neither interesting nor logically sustained by any intricate internal rules. It served merely as a platform for a romantic story.
+# World and Others: 3/9. This magical, medieval world created by John Wiswell was neither interesting nor logically sustained by any intricate internal rules. It served merely as a platform for the romance.
 
 
 
