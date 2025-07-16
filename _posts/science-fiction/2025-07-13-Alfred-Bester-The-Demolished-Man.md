@@ -1,5 +1,5 @@
 ---
-title: "Review 4/9 | Alfred Bester - The Demolished Man"
+title: "Review 3/9 | Alfred Bester - The Demolished Man"
 tags: 1952 1952-1953 Hugo-Award-for-Best-Novel Hugo-Award-for-Best-Novel1953 science-fiction science-fiction novel Galaxy-Science-Fiction Hugo-Award-for-Best-Novel1952
 ---
 
@@ -31,7 +31,7 @@ Or otherwise it would be outdated and devalued once they were proven wrong.
 
 
 
-# Character: 4/9. The work contained sexism and characters were minimally developed.
+# Character: 3/9. The work contained sexism and characters were minimally developed.
 
 
 
