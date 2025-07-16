@@ -1,4 +1,4 @@
 ---
-title: "Blacklist of Writers"
+title: "Whitelist of Writers"
 tags:
 ---
