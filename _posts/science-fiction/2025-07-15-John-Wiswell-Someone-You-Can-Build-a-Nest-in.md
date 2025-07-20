@@ -16,7 +16,7 @@ The protagonist assassinated the baroness when they were hunting for the monster
 
 The protagonist hurried back to warn Homily. But she instead first confessed her own identity and love towards Homily, for whom she mistook Epigram, the sister of Homily. Epigram subsequently seized the protagonist and asked Homily to execute the monster with her own hand. Much to the protagonist's astonishment, Homily murdered Epigram.
 
-Informed of the truth, Homily requested of the baroness to drink the rosemary so as to reveal her true identity in public. After Homily's failed, the protagonist—disguised as Epigram—participated in the baroness' hunt to wait for the best opportunity. However, the baroness found the protagonist's falsification, conquered her and demanded her egg.
+Informed of the truth, Homily requested of the baroness to drink the rosemary so as to reveal her true identity in public. After Homily's failure, the protagonist—disguised as Epigram—participated in the baroness' hunt to wait for the best opportunity. However, the baroness found the protagonist's falsification, conquered her and demanded her egg.
 
 She soaked her egg sac into the rosemary and henceforth poisoned the unsuspecting baroness with it. Afterwards, Homily and townspeople together eradicated the monster.
 
