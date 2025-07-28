@@ -43,14 +43,15 @@ for book in books:
     book["Tags"] = " ".join(tags)
     # exit()
 
-    if not glob.glob("**/*"+AuthorTitle+".md"):
-        # print(f"{AuthorTitle}")
+    if not glob.glob("**/*"+AuthorTitle+".md", recursive=True):
         current = book
         break
 
 
 print("="*10,f"\n{current=}")
+print(f"{AuthorTitle}")
 
+breakpoint()
 # exit()
 templateFileName = "template.md"
 with open(templateFileName, "r", encoding="utf-8") as f:
