@@ -144,7 +144,7 @@ What's more, I was extremely curious why, judging from the context, the protagon
 + head of NSA
 + superior of Bigman and appreciate him
 
-# World and Others: 5/9. It seems that the writer indeed did some research on the American military and legal systems.
+# World and Others: 6/9. It seems that the writer indeed did some research on the American military and legal systems.
 
 
 
