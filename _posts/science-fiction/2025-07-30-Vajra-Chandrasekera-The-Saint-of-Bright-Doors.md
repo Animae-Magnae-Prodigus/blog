@@ -31,12 +31,13 @@ He finished his mother's funeral and went back to the city. Undoubtedly, he was 
 
 (I am determined to desert this horrible book at chapter 25/34 (3/4 of the process) because of the following 4 reason:
 1. The plot is as boring as a pupil's journal without enough suspense. Worse, Vajra Chandrasekera attempted to lump large amount of random information together like an instruction book. Maybe it would be better to rewrite your chapter 2 and explored this city from the perspective of a new strayer, Vajra Chandrasekera.
-2. The world and the society is disordered, unreasonable and illogical. From my perspective, fantasy fiction should pay more attention to this respect to avoid a crime called Deus ex machina. For example, since the world had computers, then why didn't the official install cameras that could spot the protagonist's stealth? Or did not they have some magical safety measure considering the fact that his parents had them?
-3. The characters were charmless without any arresting characteristics or even effective motivations that evoked my empathy. For example, why did the unchosen group including the protagonist suddenly listen to the command of Koel at their great risk? Why did the protagonist immediately believe that pretending to be a higher caste that was quarantined and spy on some classified information would be okay?
+2. The world and the society is disordered, unreasonable and illogical. From my perspective, fantasy fiction should pay more attention to this respect to avoid a crime called Deus ex machina. For example, since the world had computers, then why didn't the official install cameras that could spot the protagonist's stealth? Or did not they have some magical safety measure considering the fact that lots of people here seemed to hold the magic?
+3. The characters were charmless without any arresting characteristics or even effective motivations that evoked my empathy. For example, why did the unchosen group including the protagonist suddenly listen to the command of Koel at their great risk? Why did the protagonist immediately believe that pretending to be a higher caste that was quarantined for classified information with bare face would be enough to fend off the consequential trouble? How naive he was!
 4. What made me eventually desert the book was the protagonist's abrupt return to her mother's side after his constant firming refusal from the beginning—and a more ridiculous return to the city after he had just wanted to leave it forever. Thanks to your kind of idiotic protagonist, welcome to my blacklist, Vajra Chandrasekera!
 
-The reference to the religion, LGBT and a Byzantine society may explain its popularity. But to me, it just decreased the value of Nebula Award within my mind.)
+The reference to the religion, LGBT and a Byzantine society may explain its popularity. But to me, it just decreased the value of Nebula Award within my mind.
 
+By the way, from now on, I am somewhat allergic to the book heavily relying on religion, because it is sorta like antediluvian fan-fiction for fans only and full of argot I don't understand.)
 
 # Core: ?/9. 
 
