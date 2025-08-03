@@ -35,7 +35,7 @@ Some of the best of **detective fiction** also possess me with their plausible *
 |   7   |  Excellent |
 |   8   |  Master |
 |   9   |  Epic   |
-|   ?   |  not finished, usually because it's too horrible to continue wasting my precious time |
+|   ?   |  not finished, usually because I felt it's not worth my precious time or it is not suitable to score |
 
 + Works rated less than four didn't deserve my attention any more. I may block their writers, if they wrote so much works of this kind or their work had some elements I abhorred extremely such as sexism or immaturity in writing skill.
 + Works rated no less than four deserved to be read at least once.
@@ -50,7 +50,7 @@ Some of the best of **detective fiction** also possess me with their plausible *
 |   4   | The conflict existing in this story is not good enough for me to appreciate, though it is indeed full-fledged.  |
 |   6   | The storyline of this work is engaging enough for me to resonate despite some conspicuous flaws or ugly scenes. |
 |   9   | It's hard to improve or surpass this epic at least in the publishing time. |
-|   ?   |  not finished, usually because it's too horrible to continue wasting my precious time |
+|   ?   |  not finished, usually because I felt it's not worth my precious time or it is not suitable to score |
 
 ## on cores
 
@@ -61,7 +61,7 @@ Some of the best of **detective fiction** also possess me with their plausible *
 |   4   | The core is common or the interpretation is ordinary but enough for the running of a eligible story. |
 |   6   | The core was creative or the interpretation was innovative, but there exist some conspicuous imperfections in its implementation or execution. |
 |   9   | It's hard to improve or surpass this epic at least in the publishing time. |
-|   ?   |  not finished, usually because it's too horrible to continue wasting my precious time |
+|   ?   |  not finished, usually because I felt it's not worth my precious time or it is not suitable to score |
 
 ## on characters 
 
@@ -72,7 +72,7 @@ Some of the best of **detective fiction** also possess me with their plausible *
 |   4   | The characters are common, mundane, boring, or idiotic, but they are good enough to blend into the story as a whole. |
 |   6   | The characters are admirable, loveable, memorable or suitable to the story. |
 |   9   | It's hard to improve or surpass this epic, and it even attracts people to create fanfictions. |
-|   ?   |  not finished, usually because it's too horrible to continue wasting my precious time |
+|   ?   |  not finished, usually because I felt it's not worth my precious time or it is not suitable to score |
 
 
 ## on world 
@@ -84,7 +84,7 @@ Some of the best of **detective fiction** also possess me with their plausible *
 |   4   | The world-building existing in this story is not good enough for me to appreciate, though it is indeed full-fledged.  |
 |   6   | The world-building of this work is engaging enough for me to scan albeit some possible loopholes. |
 |   9   | It's hard to improve or surpass this epic at least in the publishing time. |
-|   ?   |  not finished, usually because it's too horrible to continue wasting my precious time |
+|   ?   |  not finished, usually because I felt it's not worth my precious time or it is not suitable to score |
 
 ## advanced reading 
 + [my criteria of an eligible science fiction writer]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-03-11-science-fiction-writer %})
