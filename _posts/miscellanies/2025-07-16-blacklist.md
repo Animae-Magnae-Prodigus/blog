@@ -14,4 +14,6 @@ Creating these things only shows either the low intelligence or the pure lazines
 
 + [Vajra Chandrasekera]({{ site.baseurl }}{% post_url _posts/science-fiction/2025-07-30-Vajra-Chandrasekera-The-Saint-of-Bright-Doors %})
 
-# for sexism 
+# for too much unsolved, foreshadowed mysteries
+Incomplete conclusions of books are literally wasting reader's precious time for these dishonest or sloppy writers.
++ [Martin MacInnes]({{ site.baseurl }}{% post_url _posts/science-fiction/2025-08-20-Martin-MacInnes-In-Ascension %})
