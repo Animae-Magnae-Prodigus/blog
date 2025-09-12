@@ -3,6 +3,10 @@ title: "Review ?/9 | Author - Title"
 tags: Tags
 ---
 
+# Voice: ?/9.
+
+
+
 # Plot: ?/9. 
 
 
@@ -11,7 +15,7 @@ tags: Tags
 
 
 
-# World and Others: ?/9. 
+# World: ?/9. 
 
 
 
