@@ -5,7 +5,7 @@ tags: Locus-Award2023 Nebula-Award-for-Best-Novel2022 Locus-Award-For-Best-Fanta
 # Voice: 4/9. There's plenty of room for improvement in Kuang's ability of writing.
 She was fond of letting Robin summarise everything dryly, omitting complete conversations, neglecting environmental depictions, and delivering didactic, unrealistic, excessive, polemic and abstruse explanations.
 As a result, the characters felt like cardboard, the plot seemed superficial, and the world appeared unattractive. 
-To sum up, I wish I will never read this work again or I will never require to read any of Kuang's works any more, although I definitely liked this work and respected her effort.
+To sum up, I wish I will never read this work again or I will never need to read any of Kuang's works, although I definitely like this work and respect her effort.
 
 # Plot: 6/9. The fallible and gullible characters—especially the protagonist—tedious academic life without enough suspense, and depressive ambience involving morality, blood and violence made me almost desert this book midway. Nevertheless, the impressive tragic ending somehow made the previous reading crucifixion worthwhile.
 After the protagonist's mother and all his relatives had died in a cholera in Macao, he was saved and adopted by an Oxford professor called Lovell. It turned out that Lovell had hired a nanny to teach the protagonist English in the past and had visited Canton not long before the outbreak. The protagonist thought Lovell might be his father, but Lovell merely wanted to adopt him as the ward rather than son.
@@ -70,7 +70,7 @@ This kind of fallible, passive and tedious protagonist really exacerbated the di
 + Why did the protagonist have to tell the location of Hermes' safety house? He could have lied that he knew nothing at all and just did this due to his childish naivety.
 + I didn't believe from the beginning that a lurid and accidental murder would let a professor memorise a student for 5 years, no matter how talented she was. The protagonist could have asked Griffin in details when they were alone. 
 + He deteriorated his own condition as well as aggravated the tension between two countries through such an improper response to the commander.
-+ He could just have pretended the murder as a disappearance like Anthony's case. Without evidence, the official could not arrest him for long and there was no need to stay in a refuge. He could have claimed that he knew nothing and inherited Lovell's heritage as the ward. Being a fugitive only confirmed his suspicion.
++ He could just have pretended the murder as a disappearance like Anthony's case. Without evidence, the official could not arrest him for long and there was no need to stay in a refuge. He could have claimed that he knew nothing and inherited Lovell's heritage as the ward. Being a fugitive only confirmed police's suspicion.
 + Why didn't he take the dying Griffin along with them?
 + After so many events, the protagonist still didn't master preparation! He captured Babel without bringing along enough food and supplies! His plan would have been doomed from the start, had not it been for others' assistance and his good luck!
 
@@ -87,5 +87,5 @@ Why did Ramy and Victoire wear only black rather than masks for their heist?
 + Ramy said what made the English superior was the guns and the willingness to use them on innocent people. Then why didn't translators figure out some mechanics to defend themselves against guns? Considering the mentioned applications of silver bars in ancient times, why didn't silver bar predominate the warfare millennia ago?
 
 
-# Core: 6/9. Did the story that only show the process and cause of violence rather than its consequence corroborate the necessity of violence?
+# Core: 6/9. Can a story that only showed the process and cause of violence instead of its consequence really corroborate the necessity of violence?
 In addition, I didn't think the cruelty of the British colonialism was not completely delineated in the context. The protagonist and his companions' fatuous participation in a dangerous association led to their final tragedy, which, from my perspective, seemed not adequate enough to demonstrate the core.
