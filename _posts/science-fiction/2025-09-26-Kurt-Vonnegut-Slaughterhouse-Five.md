@@ -49,3 +49,5 @@ I also admire Kurt Vonnegut's boldness when he pointed out in the 1976 introduct
 
 Moreover, it is said that this anti-war book might may have affected the public opinion on the Vietnam War, which perhaps accounts for its popularity and recommendation.
 
+In Chapter 5, Vonnegut denounced indirectly, through the voices of Rosemary and Trout, the way the Bible suggested it was acceptable to kill nobodies while condemning the killing of Jesus solely because he was the Son of God rather than a nobody. This, according to him, partly explained why “Christians found it easy to be cruel.” Based on the same logic, Vonnegut seemed to suggest delicately that Americans—most of whom, at the time the book was published, were Christians—did not abhor the unnecessary killing of countless civilians in Dresden simply because they were German nobodies rather than Americans or their allies.
+
