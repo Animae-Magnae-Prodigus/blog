@@ -66,6 +66,7 @@
             {% endif %}
             {% if site.github.is_user_page %}
               <p>Projects by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a href="{{ site.github.repository_url }}">GitHub</a></p>
+						<p>You can follow me through <a class="btn btn-rss" href="/blog/feed.xml" target="_blank">RSS.</a></p>
             {% endif %}
           </span>
           <span class="left-tail"></span>
@@ -73,8 +74,6 @@
         </span>
 
     <p>© {{ "now" | date: "%Y" }} {{ page.author }}. All rights reserved.</p>
-		<a class="btn btn-rss" href="/blog/feed.xml" target="_blank">RSS</a>
-		<br>
 
 		<cite><em>{{ page.description }}</em></cite>
 		<!--<p><em>{{ page.epigraph }}</em></p>-->
