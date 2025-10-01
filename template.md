@@ -19,7 +19,7 @@ tags: Tags
 
 
 
-# Core, conflict, and consequence: ?/9. 
+# Theme, conflict, and influence: ?/9. 
 
 
 

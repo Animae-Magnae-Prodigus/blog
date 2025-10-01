@@ -11,17 +11,18 @@
 # Introduction
 Here reside my notes and comments on books, offered to fellow bibliophiles who share the same reading predilections as me.
 
-For me, the reason why **science fiction** move me so much is because some of the best of them could provide me with exotic **situations**,  dramatic **emotions**, fabulous **visions** and marvelous **solutions**.
+For me, the reason why **science fiction** move me so much is because some of the best of them could provide me with exotic **situations**,  dramatic **emotions**, fabulous **visions** or marvelous **solutions**.
 
 Some of the best of **detective fiction** also possess me with their plausible **speculations** in addition to the aforementioned qualities.
 
 
 # Rules
-+ The titles of my commenting posts follow the pattern of "Property of the post with scores I gave \| Author Name - Work Name".
++ The titles of my commenting posts follow the pattern of "Scores I gave to this work \| Author Name - Work Name".
 
 + **Spoiler Alert**: For more details or reasons, go ahead the links. **Don't click the links of my notes below unless you want to read spoilers!**
 
-# Table of Scores
+# Specification on Scores
+Scores are purely **subjective** based on my **personal** judgment and sentiment. They, of course, cannot really reflect **objective** evaluations of works. Usually, low scores just merely mean that I am **not** the author's target readers.
 
 | Score | Meaning |
 | ----- | ------- |
@@ -37,7 +38,7 @@ Some of the best of **detective fiction** also possess me with their plausible *
 |   9   |  Epic   |
 |   ?   |  not finished, usually because I felt it's not worth my precious time |
 
-+ Works rated less than four didn't deserve my attention any more. I may block their writers, if they wrote so much works of this kind or their work had some elements I abhorred extremely such as sexism or immaturity in writing skill.
++ Works rated less than four didn't deserve my attention any more. 
 + Works rated no less than four deserved to be read at least once.
 + Works rated more than six deserved to be reread and reviewed thoroughly.
 
@@ -90,5 +91,5 @@ Some of the best of **detective fiction** also possess me with their plausible *
 + [my criteria of an eligible science fiction writer]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-03-11-science-fiction-writer %})
 + [my agenda of reading fiction hereafter]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-03-15-Confession %})
 + [the reason I read short stories even if sometimes I encounter the type I disliked]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-06-08-About-Short-Stories %})
-+ [blacklist of writers]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-07-16-blacklist %})
-+ [whitelist of writers]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-07-16-whitelist %})
++ [blacklist of writers]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-07-16-blacklist %}): I may block some writers eternally, if they wrote a work holding some elements I abhorred extremely—such as sexism or writing immaturity.
++ [whitelist of writers]({{ site.baseurl }}{% post_url _posts/miscellanies/2025-07-16-whitelist %}) or the list of my favorite writers who I have read most of their works 
