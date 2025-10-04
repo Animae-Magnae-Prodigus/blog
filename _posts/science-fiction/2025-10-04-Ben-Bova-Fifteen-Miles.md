@@ -20,7 +20,7 @@ The protagonist managed to bring the priest back and told Bok that the priest ha
 
 
 
-# World, wonder, and detail: 3/9. It was full of tedious details of sensing the world rather than advancing the plot.
+# World, wonder, and detail: 3/9. The story was weighed down by tedious sensory descriptions that did little contribution to the plot.
 So what was the usage of including a hot-headed priest in a lunar exploration mission? 
 
 Was it necessary to risk a life in finding out things that satellites or rovers could facilely accomplish?
