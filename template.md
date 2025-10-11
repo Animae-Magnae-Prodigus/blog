@@ -3,7 +3,7 @@ title: "Review ?/9 | Author - Title"
 tags: Tags
 ---
 
-# Voice, narration and perspective: ?/9.
+# Voice, narration and structure: ?/9.
 
 
 
