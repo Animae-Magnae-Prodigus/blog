@@ -457,832 +457,832 @@ In *An Essay on Man: The Design*, Pope claimed his aim of writing these epistles
 # Barbara Frietchie: 5/9. The eponym is thought to be the heroine of the American civil war.
 
 
-# Barclay of Ury: 0/9. 
+# Barclay of Ury: ?/9. 
 
-# Barthram's Dirge: 0/9. 
+# Barthram's Dirge: ?/9. 
 
-# Battle of the Baltic: 0/9. 
+# Battle of the Baltic: ?/9. 
 
-# Battle with Turnus: Book XII: 0/9. 
+# Battle with Turnus: Book XII: ?/9. 
 
-# Bavarian Gentians: 0/9. 
+# Bavarian Gentians: ?/9. 
 
-# Be Not Sad: 0/9. 
+# Be Not Sad: ?/9. 
 
-# Be Your Words Made, Good Sir, of Indian Ware: 0/9. 
+# Be Your Words Made, Good Sir, of Indian Ware: ?/9. 
 
-# Beachy Head.: 0/9. 
+# Beachy Head.: ?/9. 
 
-# Beat! Beat! Drums!: 0/9. 
+# Beat! Beat! Drums!: ?/9. 
 
-# Beauty: 0/9. 
+# Beauty: ?/9. 
 
-# Beauty Bathing: 0/9. 
+# Beauty Bathing: ?/9. 
 
-# Beauty, Time, and Love Sonnets: 0/9. 
+# Beauty, Time, and Love Sonnets: ?/9. 
 
-# Because I could not stop for Death (712): 0/9. 
+# Because I could not stop for Death (712): ?/9. 
 
-# Belief: 0/9. 
+# Belief: ?/9. 
 
-# Bewick and Grahame: 0/9. 
+# Bewick and Grahame: ?/9. 
 
-# Beyond the Veil: 0/9. 
+# Beyond the Veil: ?/9. 
 
-# Bid Adieu to Maidenhood: 0/9. 
+# Bid Adieu to Maidenhood: ?/9. 
 
-# Black-Eyed Susan: 0/9. 
+# Black-Eyed Susan: ?/9. 
 
-# Blow, Bugle, Blow: 0/9. 
+# Blow, Bugle, Blow: ?/9. 
 
-# Boadicea: An Ode: 0/9. 
+# Boadicea: An Ode: ?/9. 
 
-# Bonnie George Campbell: 0/9. 
+# Bonnie George Campbell: ?/9. 
 
-# Bonny Barbara Allan: 0/9. 
+# Bonny Barbara Allan: ?/9. 
 
-# Bonny Dundee: 0/9. 
+# Bonny Dundee: ?/9. 
 
-# Border Ballad: 0/9. 
+# Border Ballad: ?/9. 
 
-# Boston Hymn: 0/9. 
+# Boston Hymn: ?/9. 
 
-# Brahma: 0/9. 
+# Brahma: ?/9. 
 
-# Break, Break, Break: 0/9. 
+# Break, Break, Break: ?/9. 
 
-# Butterfly: 0/9. 
+# Butterfly: ?/9. 
 
-# By the Sea: 0/9. 
+# By the Sea: ?/9. 
 
-# Ca' the Yowes to the Knowes: 0/9. 
+# Ca' the Yowes to the Knowes: ?/9. 
 
-# Call for the Robin-Redbreast: 0/9. 
+# Call for the Robin-Redbreast: ?/9. 
 
-# Captain Car: 0/9. 
+# Captain Car: ?/9. 
 
-# Celia: 0/9. 
+# Celia: ?/9. 
 
-# Character of a Happy Life: 0/9. 
+# Character of a Happy Life: ?/9. 
 
-# Character of the Happy Warrior: 0/9. 
+# Character of the Happy Warrior: ?/9. 
 
-# Charlie Is My Darling: 0/9. 
+# Charlie Is My Darling: ?/9. 
 
-# Cheer Up, My Mates: 0/9. 
+# Cheer Up, My Mates: ?/9. 
 
-# Cherry-ripe: 0/9. 
+# Cherry-ripe: ?/9. 
 
-# Cherry-Ripe: 0/9. 
+# Cherry-Ripe: ?/9. 
 
-# Chevy Chase: 0/9. 
+# Chevy Chase: ?/9. 
 
-# Childe Harold's Pilgrimage: Canto the First: 0/9. 
+# Childe Harold's Pilgrimage: Canto the First: ?/9. 
 
-# Children: 0/9. 
+# Children: ?/9. 
 
-# Chloris: 0/9. 
+# Chloris: ?/9. 
 
-# Chorus from 'Atalanta': 0/9. 
+# Chorus from 'Atalanta': ?/9. 
 
-# Christabel: 0/9. 
+# Christabel: ?/9. 
 
-# Christabel: Part the First. 0/9. 
+# Christabel: Part the First. ?/9. 
 
-# Christabel: Part the Second. 0/9. 
+# Christabel: Part the Second. ?/9. 
 
-# Cliff Klingenhagen: 0/9. 
+# Cliff Klingenhagen: ?/9. 
 
-# Cloe: 0/9. 
+# Cloe: ?/9. 
 
-# Cold's the Wind: 0/9. 
+# Cold's the Wind: ?/9. 
 
-# Come Under My Plaidie: 0/9. 
+# Come Under My Plaidie: ?/9. 
 
-# Complaint of the Absence of Her Lover Being upon the Sea: 0/9. 
+# Complaint of the Absence of Her Lover Being upon the Sea: ?/9. 
 
-# Composed at Neidpath Castle, the Property of Lord Queensberry: 0/9. 
+# Composed at Neidpath Castle, the Property of Lord Queensberry: ?/9. 
 
-# Concerning the Philosophers Stone: 0/9. 
+# Concerning the Philosophers Stone: ?/9. 
 
-# Concord Hymn: 0/9. 
+# Concord Hymn: ?/9. 
 
-# Confessio Amantis: Incipit Liber Primus. 0/9. 
+# Confessio Amantis: Incipit Liber Primus. ?/9. 
 
-# Connent: 0/9. 
+# Connent: ?/9. 
 
-# Content and Resolute: 0/9. 
+# Content and Resolute: ?/9. 
 
-# Contentment: 0/9. 
+# Contentment: ?/9. 
 
-# Corinna to Tanagra, from Athens: 0/9. 
+# Corinna to Tanagra, from Athens: ?/9. 
 
-# Corinna's Maying: 0/9. 
+# Corinna's Maying: ?/9. 
 
-# Coronach: 0/9. 
+# Coronach: ?/9. 
 
-# Country Glee: 0/9. 
+# Country Glee: ?/9. 
 
-# Crabbed Age and Youth: 0/9. 
+# Crabbed Age and Youth: ?/9. 
 
-# Cristina: 0/9. 
+# Cristina: ?/9. 
 
-# Crossing the Bar: 0/9. 
+# Crossing the Bar: ?/9. 
 
-# Cupid and Campaspe: 0/9. 
+# Cupid and Campaspe: ?/9. 
 
-# Darkness: 0/9. 
+# Darkness: ?/9. 
 
-# Datur Hora Quieti: 0/9. 
+# Datur Hora Quieti: ?/9. 
 
-# Dawn Song: 0/9. 
+# Dawn Song: ?/9. 
 
-# Dawn Song: 0/9. 
+# Dawn Song: ?/9. 
 
-# Days: 0/9. 
+# Days: ?/9. 
 
-# Dear Heart Why Will You Use Me So?: 0/9. 
+# Dear Heart Why Will You Use Me So?: ?/9. 
 
-# Death: 0/9. 
+# Death: ?/9. 
 
-# Death Stands Above Me: 0/9. 
+# Death Stands Above Me: ?/9. 
 
-# Dedication of the Ring and the Book: 0/9. 
+# Dedication of the Ring and the Book: ?/9. 
 
-# Dejection: an Ode: 0/9. 
+# Dejection: an Ode: ?/9. 
 
-# Departure: 0/9. 
+# Departure: ?/9. 
 
-# Description of Paradise: Paradise Lost Book IV: 0/9. 
+# Description of Paradise: Paradise Lost Book IV: ?/9. 
 
-# Desideria: 0/9. 
+# Desideria: ?/9. 
 
-# Diaphenia: 0/9. 
+# Diaphenia: ?/9. 
 
-# Dido's Appeal to Aeneas and Her Death: Book IV: 0/9. 
+# Dido's Appeal to Aeneas and Her Death: Book IV: ?/9. 
 
-# Dirce: 0/9. 
+# Dirce: ?/9. 
 
-# Dirge of Love: 0/9. 
+# Dirge of Love: ?/9. 
 
-# Disabled: 0/9. 
+# Disabled: ?/9. 
 
-# Do You Remember Me?: 0/9. 
+# Do You Remember Me?: ?/9. 
 
-# Don Juan: Canto the First: 0/9. 
+# Don Juan: Canto the First: ?/9. 
 
-# Dover Beach: 0/9. 
+# Dover Beach: ?/9. 
 
-# Dover Cliffs: 0/9. 
+# Dover Cliffs: ?/9. 
 
-# Dreams: 0/9. 
+# Dreams: ?/9. 
 
-# Drinking: 0/9. 
+# Drinking: ?/9. 
 
-# Drinking Song: 0/9. 
+# Drinking Song: ?/9. 
 
-# Drummer Hodge: 0/9. 
+# Drummer Hodge: ?/9. 
 
-# Dulce Et Decorum Est: 0/9. 
+# Dulce Et Decorum Est: ?/9. 
 
-# Easter: 0/9. 
+# Easter: ?/9. 
 
-# Easter Song: 0/9. 
+# Easter Song: ?/9. 
 
-# Ecce Puer: 0/9. 
+# Ecce Puer: ?/9. 
 
-# Echo: 0/9. 
+# Echo: ?/9. 
 
-# Eclogue I: 0/9. 
+# Eclogue I: ?/9. 
 
-# Eclogue III: 0/9. 
+# Eclogue III: ?/9. 
 
-# Eclogue X: 0/9. 
+# Eclogue X: ?/9. 
 
-# Edmund's 'Now Gods Stand Up for Bastards' Speech (King Lear): 0/9. 
+# Edmund's 'Now Gods Stand Up for Bastards' Speech (King Lear): ?/9. 
 
-# Edward: 0/9. 
+# Edward: ?/9. 
 
-# Eighteenth Sonnet: 0/9. 
+# Eighteenth Sonnet: ?/9. 
 
-# Eighty-seventh Sonnet: 0/9. 
+# Eighty-seventh Sonnet: ?/9. 
 
-# Elegy: 0/9. 
+# Elegy: ?/9. 
 
-# Elegy on Thyrza: 0/9. 
+# Elegy on Thyrza: ?/9. 
 
-# Elegy Written in a Country Churchyard: 0/9. 
+# Elegy Written in a Country Churchyard: ?/9. 
 
-# Eleu Loro: 0/9. 
+# Eleu Loro: ?/9. 
 
-# Elizabeth of Bohemia: 0/9. 
+# Elizabeth of Bohemia: ?/9. 
 
-# Endymion Book I.: 0/9. 
+# Endymion Book I.: ?/9. 
 
-# England and Switzerland: 0/9. 
+# England and Switzerland: ?/9. 
 
-# England, My England: 0/9. 
+# England, My England: ?/9. 
 
-# Enid's Song: 0/9. 
+# Enid's Song: ?/9. 
 
-# Epigram: 0/9. 
+# Epigram: ?/9. 
 
-# Epilogue: 0/9. 
+# Epilogue: ?/9. 
 
-# Epistle to Augusta: 0/9. 
+# Epistle to Augusta: ?/9. 
 
-# Epitaph on Charles II: 0/9. 
+# Epitaph on Charles II: ?/9. 
 
-# Epitaph on Elizabeth L: H.. 0/9. 
+# Epitaph on Elizabeth L: H.. ?/9. 
 
-# Epithalamion: 0/9. 
+# Epithalamion: ?/9. 
 
-# Epode: 0/9. 
+# Epode: ?/9. 
 
-# Ethiopia Saluting the Colors: 0/9. 
+# Ethiopia Saluting the Colors: ?/9. 
 
-# Evangeline: 0/9. 
+# Evangeline: ?/9. 
 
-# Evelyn Hope: 0/9. 
+# Evelyn Hope: ?/9. 
 
-# Evil Be Thou My Good Extract: Paradise Lost Book IV: 0/9. 
+# Evil Be Thou My Good Extract: Paradise Lost Book IV: ?/9. 
 
-# Exposure: 0/9. 
+# Exposure: ?/9. 
 
-# Faerie Queene: Book I: The Legend of the Knight of the Red Crosse. Canto I. 0/9. 
+# Faerie Queene: Book I: The Legend of the Knight of the Red Crosse. Canto I. ?/9. 
 
-# Fair Ines: 0/9. 
+# Fair Ines: ?/9. 
 
-# Fair Is My Love: 0/9. 
+# Fair Is My Love: ?/9. 
 
-# Faith is a fine invention: 0/9. 
+# Faith is a fine invention: ?/9. 
 
-# Famous Description of Cleopatra on the Barge (Anthony and Cleopatra): 0/9. 
+# Famous Description of Cleopatra on the Barge (Anthony and Cleopatra): ?/9. 
 
-# Fancy: 0/9. 
+# Fancy: ?/9. 
 
-# Fare Thee Well: 0/9. 
+# Fare Thee Well: ?/9. 
 
-# Farewell, Rewards and Fairies: 0/9. 
+# Farewell, Rewards and Fairies: ?/9. 
 
-# Fidele: 0/9. 
+# Fidele: ?/9. 
 
-# Fidele's Dirge: 0/9. 
+# Fidele's Dirge: ?/9. 
 
-# Fifty-fifth Sonnet: 0/9. 
+# Fifty-fifth Sonnet: ?/9. 
 
-# Fifty-fourth Sonnet: 0/9. 
+# Fifty-fourth Sonnet: ?/9. 
 
-# Fifty-seventh Sonnet: 0/9. 
+# Fifty-seventh Sonnet: ?/9. 
 
-# Flower in the Crannied Wall: 0/9. 
+# Flower in the Crannied Wall: ?/9. 
 
-# Follow thy Fair Sun: 0/9. 
+# Follow thy Fair Sun: ?/9. 
 
-# Follow your Saint: 0/9. 
+# Follow your Saint: ?/9. 
 
-# Footsteps of Angels: 0/9. 
+# Footsteps of Angels: ?/9. 
 
-# For an Epitaph at Fiesole: 0/9. 
+# For an Epitaph at Fiesole: ?/9. 
 
-# For Annie: 0/9. 
+# For Annie: ?/9. 
 
-# For Lack of Gold: 0/9. 
+# For Lack of Gold: ?/9. 
 
-# For Music: 0/9. 
+# For Music: ?/9. 
 
-# For the Magdalene: 0/9. 
+# For the Magdalene: ?/9. 
 
-# Fortune Befirends the Bold: Book X: 0/9. 
+# Fortune Befirends the Bold: Book X: ?/9. 
 
-# Fra Lippo Lippi: 0/9. 
+# Fra Lippo Lippi: ?/9. 
 
-# Freedom and Love: 0/9. 
+# Freedom and Love: ?/9. 
 
-# Futility: 0/9. 
+# Futility: ?/9. 
 
-# Gathering Song of Donald the Black: 0/9. 
+# Gathering Song of Donald the Black: ?/9. 
 
-# Gaunt's 'This England' Speech (Richard II): 0/9. 
+# Gaunt's 'This England' Speech (Richard II): ?/9. 
 
-# Genius in Beauty: 0/9. 
+# Genius in Beauty: ?/9. 
 
-# Georgic I: 0/9. 
+# Georgic I: ?/9. 
 
-# Georgic IV: 0/9. 
+# Georgic IV: ?/9. 
 
-# Get Up and Bar the Door: 0/9. 
+# Get Up and Bar the Door: ?/9. 
 
-# Gifts: 0/9. 
+# Gifts: ?/9. 
 
-# Give All to Love: 0/9. 
+# Give All to Love: ?/9. 
 
-# Give Me More Love: 0/9. 
+# Give Me More Love: ?/9. 
 
-# Give Me the Splendid Silent Sun: 0/9. 
+# Give Me the Splendid Silent Sun: ?/9. 
 
-# Glengariff: 0/9. 
+# Glengariff: ?/9. 
 
-# Gloomy Winter's Now Awa': 0/9. 
+# Gloomy Winter's Now Awa': ?/9. 
 
-# Go, Lovely Rose!: 0/9. 
+# Go, Lovely Rose!: ?/9. 
 
-# Goblin Market: 0/9. 
+# Goblin Market: ?/9. 
 
-# Good-Bye: 0/9. 
+# Good-Bye: ?/9. 
 
-# Great Spirits Now on Earth Are Sojourning: 0/9. 
+# Great Spirits Now on Earth Are Sojourning: ?/9. 
 
-# Hame, Hame, Hame: 0/9. 
+# Hame, Hame, Hame: ?/9. 
 
-# Hamlet's 'To Be or Not to Be' Speech: 0/9. 
+# Hamlet's 'To Be or Not to Be' Speech: ?/9. 
 
-# Handsome Nell: 0/9. 
+# Handsome Nell: ?/9. 
 
-# Hap: 0/9. 
+# Hap: ?/9. 
 
-# Happiness: 0/9. 
+# Happiness: ?/9. 
 
-# Happy Insensibility: 0/9. 
+# Happy Insensibility: ?/9. 
 
-# Harp of the North, Farewell!: 0/9. 
+# Harp of the North, Farewell!: ?/9. 
 
-# He's Ower the Hills That I Lo'e Weel: 0/9. 
+# He's Ower the Hills That I Lo'e Weel: ?/9. 
 
-# Heart's Compass: 0/9. 
+# Heart's Compass: ?/9. 
 
-# Heart's Hope: 0/9. 
+# Heart's Hope: ?/9. 
 
-# Heaven — is what I cannot reach!: 0/9. 
+# Heaven — is what I cannot reach!: ?/9. 
 
-# Heaven has different Signs — to me: 0/9. 
+# Heaven has different Signs — to me: ?/9. 
 
-# Hector's Farewell of His Wife Andromache and Son: Book VI: 0/9. 
+# Hector's Farewell of His Wife Andromache and Son: Book VI: ?/9. 
 
-# Hellas: 0/9. 
+# Hellas: ?/9. 
 
-# Henry V's 'Once More unto the Breach' Speech: 0/9. 
+# Henry V's 'Once More unto the Breach' Speech: ?/9. 
 
-# Her Gifts: 0/9. 
+# Her Gifts: ?/9. 
 
-# Her Reply (Written by Sir Walter Raleigh): 0/9. 
+# Her Reply (Written by Sir Walter Raleigh): ?/9. 
 
-# Heraclitus: 0/9. 
+# Heraclitus: ?/9. 
 
-# Here's a Health to King Charles: 0/9. 
+# Here's a Health to King Charles: ?/9. 
 
-# Heredity: 0/9. 
+# Heredity: ?/9. 
 
-# Hester: 0/9. 
+# Hester: ?/9. 
 
-# Highland Mary: 0/9. 
+# Highland Mary: ?/9. 
 
-# Hind Horn: 0/9. 
+# Hind Horn: ?/9. 
 
-# His Pilgrimage: 0/9. 
+# His Pilgrimage: ?/9. 
 
-# His Supposed Mistress: 0/9. 
+# His Supposed Mistress: ?/9. 
 
-# Hohenlinden: 0/9. 
+# Hohenlinden: ?/9. 
 
-# Holy Thursday: 0/9. 
+# Holy Thursday: ?/9. 
 
-# Home They Brought Her Warrior Dead: 0/9. 
+# Home They Brought Her Warrior Dead: ?/9. 
 
-# Home-thoughts, from Abroad: 0/9. 
+# Home-thoughts, from Abroad: ?/9. 
 
-# Home-thoughts, from the Sea: 0/9. 
+# Home-thoughts, from the Sea: ?/9. 
 
-# Hope is the thing with feathers: 0/9. 
+# Hope is the thing with feathers: ?/9. 
 
-# Horatian Ode upon Cromwell's Return from Ireland: 0/9. 
+# Horatian Ode upon Cromwell's Return from Ireland: ?/9. 
 
-# How Love Looked for Hell: 0/9. 
+# How Love Looked for Hell: ?/9. 
 
-# How They Brought the Good News from Ghent to Aix [16 — ]: 0/9. 
+# How They Brought the Good News from Ghent to Aix [16 — ]: ?/9. 
 
-# Hugh of Lincoln: 0/9. 
+# Hugh of Lincoln: ?/9. 
 
-# Human Folly: 0/9. 
+# Human Folly: ?/9. 
 
-# Hunting Song: 0/9. 
+# Hunting Song: ?/9. 
 
-# Hymn: 0/9. 
+# Hymn: ?/9. 
 
-# Hymn Before Sunrise, in the Vale of Chamouni: 0/9. 
+# Hymn Before Sunrise, in the Vale of Chamouni: ?/9. 
 
-# Hymn of Pan: 0/9. 
+# Hymn of Pan: ?/9. 
 
-# Hymn to Adversity: 0/9. 
+# Hymn to Adversity: ?/9. 
 
-# Hymn to Aphrodite: 0/9. 
+# Hymn to Aphrodite: ?/9. 
 
-# Hymn to Diana: 0/9. 
+# Hymn to Diana: ?/9. 
 
-# Hymn to the Night: 0/9. 
+# Hymn to the Night: ?/9. 
 
-# Hymn to the Spirit of Nature: 0/9. 
+# Hymn to the Spirit of Nature: ?/9. 
 
-# I Fear Thy Kisses: 0/9. 
+# I Fear Thy Kisses: ?/9. 
 
-# I Know The Music: 0/9. 
+# I Know The Music: ?/9. 
 
-# I Lo'ed Ne'er a Laddie but Ane: 0/9. 
+# I Lo'ed Ne'er a Laddie but Ane: ?/9. 
 
-# I Loved a Lass: 0/9. 
+# I Loved a Lass: ?/9. 
 
-# If Doughty Deeds: 0/9. 
+# If Doughty Deeds: ?/9. 
 
-# In a London Square: 0/9. 
+# In a London Square: ?/9. 
 
-# In the Highlands: 0/9. 
+# In the Highlands: ?/9. 
 
-# In the Round Tower at Jhansi: 0/9. 
+# In the Round Tower at Jhansi: ?/9. 
 
-# In the Valley of Cauteretz: 0/9. 
+# In the Valley of Cauteretz: ?/9. 
 
-# In Time of 'The Breaking of Nations': 0/9. 
+# In Time of 'The Breaking of Nations': ?/9. 
 
-# In Time of Pestilence: 0/9. 
+# In Time of Pestilence: ?/9. 
 
-# Integer Vitae: 0/9. 
+# Integer Vitae: ?/9. 
 
-# Invictus: 0/9. 
+# Invictus: ?/9. 
 
-# Invocation: 0/9. 
+# Invocation: ?/9. 
 
-# Iphigeneia: 0/9. 
+# Iphigeneia: ?/9. 
 
-# Itylus: 0/9. 
+# Itylus: ?/9. 
 
-# Jaques' 'All the World's a Stage' Speech (As You Like It): 0/9. 
+# Jaques' 'All the World's a Stage' Speech (As You Like It): ?/9. 
 
-# Jenny Kiss'd Me: 0/9. 
+# Jenny Kiss'd Me: ?/9. 
 
-# Jerusalem: Chapter I.: 0/9. 
+# Jerusalem: Chapter I.: ?/9. 
 
-# Jessie, the Flower o' Dunblane: 0/9. 
+# Jessie, the Flower o' Dunblane: ?/9. 
 
-# Joan of Arc: The First Book.. 0/9. 
+# Joan of Arc: The First Book.. ?/9. 
 
-# Jock of Hazeldean: 0/9. 
+# Jock of Hazeldean: ?/9. 
 
-# John Anderson My Jo: 0/9. 
+# John Anderson My Jo: ?/9. 
 
-# Johnie Armstrong: 0/9. 
+# Johnie Armstrong: ?/9. 
 
-# June: 0/9. 
+# June: ?/9. 
 
-# Key Passages from 'The Odyssey': 0/9. 
+# Key Passages from 'The Odyssey': ?/9. 
 
-# Killed at the Ford: 0/9. 
+# Killed at the Ford: ?/9. 
 
-# Kilmeny: 0/9. 
+# Kilmeny: ?/9. 
 
-# Kinmont Willie: 0/9. 
+# Kinmont Willie: ?/9. 
 
-# Know, Celia: 0/9. 
+# Know, Celia: ?/9. 
 
-# Kubla Khan: 0/9. 
+# Kubla Khan: ?/9. 
 
-# La Belle Dame Sans Merci: 0/9. 
+# La Belle Dame Sans Merci: ?/9. 
 
-# Lament for Flodden: 0/9. 
+# Lament for Flodden: ?/9. 
 
-# Lament of the Irish Emigrant: 0/9. 
+# Lament of the Irish Emigrant: ?/9. 
 
-# Laodamia: 0/9. 
+# Laodamia: ?/9. 
 
-# Last Lines: 0/9. 
+# Last Lines: ?/9. 
 
-# Last Sonnet: Bright Star! would I were steadfast as thou art: 0/9. 
+# Last Sonnet: Bright Star! would I were steadfast as thou art: ?/9. 
 
-# Lear and the Fool on the Heath (King Lear): 0/9. 
+# Lear and the Fool on the Heath (King Lear): ?/9. 
 
-# Leda And The Swan: 0/9. 
+# Leda And The Swan: ?/9. 
 
-# Lenore: 0/9. 
+# Lenore: ?/9. 
 
-# Let Us Drink and Be Merry: 0/9. 
+# Let Us Drink and Be Merry: ?/9. 
 
-# Letty's Globe: 0/9. 
+# Letty's Globe: ?/9. 
 
-# Life: 0/9. 
+# Life: ?/9. 
 
-# Life: 0/9. 
+# Life: ?/9. 
 
-# Life: 0/9. 
+# Life: ?/9. 
 
-# Like as the Culver, on the Bared Bough: 0/9. 
+# Like as the Culver, on the Bared Bough: ?/9. 
 
-# Lines: 0/9. 
+# Lines: ?/9. 
 
-# Lines to an Indian Air: 0/9. 
+# Lines to an Indian Air: ?/9. 
 
-# Lines to Fanny: 0/9. 
+# Lines to Fanny: ?/9. 
 
-# Liz: 0/9. 
+# Liz: ?/9. 
 
-# Lochinvar: 0/9. 
+# Lochinvar: ?/9. 
 
-# Lock the Door, Lariston: 0/9. 
+# Lock the Door, Lariston: ?/9. 
 
-# Locksley Hall: 0/9. 
+# Locksley Hall: ?/9. 
 
-# Logie o' Buchan: 0/9. 
+# Logie o' Buchan: ?/9. 
 
-# London, MDCCCII: 0/9. 
+# London, MDCCCII: ?/9. 
 
-# London, September, 1855: 0/9. 
+# London, September, 1855: ?/9. 
 
-# Longing: 0/9. 
+# Longing: ?/9. 
 
-# Lord Thomas and Fair Annet: 0/9. 
+# Lord Thomas and Fair Annet: ?/9. 
 
-# Lord Ullin's Daughter: 0/9. 
+# Lord Ullin's Daughter: ?/9. 
 
-# Loss of the Royal George: 0/9. 
+# Loss of the Royal George: ?/9. 
 
-# Love: 0/9. 
+# Love: ?/9. 
 
-# Love: 0/9. 
+# Love: ?/9. 
 
-# Love Gregor: 0/9. 
+# Love Gregor: ?/9. 
 
-# Love in Her Eyes Sits Playing: 0/9. 
+# Love in Her Eyes Sits Playing: ?/9. 
 
-# Love in the Valley: 0/9. 
+# Love in the Valley: ?/9. 
 
-# Love Thou Thy Land: 0/9. 
+# Love Thou Thy Land: ?/9. 
 
-# Love Will Find Out the Way: 0/9. 
+# Love Will Find Out the Way: ?/9. 
 
-# Love's Deity: 0/9. 
+# Love's Deity: ?/9. 
 
-# Love's Farewell: 0/9. 
+# Love's Farewell: ?/9. 
 
-# Love's Omnipresence: 0/9. 
+# Love's Omnipresence: ?/9. 
 
-# Love's Perjuries: 0/9. 
+# Love's Perjuries: ?/9. 
 
-# Love's Philosophy: 0/9. 
+# Love's Philosophy: ?/9. 
 
-# Love's Secret: 0/9. 
+# Love's Secret: ?/9. 
 
-# Lover's Infiniteness: 0/9. 
+# Lover's Infiniteness: ?/9. 
 
-# Lovesight: 0/9. 
+# Lovesight: ?/9. 
 
-# Love-Sweetness: 0/9. 
+# Love-Sweetness: ?/9. 
 
-# Lucy: 0/9. 
+# Lucy: ?/9. 
 
-# Lucy Ashton's Song: 0/9. 
+# Lucy Ashton's Song: ?/9. 
 
-# Lullaby: 0/9. 
+# Lullaby: ?/9. 
 
-# Lycidas: 0/9. 
+# Lycidas: ?/9. 
 
-# Macbeth's 'To-morrow' Speech: 0/9. 
+# Macbeth's 'To-morrow' Speech: ?/9. 
 
-# Madrigal: 0/9. 
+# Madrigal: ?/9. 
 
-# Maid of Athens: 0/9. 
+# Maid of Athens: ?/9. 
 
-# Margaritæ Sorori: 0/9. 
+# Margaritæ Sorori: ?/9. 
 
-# Mary Hamilton: 0/9. 
+# Mary Hamilton: ?/9. 
 
-# Massachusetts to Virginia: 0/9. 
+# Massachusetts to Virginia: ?/9. 
 
-# Master Francis Beaumont's Letter to Ben Jonson: 0/9. 
+# Master Francis Beaumont's Letter to Ben Jonson: ?/9. 
 
-# Maud Muller: 0/9. 
+# Maud Muller: ?/9. 
 
-# Maud: Part I. 0/9. 
+# Maud: Part I. ?/9. 
 
-# Maud: Part II. 0/9. 
+# Maud: Part II. ?/9. 
 
-# Melancholy: 0/9. 
+# Melancholy: ?/9. 
 
-# Memorabilia: 0/9. 
+# Memorabilia: ?/9. 
 
-# Memorial Verses: 0/9. 
+# Memorial Verses: ?/9. 
 
-# Mental Cases: 0/9. 
+# Mental Cases: ?/9. 
 
-# Michael: 0/9. 
+# Michael: ?/9. 
 
-# Mimnermus in Church: 0/9. 
+# Mimnermus in Church: ?/9. 
 
-# Miniver Cheevy: 0/9. 
+# Miniver Cheevy: ?/9. 
 
-# Modern Love: 0/9. 
+# Modern Love: ?/9. 
 
-# Morte d'Arthur: 0/9. 
+# Morte d'Arthur: ?/9. 
 
-# Mother, I Cannot Mind My Wheel: 0/9. 
+# Mother, I Cannot Mind My Wheel: ?/9. 
 
-# Mr: Flood's Party. 0/9. 
+# Mr: Flood's Party. ?/9. 
 
-# Music, When Soft Voices Die: 0/9. 
+# Music, When Soft Voices Die: ?/9. 
 
-# My Dear and Only Love: 0/9. 
+# My Dear and Only Love: ?/9. 
 
-# My Garden: 0/9. 
+# My Garden: ?/9. 
 
-# My Heart Leaps Up: 0/9. 
+# My Heart Leaps Up: ?/9. 
 
-# My Heart's In The Highlands: 0/9. 
+# My Heart's In The Highlands: ?/9. 
 
-# My Last Duchess: 0/9. 
+# My Last Duchess: ?/9. 
 
-# My Lost Youth: 0/9. 
+# My Lost Youth: ?/9. 
 
-# My Love Is in a Light Attire: 0/9. 
+# My Love Is in a Light Attire: ?/9. 
 
-# My Mind to Me a Kingdom Is: 0/9. 
+# My Mind to Me a Kingdom Is: ?/9. 
 
-# My Mother Bids Me Bind My Hair: 0/9. 
+# My Mother Bids Me Bind My Hair: ?/9. 
 
-# Nature and the Poet: 0/9. 
+# Nature and the Poet: ?/9. 
 
-# Nature is what we see: 0/9. 
+# Nature is what we see: ?/9. 
 
-# Never the Time and the Place: 0/9. 
+# Never the Time and the Place: ?/9. 
 
-# Night: 0/9. 
+# Night: ?/9. 
 
-# Ninetieth Sonnet: 0/9. 
+# Ninetieth Sonnet: ?/9. 
 
-# Ninety-eighth Sonnet: 0/9. 
+# Ninety-eighth Sonnet: ?/9. 
 
-# Ninety-fourth Sonnet: 0/9. 
+# Ninety-fourth Sonnet: ?/9. 
 
-# Ninety-seventh Sonnet: 0/9. 
+# Ninety-seventh Sonnet: ?/9. 
 
-# No, My Own Love: 0/9. 
+# No, My Own Love: ?/9. 
 
-# Now Sleeps the Crimson Petal: 0/9. 
+# Now Sleeps the Crimson Petal: ?/9. 
 
-# Nox Nocti Indicat Scientiam: 0/9. 
+# Nox Nocti Indicat Scientiam: ?/9. 
 
-# Nurse's Song: 0/9. 
+# Nurse's Song: ?/9. 
 
-# O Captain! My Captain!: 0/9. 
+# O Captain! My Captain!: ?/9. 
 
-# O It Was Out by Donnycarney: 0/9. 
+# O It Was Out by Donnycarney: ?/9. 
 
-# O Mistress Mine: 0/9. 
+# O Mistress Mine: ?/9. 
 
-# O Swallow, Swallow: 0/9. 
+# O Swallow, Swallow: ?/9. 
 
-# O Sweet Content: 0/9. 
+# O Sweet Content: ?/9. 
 
-# Ode: 0/9. 
+# Ode: ?/9. 
 
-# Ode 1.5 Quis multa gracilis.: 0/9. 
+# Ode 1.5 Quis multa gracilis.: ?/9. 
 
-# Ode I.11 Tu ne quaesieris: ('The Carpe Diem Poem'). 0/9. 
+# Ode I.11 Tu ne quaesieris: ('The Carpe Diem Poem'). ?/9. 
 
-# Ode III.2: Angustam amice. “It is sweet and honorable to die for one's country.”. 0/9. 
+# Ode III.2: Angustam amice. “It is sweet and honorable to die for one's country.”. ?/9. 
 
-# Ode on a Distant Prospect of Eton College: 0/9. 
+# Ode on a Distant Prospect of Eton College: ?/9. 
 
-# Ode on a Grecian Urn: 0/9. 
+# Ode on a Grecian Urn: ?/9. 
 
-# Ode on Intimations of Immortality from Recollections of Early Childhood: 0/9. 
+# Ode on Intimations of Immortality from Recollections of Early Childhood: ?/9. 
 
-# Ode on Melancholy: 0/9. 
+# Ode on Melancholy: ?/9. 
 
-# Ode on the Pleasure Arising from Vicissitude: 0/9. 
+# Ode on the Pleasure Arising from Vicissitude: ?/9. 
 
-# Ode on the Poets: 0/9. 
+# Ode on the Poets: ?/9. 
 
-# Ode on the Spring: 0/9. 
+# Ode on the Spring: ?/9. 
 
-# Ode Recited at the Harvard Commemoration: 0/9. 
+# Ode Recited at the Harvard Commemoration: ?/9. 
 
-# Ode to a Nightingale: 0/9. 
+# Ode to a Nightingale: ?/9. 
 
-# Ode to Autumn: 0/9. 
+# Ode to Autumn: ?/9. 
 
-# Ode to Duty: 0/9. 
+# Ode to Duty: ?/9. 
 
-# Ode to Psyche: 0/9. 
+# Ode to Psyche: ?/9. 
 
-# Ode to the North-east Wind: 0/9. 
+# Ode to the North-east Wind: ?/9. 
 
-# Ode To the Pious Memory of the accomplished young lady, Mrs: Anne Killigrew, excellent in the two sister arts of Poesy and Painting. 0/9. 
+# Ode To the Pious Memory of the accomplished young lady, Mrs: Anne Killigrew, excellent in the two sister arts of Poesy and Painting. ?/9. 
 
-# Ode to the West Wind: 0/9. 
+# Ode to the West Wind: ?/9. 
 
-# Ode to Winter: 0/9. 
+# Ode to Winter: ?/9. 
 
-# Ode Written in MDCCXLVI: 0/9. 
+# Ode Written in MDCCXLVI: ?/9. 
 
-# Odysseus' Visit to the Underworld: Book VI: 0/9. 
+# Odysseus' Visit to the Underworld: Book VI: ?/9. 
 
-# Old Ironsides: 0/9. 
+# Old Ironsides: ?/9. 
 
-# On a Certain Lady at Court (Henrietta Howard, Countess of Suffolk): 0/9. 
+# On a Certain Lady at Court (Henrietta Howard, Countess of Suffolk): ?/9. 
 
-# On a Favourite Cat, Drowned in a Tub of Gold Fishes: 0/9. 
+# On a Favourite Cat, Drowned in a Tub of Gold Fishes: ?/9. 
 
-# On a Girdle: 0/9. 
+# On a Girdle: ?/9. 
 
-# On an Infant Dying as Soon as Born: 0/9. 
+# On an Infant Dying as Soon as Born: ?/9. 
 
-# On First Looking into Chapman's Homer: 0/9. 
+# On First Looking into Chapman's Homer: ?/9. 
 
-# On His Seventy-Fifth Birthday: 0/9. 
+# On His Seventy-Fifth Birthday: ?/9. 
 
-# On Living Too Long: 0/9. 
+# On Living Too Long: ?/9. 
 
-# On Lucretia Borgia's Hair: 0/9. 
+# On Lucretia Borgia's Hair: ?/9. 
 
-# On Lucy, Countess of Bedford: 0/9. 
+# On Lucy, Countess of Bedford: ?/9. 
 
-# On Milton: 0/9. 
+# On Milton: ?/9. 
 
-# On Parent Knees a Naked New-born Child: 0/9. 
+# On Parent Knees a Naked New-born Child: ?/9. 
 
-# On Salathiel Pavy: 0/9. 
+# On Salathiel Pavy: ?/9. 
 
-# On Shakespeare: 0/9. 
+# On Shakespeare: ?/9. 
 
-# On the Castle of Chillon: 0/9. 
+# On the Castle of Chillon: ?/9. 
 
-# On the Countess Dowager of Pembroke: 0/9. 
+# On the Countess Dowager of Pembroke: ?/9. 
 
-# On the Death of a Young Lady (Cousin to the Author, and very dear to him): 0/9. 
+# On the Death of a Young Lady (Cousin to the Author, and very dear to him): ?/9. 
 
-# On the Death of Dr: Robert Levet. 0/9. 
+# On the Death of Dr: Robert Levet. ?/9. 
 
-# On the Death of Mr: William Hervey. 0/9. 
+# On the Death of Mr: William Hervey. ?/9. 
 
-# On the Extinction of the Venetian Republic: 0/9. 
+# On the Extinction of the Venetian Republic: ?/9. 
 
-# On the Grasshopper and Cricket: 0/9. 
+# On the Grasshopper and Cricket: ?/9. 
 
-# On the Last Epiphany (or Christ Coming To Judgment): 0/9. 
+# On the Last Epiphany (or Christ Coming To Judgment): ?/9. 
 
-# On the Morning of Christ's Nativity: 0/9. 
+# On the Morning of Christ's Nativity: ?/9. 
 
-# On the Queen's Return from the Low Countries: 0/9. 
+# On the Queen's Return from the Low Countries: ?/9. 
 
-# On the Receipt of My Mother's Picture out of Norfolk: 0/9. 
+# On the Receipt of My Mother's Picture out of Norfolk: ?/9. 
 
-# On the Tombs in Westminster Abbey: 0/9. 
+# On the Tombs in Westminster Abbey: ?/9. 
 
-# On This Day I Complete My Thirty-Sixth Year: 0/9. 
+# On This Day I Complete My Thirty-Sixth Year: ?/9. 
 
-# One Day I Wrote Her Name Upon the Strand: 0/9. 
+# One Day I Wrote Her Name Upon the Strand: ?/9. 
 
-# One Hundred and Eleventh Sonnet: 0/9. 
+# One Hundred and Eleventh Sonnet: ?/9. 
 
-# One Hundred and Forty-eighth Sonnet: 0/9. 
+# One Hundred and Forty-eighth Sonnet: ?/9. 
 
-# One Hundred and Forty-sixth Sonnet: 0/9. 
+# One Hundred and Forty-sixth Sonnet: ?/9. 
 
-# One Hundred and Fourth Sonnet: 0/9. 
+# One Hundred and Fourth Sonnet: ?/9. 
 
-# One Hundred and Ninth Sonnet: 0/9. 
+# One Hundred and Ninth Sonnet: ?/9. 
 
-# One Hundred and Seventh Sonnet: 0/9. 
+# One Hundred and Seventh Sonnet: ?/9. 
 
-# One Hundred and Sixteenth Sonnet: 0/9. 
+# One Hundred and Sixteenth Sonnet: ?/9. 
 
-# One Hundred and Sixth Sonnet: 0/9. 
+# One Hundred and Sixth Sonnet: ?/9. 
 
-# One Hundred and Tenth Sonnet: 0/9. 
+# One Hundred and Tenth Sonnet: ?/9. 
 
-# One Hundred and Twenty-ninth Sonnet: 0/9. 
+# One Hundred and Twenty-ninth Sonnet: ?/9. 
 
-# One Word is Too Often Profaned: 0/9. 
+# One Word is Too Often Profaned: ?/9. 
 
-# One Word More: 0/9. 
+# One Word More: ?/9. 
 
-# One's-Self I Sing: 0/9. 
+# One's-Self I Sing: ?/9. 
 
-# Opening Invocation of the Muse: Book I: 0/9. 
+# Opening Invocation of the Muse: Book I: ?/9. 
 
-# Opening of the Epic: Book I: 0/9. 
+# Opening of the Epic: Book I: ?/9. 
 
-# Ophelia's Song: 0/9. 
+# Ophelia's Song: ?/9. 
 
-# Othello's 'Put Out the Light' Speech: 0/9. 
+# Othello's 'Put Out the Light' Speech: ?/9. 
 
-# Our Blessed Lady's Lullaby: 0/9. 
+# Our Blessed Lady's Lullaby: ?/9. 
 
-# Ozymandias of Egypt: 0/9. 
+# Ozymandias of Egypt: ?/9. 
 
-# Pack, Clouds, Away: 0/9. 
+# Pack, Clouds, Away: ?/9. 
 
-# Paradise Lost: Book 1: 0/9. 
+# Paradise Lost: Book 1: ?/9. 
 
-# Paris and Œnone: 0/9. 
+# Paris and Œnone: ?/9. 
 
-# Parting at Morning: 0/9. 
+# Parting at Morning: ?/9. 
 
 
