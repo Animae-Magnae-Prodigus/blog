@@ -55,3 +55,4 @@ Big letters, foreign terms, and slangs jumped out out of nowhere from time to ti
 Also, I don’t like the first-person perspective with so much psychological exposition. I understand the writer’s effort to make readers connect with these characters, but it just felt nauseating, because I don't want to read about how they want to rape a drunk woman, or dream about a dying girl. I think if you want readers to admire a character, you shouldn't write their psychological state directly. Instead, you should write from the perspective of other side characters, such as people who admire them, or just use side characters to contrast and highlight their traits.
 
 But all in all, I don’t regret reading it. I like its worldbuilding and its plots a bit, but I don’t like how it’s presented—especially the two main characters.
+
