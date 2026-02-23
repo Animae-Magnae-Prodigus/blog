@@ -3,7 +3,8 @@ title: "Review ?/9 | Author - Title"
 tags: Tags
 ---
 
-# Voice, narration and structure: ?/9.
+# Character, dialogue and interaction: ?/9. 
+
 
 
 
@@ -11,7 +12,8 @@ tags: Tags
 
 
 
-# Character, dialogue and interaction: ?/9. 
+# Theme, conflict, and impact: ?/9. 
+
 
 
 
@@ -19,7 +21,4 @@ tags: Tags
 
 
 
-# Theme, conflict, and influence: ?/9. 
-
-
-
+# Voice, narration, structure, etc: ?/9.
