@@ -11,7 +11,7 @@ Actually, I didn’t like Holden, because I thought he was the kind of kid who�
 At the same time, Miller is more likable, but not that likable to me, because I didn’t understand anything about him, including his suicidal thoughts.
 
 
-# Plot, suspense and climax: 5/9. I would have given a higher score it had been presented in a tighter and brisker manner.
+# Plot, suspense and climax: 5/9. I would have given a higher score if it had been presented in a tighter and brisker manner.
 Actually, I read this book twice. When I first read it, I found I couldn’t stand the characters. The perspective alternates between the two main protagonists: Holden and Miller. So I just skipped Miller’s parts entirely, because I thought his police work was boring. I only read the chapters from Holden’s point of view.
 Once I finished the book, I realized Miller was actually the more likeable character, because he sacrificed himself like a hero. So I went back to the beginning and reread the whole book—this time, I read all of Miller’s chapters too.
 But I even now don’t regret skipping Miller’s parts the first time since the beginning of his story really was as boring as a nightmare. The police work just felt dull. I’ve seen other writers make police stories very interesting, full of suspense and exciting events, but these writers clearly didn’t manage to show the good and bad sides of police work in an engaging way—even on an alien planet!
