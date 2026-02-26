@@ -41,11 +41,15 @@ Previously, Miller wanted to commit suicide, so he stayed on Eros to fall into t
 So at last the remaining people became heroes, and they went to the TV studio to talk about Miller on the broadcast.
 
 # Theme, conflict, and impact: 4/9. 
+I didn't like authors who dump large amounts of details in an unattractive way just to enrich the world instead of the plots or the characters, because information like these just feels like cheap and unnecessary filler rather than the delicate elaboration of the storyteller.
 
 
 
-# World, wonder, and detail: 7/9. I would have given a higher score if it had been presented in a less obstructive and annoying manner.
+# World, wonder, and detail: 6/9. I would have given a higher score if it had been presented in a less obstructive and annoying manner.
+
 Its world is hardcore, immense and detailed in some aspects, which is great—but I have to say the narration is boring. The way they dump all that worldbuilding detail in such a tedious, repetitive, and lackluster presentation is really problematic.
+
+There is a plot hole I can't stand: Naomi reported that the big array on their Canterbury could directly detect that no body else within 20 million klicks, then why did they, just holding the identity of civilians, waste their time and risk their lives approaching the distress caller? It didn't make any sense! In reality, civilians just need to report and wait instead of approach and board! Holden was just a hotheaded guy from the beginning.
 
 
 
