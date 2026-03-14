@@ -43,15 +43,22 @@ So at last the remaining people became heroes, and they went to the TV studio to
 # Theme, conflict, and impact: 4/9. 
 I didn't like authors who dump large amounts of details in an unattractive way just to enrich the world instead of the plots or the characters, because information like these just feels like cheap and unnecessary filler rather than the delicate elaboration of the storyteller.
 
+The scene where Julie Mao was forced to merge with the protomolecule, and then suddenly regained consciousness just to connect with Miller and solve the problem, felt extremely unrealistic, clichéd and melodramatic. It was almost like a cheesy fairy tale, where a prince wakes a sleeping princess with a kiss. Such a plot felt forced, overly romantic, and far too unrealistic for a so-called hard sci‑fi story.
 
 
-# World, wonder, and detail: 6/9. I would have given a higher score if it had been presented in a less obstructive and annoying manner.
+
+# World, wonder, and detail: 5/9. I would have given a higher score if the writers had presented it in a less obstructive and annoying manner and discreetly avoided its loopholes.
 
 Its world is hardcore, immense and detailed in some aspects, which is great—but I have to say the narration is boring. The way they dump all that worldbuilding detail in such a tedious, repetitive, and lackluster presentation is really problematic.
 
-There is a plot hole I can't stand: Naomi reported that the big array on their Canterbury could directly detect that no body else within 20 million klicks, then why did they, just holding the identity of civilians, waste their time and risk their lives approaching the distress caller? It didn't make any sense! In reality, civilians just need to report and wait instead of approach and board! Holden was just a hotheaded guy from the beginning.
+There are some plot holes I can't stand:
 
-
+ 
+First, Holden's decision to board the Scopuli made little sense. His ship could easily detect no life signs remotely, yet he still sent a shuttle crew anyway. Naomi reported that the big array on their Canterbury could directly detect that there was nobody else within 20 million klicks. So why did they—as civilians—waste their time and risk their lives approaching the distress caller? It did not make any sense! In reality, civilians only needed to report and wait instead of approaching and boarding. This came across as either reckless character writing or forced plot setup.
+ 
+Second, the OPA behaved irrationally. They received Julie Mao's distress signal weeks early, but delayed any real action until Holden and his stolen ship became available. This either painted the OPA as unconcerned, unorganized or cold-hearted, or simply served as plot convenience to wait for the main characters.
+ 
+Third, Julie Mao's choices were the most illogical of all. She was clearly conscious, equipped and capable: She escaped the Anubis, drove a shuttle, flew to Eros, faked her name, avoided the customs, and booked a hotel room. She had money, time and equipment to send a full, detailed message to the OPA or any other superpower about the encountered incident or the future disaster on Eros. Yet she only sent a vague, incomplete beacon. This was the story's most serious logical weakness—driven purely by narrative needs, not real human behavior.
 
 # Voice, narration, structure, etc: 4/9. 
 Big letters, foreign terms, and slangs jumped out out of nowhere from time to time, and they kept interrupting my reading flow. It was completely annoying.
